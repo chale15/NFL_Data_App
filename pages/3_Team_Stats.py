@@ -13,26 +13,16 @@ import streamlit as st
 st.set_page_config(page_title="Team Stats")
 
 @st.cache_data
-def load_name_data():
-    names_file = 'https://www.ssa.gov/oact/babynames/names.zip'
-    response = requests.get(names_file)
-    with zipfile.ZipFile(BytesIO(response.content)) as z:
-        dfs = []
-        files = [file for file in z.namelist() if file.endswith('.txt')]
-        for file in files:
-            with z.open(file) as f:
-                df = pd.read_csv(f, header=None)
-                df.columns = ['name','sex','count']
-                df['year'] = int(file[3:7])
-                dfs.append(df)
-        data = pd.concat(dfs, ignore_index=True)
-    data['pct'] = data['count'] / data.groupby('year')['count'].transform('sum')
-    return data
+def load_wr_data():
+    data_file = 'https://github.com/chale15/NFL_Data/blob/f8b21ec34657411944467c0f4ddc058518e76d46/wr_full.csv'
+    df = pd.read_csv(data_file)
+    return df
+
 
 def get_name():
     val = get_random_name(data)
 
-#data = load_name_data()
+data = load_wr_data()
 
 
 st.markdown("# Team Stats")
