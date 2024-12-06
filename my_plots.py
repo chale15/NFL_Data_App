@@ -326,4 +326,29 @@ def plot_features_over_time(df, features):
     
     return plt
 
+def plot_qb_leaders(df, feature, seasons, top_n=10, width=800, height=600):
+    
+    stats = {'Passing Yards':'YDS', 'Passing Attempts':'ATT', 'Yards per Attempt':'YPA','Completion Percentage':'CMPP', 'Passing Touchdowns':'TDs','Interceptions':'INTs', 'Quarterback Rating':'QBR', 'Sacks':'SCK','Rushing Attempts':'ATT(R)','Rushing Yards':'YDS(R)', 'Yards per Carry':'YPC', 'Rushing Touchdowns':'TDs(R)'}
+    stats2 = dict(zip(stats.values(), stats.keys()))
+    sum_list = ['GP','ATT(R)', 'YDS(R)', 'TDs(R)', 'YDS', 'ATT','TDs', 'INTs', 'SCK']
+
+    df_filtered = df[df['Year'].isin(seasons)]
+
+    if feature in sum_list:
+        df_grouped = df_filtered.groupby('QB')[feature].sum().reset_index()
+    else:
+        df_grouped = df_filtered.groupby('QB')[feature].mean().reset_index()
+
+    df_top_n = df_grouped.sort_values(by=feature, ascending=False).head(top_n)
+
+    fig = px.bar(df_top_n, 
+                 x='QB', 
+                 y=feature, 
+                 title=f"Top {top_n} Quarterbacks by {stats2[feature]} ({', '.join(map(str, seasons))})", 
+                 labels={feature: feature, 'QB': 'Player Name'}, 
+                 )
+    
+    fig.update_layout(width=width, height=height)
+    return fig
+
     
