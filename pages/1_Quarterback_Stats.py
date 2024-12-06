@@ -34,9 +34,9 @@ tab1, tab2, tab3 = st.tabs(['League Trends', 'Stat Leaders', 'Player Comparisons
 with tab1:
     stat = st.selectbox('Choose a stat', 
                         ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
-    with st.sidebar:
-        if stat:
-            st.write(f'Showing {stat} trends')
+    #with st.sidebar:
+        #if stat:
+            #st.write(f'Showing {stat} trends')
 
     chart_placeholder = st.empty()
 
@@ -50,7 +50,21 @@ with tab1:
             st.pyplot(fig)
 
 
-#with tab2:
+with tab2:
+    stat3 = st.selectbox('Choose a stat:', 
+                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
+    year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
+    n_names = st.number_input('Number of Players to Display', value = 5)
+
+    chart_placeholder2 = st.empty()
+
+    stat4 = stats[stat3]
+    fig2 = plot_qb_leaders(data, stat4, year, n_names)
+
+    with chart_placeholder2.container():
+        if stat3:
+            st.markdown(f"<h1 style='text-align: center;'>{stat4} Leaders</h1>", unsafe_allow_html=True)
+            st.plotly_chart(fig2)
     
 
 
