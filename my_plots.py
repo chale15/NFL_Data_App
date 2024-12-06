@@ -422,7 +422,7 @@ def plot_wr_leaders(df, feature, seasons, top_n=10, width=800, height=600):
                  labels={feature: feature, 'Reciever': 'Player Name'}, 
                  )
     
-    #fig.update_layout(width=width, height=height)
+    fig.update_layout(width=width, height=height)
     return fig
 
 def plot_wr_comp(df, feature, years, wrs, width=800, height=600):
@@ -444,7 +444,7 @@ def plot_wr_comp(df, feature, years, wrs, width=800, height=600):
                  labels={feature: feature, 'Reciever': 'Player Name', 'Year': 'Season'},
                  color_discrete_map={wrs[0]: 'blue', wrs[1]: 'lightblue'})
 
-    #fig.update_layout(width=width, height=height)
+    fig.update_layout(width=width, height=height)
 
     return fig
 
