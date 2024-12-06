@@ -24,7 +24,7 @@ stats = {'Receptions':'Receptions', 'Recieving Yards':'REC_YDS', 'Recieving Touc
 
 
 st.markdown("# Reciever Stats")
-st.sidebar.header("Reciever Stats")
+#st.sidebar.header("Reciever Stats")
 st.markdown('*Explore league trends, stat leaders, and player comparisons for NFL recievers!*')
 st.write('')
 
