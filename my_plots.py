@@ -83,29 +83,29 @@ def plot_qb_comp(df, feature, years, qbs, width=800, height=600):
 
     return fig
 
-# def plot_wr_features_over_time(df, features):
-#     df['Year'] = df['Year'].astype(int)
+def plot_wr_features_over_time(df, features):
+    df['Year'] = df['Year'].astype(int)
 
-#     df_grouped_med = df.groupby('Year')[features].median()
-#     df_grouped_max = df.groupby('Year')[features].max()
-#     df_grouped_mean = df.groupby('Year')[features].mean() 
+    df_grouped_med = df.groupby('Year')[features].median()
+    df_grouped_max = df.groupby('Year')[features].max()
+    df_grouped_mean = df.groupby('Year')[features].mean() 
 
-#     plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(10, 6))
     
-#     plt.plot(df_grouped_med.index, df_grouped_med[features], label=features)
-#     plt.plot(df_grouped_mean.index, df_grouped_mean[features], label=features)
-#     plt.plot(df_grouped_max.index, df_grouped_max[features], label=features)
+    plt.plot(df_grouped_med.index, df_grouped_med[features], label=features)
+    plt.plot(df_grouped_mean.index, df_grouped_mean[features], label=features)
+    plt.plot(df_grouped_max.index, df_grouped_max[features], label=features)
     
-#     plt.title("")
-#     plt.xlabel("Season")
-#     plt.ylabel("Value")
-#     plt.legend(['Median','Mean','Max'])
-#     plt.grid(True)
+    plt.title("")
+    plt.xlabel("Season")
+    plt.ylabel("Value")
+    plt.legend(['Median','Mean','Max'])
+    plt.grid(True)
 
-#     plt.xlim(df_grouped_med.index.min(), df_grouped_med.index.max())
-#     plt.xticks(df_grouped_med.index.unique())
+    plt.xlim(df_grouped_med.index.min(), df_grouped_med.index.max())
+    plt.xticks(df_grouped_med.index.unique())
     
-#     return plt
+    return plt
 
 def plot_wr_leaders(df, feature, seasons, top_n=10, width=800, height=600):
 
@@ -152,28 +152,6 @@ def plot_wr_comp(df, feature, years, wrs, width=800, height=600):
 
     return fig
 
-def plot_wr_features_over_time(df, features):
-    df['Year'] = df['Year'].astype(int)
 
-    df_grouped_med = df.groupby('Year')[features].median()
-    df_grouped_max = df.groupby('Year')[features].max()
-    df_grouped_mean = df.groupby('Year')[features].mean() 
-
-    # Create a Plotly figure
-    fig = go.Figure()
-
-    fig.add_trace(go.Scatter(x=df_grouped_med.index, y=df_grouped_med[features], mode='lines', name='Median'))
-    fig.add_trace(go.Scatter(x=df_grouped_mean.index, y=df_grouped_mean[features], mode='lines', name='Mean'))
-    fig.add_trace(go.Scatter(x=df_grouped_max.index, y=df_grouped_max[features], mode='lines', name='Max'))
-
-    fig.update_layout(
-        title=f'{features} over Time',
-        xaxis_title='Season',
-        yaxis_title='Value',
-        legend_title='Statistics',
-        template='plotly_dark'
-    )
-
-    return fig
 
     

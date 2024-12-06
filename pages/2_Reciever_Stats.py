@@ -45,7 +45,7 @@ with tab1:
     with chart_placeholder4.container():
         if stat:
             st.markdown(f"<h3 style='text-align: center;'>{stat} over Time</h3>", unsafe_allow_html=True)
-            st.plotly_chart(fig)
+            st.pyplot(fig)
         else: 
             st.write('')
 
