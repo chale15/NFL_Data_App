@@ -38,7 +38,7 @@ with tab1:
         st.subheader('League Trends', divider = 'blue')
         stat = st.selectbox('Choose a stat', 
                         ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'),
-                        placeholder = 'Choose an Option', index=None)
+                        index= None, placeholder = 'Choose an Option')
 
     stat2 = stats[stat]   
 
