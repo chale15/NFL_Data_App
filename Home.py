@@ -33,7 +33,7 @@ with tab1:
         #st.write('Hovering over the plot will display more detailed information, and stats such as the name\'s first usage, peak popularity, and highest rank are displayed below the plot')
     with col12:
         st.text('')
-        #st.image('img/names_over_time.png')
+        st.image('img/qb.png')
 
 with tab2:
     col21, col22 = st.columns([1,1])
@@ -43,7 +43,7 @@ with tab2:
         #st.write('Hovering over the plot will display more detailed information, and the number of unique names given that year for males and females are displayed below the plot')
     with col22:
         st.text('')
-        #st.image('img/top_by_year.png')
+        st.image('img/wr.png')
 
 
 #with tab3:
