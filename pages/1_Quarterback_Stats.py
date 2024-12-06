@@ -89,6 +89,18 @@ with tab3:
     
         year2 = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
 
+    chart_placeholder3 = st.empty()
+
+    if stat5:
+        stat6 = stats[stat5]
+        if year2:
+            if player1 & player2:
+                fig3 = plot_qb_comp(data, stat5,year2, [player1,player2])
+                with chart_placeholder3.container():
+                    st.plotly_chart(fig3)
+
+
+
     
     
 

@@ -327,10 +327,11 @@ def plot_features_over_time(df, features):
     return plt
 
 def plot_qb_leaders(df, feature, seasons, top_n=10, width=800, height=600):
-    
+
     stats = {'Passing Yards':'YDS', 'Passing Attempts':'ATT', 'Yards per Attempt':'YPA','Completion Percentage':'CMPP', 'Passing Touchdowns':'TDs','Interceptions':'INTs', 'Quarterback Rating':'QBR', 'Sacks':'SCK','Rushing Attempts':'ATT(R)','Rushing Yards':'YDS(R)', 'Yards per Carry':'YPC', 'Rushing Touchdowns':'TDs(R)'}
     stats2 = dict(zip(stats.values(), stats.keys()))
     sum_list = ['GP','ATT(R)', 'YDS(R)', 'TDs(R)', 'YDS', 'ATT','TDs', 'INTs', 'SCK']
+    feature = stats[feature]
 
     df_filtered = df[df['Year'].isin(seasons)]
 
@@ -349,6 +350,33 @@ def plot_qb_leaders(df, feature, seasons, top_n=10, width=800, height=600):
                  )
     
     fig.update_layout(width=width, height=height)
+    return fig
+
+def plot_qb_comp(df, feature, years, qbs, width=800, height=600):
+
+    stats = {'Passing Yards':'YDS', 'Passing Attempts':'ATT', 'Yards per Attempt':'YPA','Completion Percentage':'CMPP', 'Passing Touchdowns':'TDs','Interceptions':'INTs', 'Quarterback Rating':'QBR', 'Sacks':'SCK','Rushing Attempts':'ATT(R)','Rushing Yards':'YDS(R)', 'Yards per Carry':'YPC', 'Rushing Touchdowns':'TDs(R)'}
+    stats2 = dict(zip(stats.values(), stats.keys()))
+    sum_list = ['GP','ATT(R)', 'YDS(R)', 'TDs(R)', 'YDS', 'ATT','TDs', 'INTs', 'SCK']
+    feature = stats[feature]
+
+    df_filtered = df[(df['Year'].isin(years)) & (df['QB'].isin(qbs))]
+
+    if feature in sum_list:
+        df_grouped = df_filtered.groupby(['Year', 'QB'])[feature].sum().reset_index()
+    else:
+        df_grouped = df_filtered.groupby(['Year', 'QB'])[feature].mean().reset_index()
+
+    fig = px.bar(df_grouped, 
+                 x='Year', 
+                 y=feature, 
+                 color='QB', 
+                 barmode='group', 
+                 title=f"Comparison of {stats2[feature]} for {qbs[0]} and {qbs[1]}",
+                 labels={feature: feature, 'QB': 'Player Name', 'Year': 'Season'},
+                 color_discrete_map={qbs[0]: 'blue', qbs[1]: 'lightblue'})
+
+    fig.update_layout(width=width, height=height)
+
     return fig
 
     
