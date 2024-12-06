@@ -24,7 +24,6 @@ stats = {'Receptions':'Receptions', 'Recieving Yards':'REC_YDS', 'Recieving Touc
 
 
 st.markdown("# Reciever Stats")
-#st.sidebar.header("Reciever Stats")
 st.markdown('*Explore league trends, stat leaders, and player comparisons for NFL recievers!*')
 st.write('')
 
@@ -46,7 +45,7 @@ with tab1:
     with chart_placeholder4.container():
         if stat:
             st.markdown(f"<h3 style='text-align: center;'>{stat} over Time</h3>", unsafe_allow_html=True)
-            st.pyplot(fig)
+            st.plotly_chart(fig)
         else: 
             st.write('')
 
