@@ -18,41 +18,86 @@ def load_wr_data():
     data = data.dropna()
     return data
 
-df = load_wr_data()
+data = load_wr_data()
 
-def random_year():
-    year_input = get_random_year(data)
+stats = {'Receptions':'Receptions', 'Recieving Yards':'REC_YDS', 'Recieving Touchdowns':'REC_TDS', 'Recieving Yards After Catch':'REC_YAC', 'Targets':'Targets'}
 
-#year_val = 2000
 
 st.markdown("# Reciever Stats")
 st.sidebar.header("Reciever Stats")
 st.markdown('*Explore league trends, stat leaders, and player comparisons for NFL recievers!*')
 st.write('')
-#with st.sidebar:
-    #slider_placeholder = st.empty()
 
-    #if st.button("Random Year"):
-        #year_val = get_random_year(data)
+tab1, tab2, tab3 = st.tabs(['League Trends', 'Stat Leaders', 'Player Comparisons'])
+with tab1:
+    chart_placeholder = st.empty()
 
-    #n_names = st.number_input('Number of Names to Display (per sex)', value = 5)
+    
+    with st.sidebar:
+        st.subheader('League Trends', divider = 'blue')
+        stat = st.selectbox('Choose a stat', 
+                        ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
+                        index= None, placeholder = 'Choose an Option')
+
+    if stat:
+        stat2 = stats[stat]   
+        fig = plot_wr_features_over_time(data, [stat2])
+
+    with chart_placeholder.container():
+        if stat:
+            st.markdown(f"<h3 style='text-align: center;'>{stat} over Time</h3>", unsafe_allow_html=True)
+            st.pyplot(fig)
+        else: 
+            st.write('')
 
 
-#chart_placeholder = st.empty()
+with tab2:
+    with st.sidebar:
+        st.subheader('Stat Leaders', divider = 'blue')
+        stat3 = st.selectbox('Choose a stat', 
+                            ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
+                            index= None, placeholder = 'Choose an Option')
+    
+        year = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
+
+        n_names = st.number_input('Number of Players to Display', value = 10)
+
+    chart_placeholder2 = st.empty()
+    if stat3:
+        stat4 = stats[stat3]
+        if year:
+            fig2 = plot_wr_leaders(data, stat3, year, n_names)
+            with chart_placeholder2.container():
+                st.plotly_chart(fig2)
+
+    
 
 
-#with slider_placeholder.container():
-    #year_input = st.slider('Year', min_value = 1880, max_value = 2023, value=year_val)
+with tab3:
+    with st.sidebar:
+        st.subheader('Player Comparisons', divider = 'blue')
+
+        player_names = data['Reciever'].unique()
+
+        player1 = st.selectbox('First Player to Compare:', player_names, placeholder = 'Choose a Player', index=None)
+        player2 = st.selectbox('Second Player to Compare:', player_names, placeholder = 'Choose a Player', index=None)
+
+        stat5 = st.selectbox('Choose a stat', 
+                            ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
+                            index= None, placeholder = 'Choose an Option')
+    
+        year2 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi')
+
+    chart_placeholder3 = st.empty()
+
+    if stat5:
+        stat6 = stats[stat5]
+        if year2:
+            if player1: 
+                if player2:
+                    fig3 = plot_wr_comp(data, stat5,year2, [player1,player2])
+                    with chart_placeholder3.container():
+                        st.plotly_chart(fig3)
 
 
-#fig2 = top_names_plot(data, year=year_input, n=n_names)
 
-
-#with chart_placeholder.container():
-    #st.plotly_chart(fig2)
-
-#unique_male = len(data[(data['year']==year_input) & (data['sex']=='M')]['name'].unique())
-#unique_female = len(data[(data['year']==year_input) & (data['sex']=='F')]['name'].unique())
-
-#st.write(f"Number of Unique Male Names: {unique_male}")
-#st.write(f"Number of Unique Female Names: {unique_female}")

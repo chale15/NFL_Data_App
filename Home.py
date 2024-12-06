@@ -22,7 +22,9 @@ st.text('')
 st.text('')
 
 
-tab1, tab2, tab3 = st.tabs(['Quarterback Stats', 'Reciever Stats', 'Team Stats'])
+#tab1, tab2, tab3 = st.tabs(['Quarterback Stats', 'Reciever Stats', 'Team Stats'])
+tab1, tab2 = st.tabs(['Quarterback Stats', 'Reciever Stats'])
+
 with tab1:
     col11, col12 = st.columns([1,1])
     with col11:
@@ -44,15 +46,15 @@ with tab2:
         #st.image('img/top_by_year.png')
 
 
-with tab3:
-    col31, col32 = st.columns([1,1])
-    with col31:
-        st.text('')
-        st.write('This widget allows the user to view statistics for a selected team. Options include passing and recieving leaders, team statistics over time, and general trends')
-        #st.write('Hovering over the plot will display more detailed information, such as the name, year, and number of babies born with that name.')
-    with col32:
-        st.text('')
-        #st.image('img/name_comp.png')
+#with tab3:
+#    col31, col32 = st.columns([1,1])
+#   with col31:
+#        st.text('')
+#        st.write('This widget allows the user to view statistics for a selected team. Options include passing and recieving leaders, team statistics over time, and general trends')
+#        #st.write('Hovering over the plot will display more detailed information, such as the name, year, and number of babies born with that name.')
+#    with col32:
+#        st.text('')
+#        #st.image('img/name_comp.png')
 
 
 

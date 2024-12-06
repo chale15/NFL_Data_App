@@ -42,7 +42,7 @@ with tab1:
 
     if stat:
         stat2 = stats[stat]   
-        fig = plot_features_over_time(data, [stat2])
+        fig = plot_qb_features_over_time(data, [stat2])
 
     with chart_placeholder.container():
         if stat:
@@ -63,13 +63,13 @@ with tab2:
 
         n_names = st.number_input('Number of Players to Display', value = 10)
 
-    #chart_placeholder2 = st.empty()
+    chart_placeholder2 = st.empty()
     if stat3:
         stat4 = stats[stat3]
         if year:
             fig2 = plot_qb_leaders(data, stat3, year, n_names)
-            #with chart_placeholder2.container():
-            st.plotly_chart(fig2)
+            with chart_placeholder2.container():
+                st.plotly_chart(fig2)
 
     
 
@@ -89,7 +89,7 @@ with tab3:
     
         year2 = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
 
-    #chart_placeholder3 = st.empty()
+    chart_placeholder3 = st.empty()
 
     if stat5:
         stat6 = stats[stat5]
@@ -97,40 +97,7 @@ with tab3:
             if player1: 
                 if player2:
                     fig3 = plot_qb_comp(data, stat5,year2, [player1,player2])
-                    #with chart_placeholder3.container():
-                    st.plotly_chart(fig3)
+                    with chart_placeholder3.container():
+                        st.plotly_chart(fig3)
 
 
-
-    
-    
-
-#if 'input_name' not in st.session_state:
-    #st.session_state.input_name = ""
-
-#with st.sidebar:
-    #input_name = st.text_input('Enter a name:', value=st.session_state.input_name)
-        
-    #if st.button("Random Name"):
-        #random_name = get_random_name(data)
-        #st.session_state.input_name = random_name
-        #st.rerun()
-
-
-
-#chart_placeholder = st.empty()
-
-#try:
-    #stats = name_trend_stats(data, input_name)
-    #if len(stats)==0:
-        #st.write(f"No Occurrances of the Name {input_name} Found")
-    #else:
-        #st.write(f"First Recorded Occurrance of Name: {stats[0]}")
-        #st.write(f"Peak Popularity: {stats[2]}  ({stats[1]})")
-
-    #fig = name_trend_line(data, input_name)
-    #with chart_placeholder.container():
-        #st.plotly_chart(fig)
-
-#except:
-    #None
