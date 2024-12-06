@@ -47,7 +47,7 @@ with tab1:
     with chart_placeholder.container():
         if stat:
             st.markdown('*{stat} Over Time (Quarterback)*')
-            st.plotly_chart(fig)
+            st.pyplot(fig)
 
 
 #with tab2:
