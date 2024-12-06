@@ -46,7 +46,7 @@ with tab1:
     with chart_placeholder.container():
         if stat:
             st.markdown(f"<h3 style='text-align: center;'>{stat} over Time</h3>", unsafe_allow_html=True)
-            st.pyplot(fig)
+            #st.pyplot(fig)
         else: 
             st.write('')
 
@@ -77,7 +77,7 @@ with tab2:
 
 with tab3:
     chart_placeholder3 = st.empty()
-    
+
     with st.sidebar:
         st.subheader('Player Comparisons', divider = 'blue')
 
