@@ -45,7 +45,7 @@ with tab1:
         fig = plot_features_over_time(data, [stat2])
 
     with chart_placeholder.container():
-        if fig:
+        if stat:
             st.markdown(f"<h1 style='text-align: center;'>{stat} over Time</h1>", unsafe_allow_html=True)
             st.pyplot(fig)
         else: 
@@ -68,13 +68,9 @@ with tab2:
         stat4 = stats[stat3]
         if year:
             fig2 = plot_qb_leaders(data, stat4, year, n_names)
-    #st.plotly_chart(fig2)
+            with chart_placeholder2.container():
+                st.plotly_chart(fig2)
 
-    with chart_placeholder2.container():
-        if fig2:
-            st.plotly_chart(fig2)
-        else: 
-            st.write('')
     
 
 
