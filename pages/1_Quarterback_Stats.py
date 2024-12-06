@@ -59,7 +59,7 @@ with tab2:
                             ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'),
                             placeholder = 'Choose an Option', index=None)
     
-        year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
+        year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
 
         n_names = st.number_input('Number of Players to Display', value = 10)
 
