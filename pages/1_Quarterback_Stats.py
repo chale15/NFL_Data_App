@@ -66,7 +66,7 @@ with tab2:
     chart_placeholder2 = st.empty()
     if stat3:
         stat4 = stats[stat3]
-        if year & n_names:
+        if year:
             fig2 = plot_qb_leaders(data, stat4, year, n_names)
     #st.plotly_chart(fig2)
 
