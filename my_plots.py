@@ -138,6 +138,7 @@ def plot_wr_comp(df, feature, years, wrs, width=800, height=600):
     df_filtered = df[(df['Year'].isin(years)) & (df['Reciever'].isin(wrs))]
 
     df_grouped = df_filtered.groupby(['Year', 'Reciever'])[feature].sum().reset_index()
+    print(df_grouped.head())
 
     fig = px.bar(df_grouped, 
                  x='Year', 
