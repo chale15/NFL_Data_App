@@ -40,8 +40,8 @@ with tab1:
                         index= None, placeholder = 'Choose an Option', key = 'sldkfj')
 
     if stat:
-        stat2 = stats[stat]   
-        fig = plot_wr_features_over_time(data, [stat2])
+        stat12 = stats[stat]   
+        fig = plot_wr_features_over_time(data, [stat12])
 
     with chart_placeholder4.container():
         if stat:
@@ -56,19 +56,19 @@ with tab2:
 
     with st.sidebar:
         st.subheader('Stat Leaders', divider = 'blue')
-        stat3 = st.selectbox('Choose a stat', 
+        stat13 = st.selectbox('Choose a stat', 
                             ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
                             index= None, placeholder = 'Choose an Option', key = 'sdafjkk')
     
-        year = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
+        year10 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
 
-        n_names = st.number_input('Number of Players to Display', value = 10, key = 'lsdkfjslkdjf')
+        n_names10 = st.number_input('Number of Players to Display', value = 10, key = 'lsdkfjslkdjf')
 
     
-    if stat3:
-        stat4 = stats[stat3]
-        if year:
-            fig2 = plot_wr_leaders(data, feature=stat3, year=year, top_n=n_names)
+    if stat13:
+        stat14 = stats[stat13]
+        if year10:
+            fig2 = plot_wr_leaders(data, feature= stat13, year=year10, top_n=n_names10)
             with chart_placeholder5.container():
                 st.plotly_chart(fig2, use_container_width = True)
 
