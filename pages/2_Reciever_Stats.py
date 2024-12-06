@@ -30,7 +30,7 @@ st.write('')
 
 tab1, tab2, tab3 = st.tabs(['League Trends', 'Stat Leaders', 'Player Comparisons'])
 with tab1:
-    chart_placeholder = st.empty()
+    chart_placeholder4 = st.empty()
 
     
     with st.sidebar:
@@ -43,7 +43,7 @@ with tab1:
         stat2 = stats[stat]   
         fig = plot_wr_features_over_time(data, [stat2])
 
-    with chart_placeholder.container():
+    with chart_placeholder4.container():
         if stat:
             st.markdown(f"<h3 style='text-align: center;'>{stat} over Time</h3>", unsafe_allow_html=True)
             st.pyplot(fig)
@@ -52,7 +52,7 @@ with tab1:
 
 
 with tab2:
-    chart_placeholder2 = st.empty()
+    chart_placeholder5 = st.empty()
 
     with st.sidebar:
         st.subheader('Stat Leaders', divider = 'blue')
@@ -68,16 +68,15 @@ with tab2:
     if stat3:
         stat4 = stats[stat3]
         if year:
-            fig2 = plot_wr_leaders(data, stat3, year, n_names)
-            with chart_placeholder2.container():
-                print(fig2)
+            fig2 = plot_wr_leaders(data, feature=stat3, year=year, top_n=n_names)
+            with chart_placeholder5.container():
                 st.plotly_chart(fig2, use_container_width = True)
 
     
 
 
 with tab3:
-    chart_placeholder3 = st.empty()
+    chart_placeholder6 = st.empty()
 
     with st.sidebar:
         st.subheader('Player Comparisons', divider = 'blue')
@@ -100,7 +99,7 @@ with tab3:
             if player3: 
                 if player4:
                     fig3 = plot_wr_comp(data, stat5,year2, [player3,player4])
-                    with chart_placeholder3.container():
+                    with chart_placeholder6.container():
                         st.plotly_chart(fig3)
 
 
