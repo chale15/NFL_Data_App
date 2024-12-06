@@ -324,4 +324,6 @@ def plot_features_over_time(df, features):
     plt.xlim(df_grouped_med.index.min(), df_grouped_med.index.max())
     plt.xticks(df_grouped_med.index.unique())
     
-    plt.show()
+    return plt
+
+    

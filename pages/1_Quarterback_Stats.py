@@ -35,7 +35,8 @@ with tab1:
     stat = st.selectbox('Choose a stat', 
                         ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
     with st.sidebar:
-        st.write('Showing {stat} trends over time')
+        if stat:
+            st.write('Showing {stat} trends over time')
 
     chart_placeholder = st.empty()
 
@@ -44,8 +45,9 @@ with tab1:
     fig = plot_features_over_time(data, [stat2])
 
     with chart_placeholder.container():
-        st.markdown('*{stat} Over Time (Quarterback)*')
-        st.plotly_chart(fig)
+        if stat:
+            st.markdown('*{stat} Over Time (Quarterback)*')
+            st.plotly_chart(fig)
 
 
 #with tab2:
