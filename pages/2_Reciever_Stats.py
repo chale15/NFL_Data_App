@@ -68,7 +68,7 @@ with tab2:
     if stat13:
         stat14 = stats[stat13]
         if year10:
-            fig2 = plot_wr_leaders(data, feature= stat13, year=year10, top_n=n_names10)
+            fig2 = plot_wr_leaders(data, feature= stat13, seasons=year10, top_n=n_names10)
             with chart_placeholder5.container():
                 st.plotly_chart(fig2, use_container_width = True)
 
