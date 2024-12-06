@@ -37,7 +37,7 @@ with tab1:
         st.subheader('League Trends', divider = 'blue')
         stat = st.selectbox('Choose a stat', 
                         ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
-                        index= None, placeholder = 'Choose an Option')
+                        index= None, placeholder = 'Choose an Option', key = 'sldkfj')
 
     if stat:
         stat2 = stats[stat]   
@@ -56,11 +56,11 @@ with tab2:
         st.subheader('Stat Leaders', divider = 'blue')
         stat3 = st.selectbox('Choose a stat', 
                             ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
-                            index= None, placeholder = 'Choose an Option')
+                            index= None, placeholder = 'Choose an Option', key = 'sdafjkk')
     
         year = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
 
-        n_names = st.number_input('Number of Players to Display', value = 10)
+        n_names = st.number_input('Number of Players to Display', value = 10, key = 'lsdkfjslkdjf')
 
     chart_placeholder2 = st.empty()
     if stat3:
@@ -79,23 +79,23 @@ with tab3:
 
         player_names = data['Reciever'].unique()
 
-        player1 = st.selectbox('First Player to Compare:', player_names, placeholder = 'Choose a Player', index=None)
-        player2 = st.selectbox('Second Player to Compare:', player_names, placeholder = 'Choose a Player', index=None)
+        player3 = st.selectbox('First Player to Compare:', player_names, placeholder = 'Choose a Player', index=None)
+        player4 = st.selectbox('Second Player to Compare:', player_names, placeholder = 'Choose a Player', index=None)
 
         stat5 = st.selectbox('Choose a stat', 
                             ('Receptions', 'Recieving Yards', 'Recieving Touchdowns','Recieving Yards After Catch', 'Targets'),
-                            index= None, placeholder = 'Choose an Option')
+                            index= None, placeholder = 'Choose an Option', key = 'wiefodjslfj')
     
-        year2 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi')
+        year2 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slioepfsjd')
 
     chart_placeholder3 = st.empty()
 
     if stat5:
         stat6 = stats[stat5]
         if year2:
-            if player1: 
-                if player2:
-                    fig3 = plot_wr_comp(data, stat5,year2, [player1,player2])
+            if player3: 
+                if player4:
+                    fig3 = plot_wr_comp(data, stat5,year2, [player3,player4])
                     with chart_placeholder3.container():
                         st.plotly_chart(fig3)
 
