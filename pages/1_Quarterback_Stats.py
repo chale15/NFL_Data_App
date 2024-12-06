@@ -40,14 +40,13 @@ with tab1:
                         ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'),
                         index= None, placeholder = 'Choose an Option')
 
-    stat2 = stats[stat]   
-
-    fig = plot_features_over_time(data, [stat2])
+    if stat:
+        stat2 = stats[stat]   
+        fig = plot_features_over_time(data, [stat2])
 
     with chart_placeholder.container():
-        if stat:
-            st.markdown(f"<h1 style='text-align: center;'>{stat} over Time</h1>", unsafe_allow_html=True)
-            st.pyplot(fig)
+        st.markdown(f"<h1 style='text-align: center;'>{stat} over Time</h1>", unsafe_allow_html=True)
+        st.pyplot(fig)
 
 
 with tab2:
@@ -62,9 +61,10 @@ with tab2:
         n_names = st.number_input('Number of Players to Display', value = 10)
 
     chart_placeholder2 = st.empty()
-
-    stat4 = stats[stat3]
-    fig2 = plot_qb_leaders(data, stat4, year, n_names)
+    if stat3:
+        stat4 = stats[stat3]
+        if year & n_names:
+            fig2 = plot_qb_leaders(data, stat4, year, n_names)
     #st.plotly_chart(fig2)
 
     with chart_placeholder2.container():
@@ -86,6 +86,8 @@ with tab3:
                             placeholder = 'Choose an Option', index=None)
     
         year2 = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
+
+    
     
 
 #if 'input_name' not in st.session_state:
