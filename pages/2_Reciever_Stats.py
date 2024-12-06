@@ -90,8 +90,8 @@ with tab3:
                             index= None, placeholder = 'Choose an Option', key = 'wiefodjslfj')
     
         year2 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slioepfsjd')
-        for year in year2:
-            year = int(year)
+        for i in range(len(year2)):
+            year2[i] = int(year2[i])
 
 
     if stat5:
@@ -101,7 +101,7 @@ with tab3:
                 if player4:
                     fig3 = plot_wr_comp(data, stat5,year2, [player3,player4])
                     with chart_placeholder6.container():
-                        st.plotly_chart(plot_wr_comp(data, stat5,year2, [player3,player4]))
+                        st.plotly_chart(fig3)
 
 
 
