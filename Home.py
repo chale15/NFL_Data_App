@@ -29,7 +29,7 @@ with tab1:
     col11, col12 = st.columns([1,1])
     with col11:
         st.text('')
-        st.write('This widget allows the user to view Quarterback statistics. Options include league trends, individual season stat leaders, and individual player comparisons')
+        st.write('These widgets allow the user to view Quarterback statistics. Options include league trends, individual season stat leaders, and individual player comparisons')
         #st.write('Hovering over the plot will display more detailed information, and stats such as the name\'s first usage, peak popularity, and highest rank are displayed below the plot')
     with col12:
         st.text('')
@@ -39,7 +39,7 @@ with tab2:
     col21, col22 = st.columns([1,1])
     with col21:
         st.text('')
-        st.write('This widget allows the user to view Reciever statistics. Options include league trends, individual season stat leaders, and individual player comparisons')
+        st.write('These widgets allow the user to view reciever statistics. Options include league trends, individual season stat leaders, and individual player comparisons')
         #st.write('Hovering over the plot will display more detailed information, and the number of unique names given that year for males and females are displayed below the plot')
     with col22:
         st.text('')
