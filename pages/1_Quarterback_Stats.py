@@ -50,12 +50,14 @@ with tab1:
 
 
 with tab2:
-    stat3 = st.selectbox('Choose a stat:', 
-                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
+    with st.sidebar:
+        st.subheader('Stat Leaders', divider = 'blue')
+        stat3 = st.selectbox('Choose a stat:', 
+                            ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
     
-    year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
+        year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
 
-    n_names = st.number_input('Number of Players to Display', value = 10)
+        n_names = st.number_input('Number of Players to Display', value = 10)
 
     chart_placeholder2 = st.empty()
 
