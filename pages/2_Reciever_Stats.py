@@ -46,7 +46,7 @@ with tab1:
     with chart_placeholder.container():
         if stat:
             st.markdown(f"<h3 style='text-align: center;'>{stat} over Time</h3>", unsafe_allow_html=True)
-            #st.pyplot(fig)
+            st.pyplot(fig)
         else: 
             st.write('')
 
@@ -70,7 +70,8 @@ with tab2:
         if year:
             fig2 = plot_wr_leaders(data, stat3, year, n_names)
             with chart_placeholder2.container():
-                st.plotly_chart(fig2, use_container_width = True)
+                print(fig2)
+                #st.plotly_chart(fig2, use_container_width = True)
 
     
 
