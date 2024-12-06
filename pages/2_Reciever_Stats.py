@@ -52,6 +52,8 @@ with tab1:
 
 
 with tab2:
+    chart_placeholder2 = st.empty()
+
     with st.sidebar:
         st.subheader('Stat Leaders', divider = 'blue')
         stat3 = st.selectbox('Choose a stat', 
@@ -62,19 +64,20 @@ with tab2:
 
         n_names = st.number_input('Number of Players to Display', value = 10, key = 'lsdkfjslkdjf')
 
-    chart_placeholder2 = st.empty()
+    
     if stat3:
         stat4 = stats[stat3]
         if year:
             fig2 = plot_wr_leaders(data, stat3, year, n_names)
             with chart_placeholder2.container():
-                #st.plotly_chart(fig2, use_container_width = True)
-                fig2.show()
+                st.plotly_chart(fig2, use_container_width = True)
 
     
 
 
 with tab3:
+    chart_placeholder3 = st.empty()
+    
     with st.sidebar:
         st.subheader('Player Comparisons', divider = 'blue')
 
@@ -89,7 +92,6 @@ with tab3:
     
         year2 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slioepfsjd')
 
-    chart_placeholder3 = st.empty()
 
     if stat5:
         stat6 = stats[stat5]
