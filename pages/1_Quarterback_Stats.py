@@ -59,14 +59,14 @@ with tab2:
 
         n_names = st.number_input('Number of Players to Display', value = 10)
 
-    #chart_placeholder2 = st.empty()
+    chart_placeholder2 = st.empty()
 
     stat4 = stats[stat3]
     fig2 = plot_qb_leaders(data, stat4, year, n_names)
-    st.plotly_chart(fig2)
+    #st.plotly_chart(fig2)
 
-    #with chart_placeholder2.container():
-        #st.plotly_chart(fig2)
+    with chart_placeholder2.container():
+        st.plotly_chart(fig2)
     
 
 
