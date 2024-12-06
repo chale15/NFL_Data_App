@@ -1,0 +1,1962 @@
+,Reciever,Team,Games,Year,Receptions,REC_YDS,REC_TDS,REC_YAC,Targets
+0,Brock Bowers,Las Vegas Raiders,8,2024,52,535,1,280,65
+1,Garrett Wilson,New York Jets,8,2024,51,573,3,227,84
+2,Chris Godwin,Tampa Bay Buccaneers,7,2024,50,576,5,350,62
+3,Ja'Marr Chase,Cincinnati Bengals,8,2024,48,674,7,302,59
+4,Drake London,Atlanta Falcons,8,2024,48,525,5,143,68
+5,Wan'Dale Robinson,New York Giants,8,2024,48,333,2,188,72
+6,Stefon Diggs,Houston Texans,8,2024,47,496,3,185,64
+7,Malik Nabers,New York Giants,6,2024,46,498,3,179,73
+8,CeeDee Lamb,Dallas Cowboys,7,2024,45,613,4,262,72
+9,Jaxon Smith-Njigba,Seattle Seahawks,8,2024,43,388,1,195,62
+10,Trey McBride,Arizona Cardinals,7,2024,42,446,0,164,56
+11,Zay Flowers,Baltimore Ravens,8,2024,41,527,1,254,61
+12,Justin Jefferson,Minnesota Vikings,7,2024,41,646,5,178,60
+13,Amon-Ra St. Brown,Detroit Lions,7,2024,41,408,5,111,52
+14,Alvin Kamara,New Orleans Saints,8,2024,40,307,1,299,54
+15,George Kittle,San Francisco 49ers,7,2024,40,503,6,194,49
+16,Terry McLaurin,Washington Commanders,8,2024,40,579,4,116,57
+17,Travis Kelce,Kansas City Chiefs,7,2024,38,335,1,135,48
+18,Darnell Mooney,Atlanta Falcons,8,2024,36,500,4,153,59
+19,Cade Otton,Tampa Bay Buccaneers,8,2024,36,344,3,167,51
+20,Khalil Shakir,Buffalo Bills,7,2024,36,421,2,300,38
+21,DK Metcalf,NaN,NaN,NaN,35,568,3,193,61
+22,George Pickens,Pittsburgh Steelers,8,2024,35,548,1,107,58
+23,Breece Hall,New York Jets,8,2024,33,316,1,287,46
+24,DJ Moore,NaN,NaN,NaN,33,341,3,145,51
+25,Brian Thomas Jr.,Jacksonville Jaguars,8,2024,33,573,5,213,49
+26,Nico Collins,Houston Texans,5,2024,32,567,3,195,45
+27,Josh Downs,Indianapolis Colts,6,2024,32,351,3,161,47
+28,Zach Ertz,Washington Commanders,8,2024,32,345,1,76,45
+29,Hunter Henry,New England Patriots,8,2024,32,358,1,139,45
+30,Jake Ferguson,Dallas Cowboys,6,2024,31,263,0,152,42
+31,Tyler Lockett,Seattle Seahawks,8,2024,31,393,1,80,49
+32,Jakobi Meyers,Las Vegas Raiders,6,2024,31,325,2,90,43
+33,Chris Olave,New Orleans Saints,7,2024,31,387,1,112,43
+34,Jayden Reed,Green Bay Packers,8,2024,31,507,3,261,41
+35,Bijan Robinson,Atlanta Falcons,8,2024,31,244,1,325,35
+36,DeVonta Smith,Philadelphia Eagles,6,2024,31,386,3,151,41
+37,Tyreek Hill,Miami Dolphins,7,2024,30,366,1,162,51
+38,Diontae Johnson,Carolina Panthers,7,2024,30,357,3,86,58
+39,Allen Lazard,New York Jets,7,2024,30,412,5,121,44
+40,Ladd McConkey,Los Angeles Chargers,7,2024,30,376,4,159,45
+41,Elijah Moore,Cleveland Browns,8,2024,30,221,0,69,41
+42,De'Von Achane,NaN,NaN,NaN,29,244,2,267,34
+43,Amari Cooper,Buffalo Bills,2,2024,29,319,3,72,60
+44,Tee Higgins,Cincinnati Bengals,5,2024,29,341,3,112,45
+45,Ray-Ray McCloud,Atlanta Falcons,8,2024,29,277,0,120,42
+46,Michael Pittman,NaN,NaN,NaN,29,352,2,105,53
+47,Kyle Pitts,Atlanta Falcons,8,2024,29,419,3,201,42
+48,Darius Slayton,New York Giants,8,2024,29,420,1,75,47
+49,Courtland Sutton,Denver Broncos,8,2024,29,377,2,72,58
+50,Demario Douglas,New England Patriots,8,2024,28,271,1,139,39
+51,Dalton Kincaid,Buffalo Bills,8,2024,28,300,2,181,44
+52,Rachaad White,Tampa Bay Buccaneers,7,2024,28,236,3,312,31
+53,Noah Fant,Seattle Seahawks,8,2024,27,285,0,139,32
+54,Christian Kirk,Jacksonville Jaguars,8,2024,27,379,1,113,47
+55,Cole Kmet,Chicago Bears,7,2024,27,303,3,123,30
+56,Jalen Tolbert,Dallas Cowboys,7,2024,27,334,2,59,37
+57,Kenneth Walker III,Seattle Seahawks,6,2024,27,193,1,203,31
+58,Javonte Williams,Denver Broncos,8,2024,27,174,0,186,34
+59,Michael Wilson,Arizona Cardinals,8,2024,27,283,3,58,39
+60,Tyler Conklin,New York Jets,8,2024,26,240,2,129,38
+61,Will Dissly,Los Angeles Chargers,7,2024,26,233,0,168,33
+62,Romeo Doubs,Green Bay Packers,7,2024,26,384,2,66,40
+63,Mike Evans,Tampa Bay Buccaneers,7,2024,26,335,6,78,45
+64,Pat Freiermuth,Pittsburgh Steelers,8,2024,26,264,2,133,31
+65,Marvin Harrison Jr.,Arizona Cardinals,8,2024,26,411,5,48,50
+66,Jerry Jeudy,Cleveland Browns,8,2024,26,345,1,61,50
+67,Jaylen Waddle,Miami Dolphins,7,2024,26,314,0,122,36
+68,Davante Adams,New York Jets,2,2024,25,293,1,74,42
+69,Brandon Aiyuk,San Francisco 49ers,7,2024,25,374,0,92,47
+70,Mike Gesicki,Cincinnati Bengals,8,2024,25,253,0,84,30
+71,Jauan Jennings,San Francisco 49ers,6,2024,25,404,3,52,36
+72,David Njoku,Cleveland Browns,5,2024,25,226,2,108,36
+73,Jonnu Smith,Miami Dolphins,7,2024,25,256,1,122,34
+74,Tutu Atwell,Los Angeles Rams,7,2024,24,350,0,73,36
+75,Tank Dell,Houston Texans,7,2024,24,229,2,70,38
+76,Dallas Goedert,Philadelphia Eagles,5,2024,24,301,0,167,29
+77,Chuba Hubbard,Carolina Panthers,8,2024,24,108,1,139,26
+78,Tucker Kraft,Green Bay Packers,8,2024,24,342,5,244,33
+79,Isaiah Likely,Baltimore Ravens,8,2024,24,271,3,171,33
+80,Rashee Rice,Kansas City Chiefs,4,2024,24,288,2,186,29
+81,Deebo Samuel Sr.,NaN,NaN,NaN,24,406,1,203,39
+82,Zach Charbonnet,Seattle Seahawks,8,2024,23,164,1,169,28
+83,Cooper Kupp,Los Angeles Rams,3,2024,23,198,2,91,35
+84,Zack Moss,Cincinnati Bengals,8,2024,23,187,1,194,27
+85,Colby Parkinson,Los Angeles Rams,7,2024,23,214,0,109,36
+86,Dalton Schultz,Houston Texans,8,2024,23,223,0,83,38
+87,Tre Tucker,Las Vegas Raiders,8,2024,23,252,1,120,38
+88,Mark Andrews,Baltimore Ravens,8,2024,22,263,4,68,27
+89,Rashod Bateman,Baltimore Ravens,8,2024,22,422,3,107,35
+90,Justice Hill,Baltimore Ravens,8,2024,22,229,2,255,25
+91,Aaron Jones,Minnesota Vikings,7,2024,22,227,1,201,25
+92,Xavier Legette,Carolina Panthers,8,2024,22,211,3,54,35
+93,Alexander Mattison,Las Vegas Raiders,8,2024,22,195,1,200,26
+94,Calvin Ridley,Tennessee Titans,7,2024,22,326,1,83,51
+95,Tyler Boyd,Tennessee Titans,7,2024,21,184,0,70,30
+96,A.J. Brown,Philadelphia Eagles,4,2024,21,408,3,128,30
+97,Keon Coleman,Buffalo Bills,8,2024,21,396,3,180,34
+98,Greg Dortch,Arizona Cardinals,8,2024,21,188,1,131,31
+99,Tony Pollard,Tennessee Titans,7,2024,21,109,0,98,29
+100,Evan Engram,Jacksonville Jaguars,4,2024,20,178,1,77,24
+101,Jerome Ford,Cleveland Browns,6,2024,20,87,0,139,23
+102,Bucky Irving,Tampa Bay Buccaneers,8,2024,20,164,0,209,22
+103,Sam LaPorta,Detroit Lions,7,2024,20,272,2,178,23
+104,Rome Odunze,Chicago Bears,7,2024,20,287,1,94,37
+105,Ja'Tavion Sanders,Carolina Panthers,8,2024,20,158,0,96,25
+106,Rashid Shaheed,New Orleans Saints,6,2024,20,349,3,106,41
+107,J.K. Dobbins,Los Angeles Chargers,7,2024,19,87,0,117,23
+108,Austin Ekeler,Washington Commanders,7,2024,19,207,0,244,21
+109,Jahmyr Gibbs,Detroit Lions,7,2024,19,154,1,194,23
+110,Lil'Jordan Humphrey,Denver Broncos,8,2024,19,177,0,103,27
+111,Miles Sanders,Carolina Panthers,8,2024,19,103,0,129,24
+112,D'Andre Swift,Chicago Bears,7,2024,19,193,0,214,23
+113,Kyren Williams,Los Angeles Rams,7,2024,19,90,2,86,22
+114,Xavier Worthy,Kansas City Chiefs,7,2024,19,235,3,137,37
+115,Olamide Zaccheaus,Washington Commanders,8,2024,19,176,0,115,27
+116,Erick All,Cincinnati Bengals,8,2024,18,134,0,79,20
+117,Gabe Davis,Jacksonville Jaguars,8,2024,18,217,2,38,35
+118,Juwan Johnson,New Orleans Saints,8,2024,18,184,1,66,24
+119,Rhamondre Stevenson,New England Patriots,7,2024,18,61,0,98,23
+120,Brenton Strange,Jacksonville Jaguars,8,2024,18,190,2,70,25
+121,Cedric Tillman,NaN,NaN,NaN,18,189,2,60,26
+122,Jordan Whittington,Los Angeles Rams,5,2024,18,201,0,103,23
+123,Keenan Allen,Chicago Bears,5,2024,17,161,2,59,32
+124,Saquon Barkley,Philadelphia Eagles,7,2024,17,106,1,96,21
+125,Noah Brown,Washington Commanders,6,2024,17,258,1,35,25
+126,Noah Gray,Kansas City Chiefs,7,2024,17,208,0,92,18
+127,Najee Harris,NaN,NaN,NaN,17,152,0,148,24
+128,DeAndre Hopkins,Kansas City Chiefs,1,2024,17,202,1,3,24
+129,Josh Jacobs,Green Bay Packers,8,2024,17,115,1,150,21
+130,Chig Okonkwo,NaN,NaN,NaN,17,121,1,55,22
+131,Jameson Williams,Detroit Lions,6,2024,17,361,3,186,30
+132,Jordan Akins,Cleveland Browns,8,2024,16,140,1,66,22
+133,Chase Brown,Cincinnati Bengals,8,2024,16,61,1,70,21
+134,James Conner,Arizona Cardinals,8,2024,16,155,0,186,22
+135,Rico Dowdle,Dallas Cowboys,6,2024,16,131,2,105,20
+136,Travis Etienne,Jacksonville Jaguars,6,2024,16,91,0,106,23
+137,Alec Pierce,Indianapolis Colts,8,2024,16,394,3,69,30
+138,Tyrone Tracy Jr.,New York Giants,8,2024,16,113,0,127,20
+139,Devaughn Vele,Denver Broncos,4,2024,16,165,0,60,20
+140,Dontayvion Wicks,Green Bay Packers,8,2024,16,192,4,61,40
+141,Austin Hooper,New England Patriots,8,2024,15,129,1,101,25
+142,Tyler Johnson,Los Angeles Rams,7,2024,15,182,0,118,23
+143,Dare Ogunbowale,Houston Texans,8,2024,15,155,1,135,18
+144,Josh Palmer,Los Angeles Chargers,6,2024,15,243,0,49,22
+145,Demarcus Robinson,Los Angeles Rams,7,2024,15,233,3,10,29
+146,Jordan Addison,Minnesota Vikings,5,2024,14,231,1,12,23
+147,Calvin Austin III,Pittsburgh Steelers,8,2024,14,257,2,101,25
+148,James Cook,NaN,NaN,NaN,14,145,1,134,16
+149,Andrei Iosivas,Cincinnati Bengals,8,2024,14,189,3,15,27
+150,Van Jefferson,Pittsburgh Steelers,8,2024,14,139,1,45,21
+151,Theo Johnson,New York Giants,8,2024,14,150,0,70,20
+152,Quentin Johnston,Los Angeles Chargers,5,2024,14,164,3,85,22
+153,Joe Mixon,Houston Texans,5,2024,14,115,1,133,20
+154,David Montgomery,Detroit Lions,7,2024,14,138,0,137,15
+155,Johnny Mundt,Minnesota Vikings,7,2024,14,93,1,40,20
+156,Jalen Nailor,Minnesota Vikings,7,2024,14,229,3,54,20
+157,Mason Tipton,New Orleans Saints,8,2024,14,99,0,27,22
+158,KaVontae Turpin,Dallas Cowboys,7,2024,14,145,1,60,24
+159,Troy Franklin,Denver Broncos,7,2024,13,116,1,50,23
+160,Jaleel McLaughlin,Denver Broncos,8,2024,13,37,2,88,14
+161,Kalif Raymond,Detroit Lions,7,2024,13,162,2,107,17
+162,Devin Singletary,New York Giants,6,2024,13,87,0,137,15
+163,Christian Watson,Green Bay Packers,7,2024,13,196,2,48,20
+164,Josh Whyle,Tennessee Titans,7,2024,13,130,0,74,15
+165,Grant Calcaterra,Philadelphia Eagles,7,2024,12,186,0,94,13
+166,Jalen Coker,Carolina Panthers,5,2024,12,186,1,53,15
+167,Antonio Gibson,NaN,NaN,NaN,12,119,0,121,14
+168,Luke McCaffrey,Washington Commanders,8,2024,12,111,0,58,13
+169,Jonathan Mingo,Carolina Panthers,8,2024,12,121,0,64,25
+170,Josh Reynolds,Denver Broncos,5,2024,12,183,1,35,19
+171,Curtis Samuel,Buffalo Bills,7,2024,12,92,0,46,18
+172,Tyjae Spears,Tennessee Titans,5,2024,12,76,0,96,12
+173,Jaylen Warren,Pittsburgh Steelers,6,2024,12,67,0,72,14
+174,Ameer Abdullah,Las Vegas Raiders,8,2024,11,46,0,80,14
+175,Nelson Agholor,Baltimore Ravens,8,2024,11,170,1,78,22
+176,Kayshon Boutte,New England Patriots,6,2024,11,185,1,16,16
+177,Kyle Juszczyk,San Francisco 49ers,8,2024,11,93,0,30,18
+178,Adonai Mitchell,Indianapolis Colts,8,2024,11,118,0,18,31
+179,Foster Moreau,New Orleans Saints,8,2024,11,150,2,52,13
+180,Puka Nacua,Los Angeles Rams,2,2024,11,141,0,69,13
+181,Sterling Shepard,Tampa Bay Buccaneers,6,2024,11,111,1,23,17
+182,Darnell Washington,Pittsburgh Steelers,8,2024,11,120,1,76,12
+183,Mike Williams,New York Jets,8,2024,11,160,0,23,19
+184,AJ Barner,Seattle Seahawks,8,2024,10,105,1,55,10
+185,Dyami Brown,Washington Commanders,8,2024,10,134,1,74,14
+186,Elijah Higgins,Arizona Cardinals,8,2024,10,69,2,40,11
+187,Jordan Mason,San Francisco 49ers,8,2024,10,86,0,51,12
+188,Jalen McMillan,Tampa Bay Buccaneers,6,2024,10,109,1,32,22
+189,Tim Patrick,Detroit Lions,6,2024,10,165,0,56,13
+190,Ja'Lynn Polk,New England Patriots,7,2024,10,78,1,3,26
+191,DJ Turner,Las Vegas Raiders,8,2024,10,99,1,35,21
+192,Justin Watson,Kansas City Chiefs,7,2024,10,128,0,39,12
+193,Braelon Allen,New York Jets,8,2024,9,74,1,79,14
+194,Jake Bobo,Seattle Seahawks,8,2024,9,81,0,21,12
+195,Brandin Cooks,Dallas Cowboys,4,2024,9,91,1,16,19
+196,Emari Demercado,Arizona Cardinals,8,2024,9,65,0,43,12
+197,Bub Means,New Orleans Saints,7,2024,9,118,1,20,15
+198,David Moore,Carolina Panthers,8,2024,9,83,0,17,14
+199,Samaje Perine,Kansas City Chiefs,7,2024,9,104,0,101,12
+200,Brian Robinson,Washington Commanders,7,2024,9,79,0,102,12
+201,Jeremy Ruckert,New York Jets,8,2024,9,46,0,55,13
+202,Trey Sermon,Indianapolis Colts,8,2024,9,59,0,67,9
+203,JuJu Smith-Schuster,Kansas City Chiefs,5,2024,9,147,1,91,12
+204,Tommy Tremble,Carolina Panthers,5,2024,9,72,0,38,12
+205,Cedrick Wilson Jr.,NaN,NaN,NaN,9,88,1,40,11
+206,Tyler Allgeier,Atlanta Falcons,8,2024,8,57,0,53,8
+207,DeAndre Carter,Chicago Bears,7,2024,8,67,0,32,13
+208,Ray Davis,NaN,NaN,NaN,8,79,0,54,9
+209,Tyler Goodson,Indianapolis Colts,7,2024,8,47,0,61,10
+210,Derrick Henry,Baltimore Ravens,8,2024,8,66,2,77,10
+211,D'Ernest Johnson,Jacksonville Jaguars,8,2024,8,77,0,82,12
+212,Lucas Krull,Denver Broncos,4,2024,8,75,0,30,11
+213,Luke Schoonmaker,Dallas Cowboys,5,2024,8,56,0,28,10
+214,Adam Thielen,Carolina Panthers,3,2024,8,109,1,25,12
+215,Nick Vannett,Tennessee Titans,7,2024,8,45,1,42,9
+216,Emanuel Wilson,Green Bay Packers,8,2024,8,45,1,80,11
+217,Brock Wright,Detroit Lions,7,2024,8,57,1,31,10
+218,Mo Alie-Cox,Indianapolis Colts,8,2024,7,100,1,32,13
+219,Harrison Bryant,Las Vegas Raiders,7,2024,7,64,0,53,10
+220,Britain Covey,Philadelphia Eagles,3,2024,7,34,0,28,7
+221,Ezekiel Elliott,Dallas Cowboys,7,2024,7,40,0,63,10
+222,Julian Hill,Miami Dolphins,7,2024,7,45,0,26,10
+223,Mack Hollins,Buffalo Bills,8,2024,7,81,2,27,20
+224,Alec Ingold,Miami Dolphins,7,2024,7,60,0,36,8
+225,Dawson Knox,Buffalo Bills,8,2024,7,97,1,29,11
+226,Charlie Kolar,Baltimore Ravens,8,2024,7,121,1,73,9
+227,Hunter Luepke,Dallas Cowboys,7,2024,7,91,0,69,8
+228,Josh Oliver,Minnesota Vikings,7,2024,7,72,2,35,8
+229,K.J. Osborn,New England Patriots,6,2024,7,57,1,16,17
+230,Isiah Pacheco,Kansas City Chiefs,2,2024,7,54,0,82,8
+231,Trey Palmer,Tampa Bay Buccaneers,6,2024,7,90,1,24,11
+232,Ricky Pearsall,San Francisco 49ers,2,2024,7,59,0,14,9
+233,Cade Stover,Houston Texans,8,2024,7,85,0,60,9
+234,Pierre Strong,Cleveland Browns,6,2024,7,77,0,95,13
+235,Jonathan Taylor,Indianapolis Colts,5,2024,7,89,0,94,11
+236,Parris Campbell,Philadelphia Eagles,4,2024,6,30,1,9,7
+237,Ty Chandler,Minnesota Vikings,6,2024,6,42,0,53,6
+238,Jahan Dotson,Philadelphia Eagles,6,2024,6,35,0,24,13
+239,Gerald Everett,Chicago Bears,7,2024,6,25,0,28,10
+240,Simi Fehoko,Los Angeles Chargers,7,2024,6,106,0,16,15
+241,Eric Gray,New York Giants,8,2024,6,69,0,92,7
+242,Mecole Hardman,Kansas City Chiefs,7,2024,6,58,0,61,7
+243,JaMycal Hasty,New England Patriots,7,2024,6,58,1,66,8
+244,Kareem Hunt,Kansas City Chiefs,4,2024,6,40,0,53,7
+245,Hayden Hurst,Los Angeles Chargers,4,2024,6,59,0,17,10
+246,Roschon Johnson,Chicago Bears,6,2024,6,57,0,44,8
+247,Marvin Mims Jr.,Denver Broncos,8,2024,6,52,0,46,13
+248,Adam Trautman,Denver Broncos,8,2024,6,117,1,57,10
+249,Sean Tucker,Tampa Bay Buccaneers,8,2024,6,91,1,88,7
+250,Parker Washington,Jacksonville Jaguars,8,2024,6,67,0,8,9
+251,Zamir White,Las Vegas Raiders,6,2024,6,30,0,50,8
+252,Nate Adkins,Denver Broncos,8,2024,5,22,1,7,6
+253,Jalen Brooks,Dallas Cowboys,7,2024,5,77,0,34,15
+254,Michael Burton,Denver Broncos,8,2024,5,40,0,17,5
+255,Greg Dulcich,Denver Broncos,4,2024,5,28,0,15,12
+256,Luke Farrell,Jacksonville Jaguars,8,2024,5,31,0,12,7
+257,D'Onta Foreman,Cleveland Browns,8,2024,5,46,0,42,5
+258,Xavier Hutchinson,Houston Texans,8,2024,5,64,0,22,10
+259,Ty Johnson,Buffalo Bills,8,2024,5,65,2,7,8
+260,Raheem Mostert,Miami Dolphins,4,2024,5,39,0,40,7
+261,Luke Musgrave,Green Bay Packers,4,2024,5,22,0,15,7
+262,Andrew Ogletree,Indianapolis Colts,7,2024,5,56,1,26,7
+263,Cordarrelle Patterson,Pittsburgh Steelers,4,2024,5,34,0,25,7
+264,Laviska Shenault Jr.,Seattle Seahawks,8,2024,5,36,0,46,5
+265,Nick Westbrook-Ikhine,Tennessee Titans,7,2024,5,58,3,4,10
+266,Robert Woods,Houston Texans,6,2024,5,46,0,30,7
+267,Cam Akers,Minnesota Vikings,1,2024,4,16,1,11,7
+268,Kendrick Bourne,New England Patriots,4,2024,4,29,0,15,8
+269,Treylon Burks,Tennessee Titans,5,2024,4,34,0,5,8
+270,Kenneth Gainwell,Philadelphia Eagles,7,2024,4,33,0,26,8
+271,Xavier Gipson,New York Jets,8,2024,4,23,1,20,7
+272,Isaac Guerendo,San Francisco 49ers,8,2024,4,22,0,20,5
+273,Malik Heath,Green Bay Packers,4,2024,4,26,0,5,5
+274,Connor Heyward,Pittsburgh Steelers,7,2024,4,29,1,7,6
+275,Taysom Hill,New Orleans Saints,4,2024,4,23,0,17,7
+276,Hunter Long,Los Angeles Rams,7,2024,4,39,0,17,4
+277,Michael Mayer,Las Vegas Raiders,3,2024,4,21,0,8,7
+278,Bo Melton,Green Bay Packers,8,2024,4,54,0,5,9
+279,John Metchie III,NaN,NaN,NaN,4,36,0,18,5
+280,Ryan Miller,NaN,NaN,NaN,4,58,0,42,6
+281,Drew Sample,Cincinnati Bengals,7,2024,4,28,0,19,5
+282,Eric Saubert,San Francisco 49ers,8,2024,4,67,0,11,5
+283,Trent Sherfield,Minnesota Vikings,7,2024,4,43,1,20,5
+284,Tyquan Thornton,New England Patriots,6,2024,4,47,0,24,8
+285,Jamaal Williams,New Orleans Saints,8,2024,4,21,0,27,6
+286,Alex Bachman,Las Vegas Raiders,5,2024,3,31,0,10,3
+287,Tyler Badie,Denver Broncos,3,2024,3,-2,0,4,3
+288,John Bates,Washington Commanders,8,2024,3,34,0,25,5
+289,David Bell,Cleveland Browns,1,2024,3,27,0,8,3
+290,Daniel Bellinger,New York Giants,7,2024,3,31,0,9,3
+291,Tank Bigsby,Jacksonville Jaguars,8,2024,3,36,0,40,5
+292,Pharaoh Brown,Seattle Seahawks,6,2024,3,19,0,11,5
+293,Tanner Conner,Miami Dolphins,5,2024,3,16,0,5,4
+294,Kylen Granson,Indianapolis Colts,8,2024,3,53,0,32,9
+295,Trenton Irwin,Cincinnati Bengals,4,2024,3,15,0,4,9
+296,Rakim Jarrett,Tampa Bay Buccaneers,1,2024,3,58,0,6,3
+297,Brandon Powell,Minnesota Vikings,7,2024,3,29,0,5,6
+298,Jalen Reagor,Los Angeles Chargers,2,2024,3,76,0,21,3
+299,Ben Sims,Green Bay Packers,8,2024,3,40,0,15,4
+300,Carson Steele,Kansas City Chiefs,7,2024,3,10,0,19,6
+301,Kimani Vidal,Los Angeles Chargers,3,2024,3,49,1,26,3
+302,Malik Washington,Miami Dolphins,4,2024,3,17,0,7,4
+303,Blake Whiteheart,Cleveland Browns,3,2024,3,13,1,4,3
+304,Ronnie Bell,San Francisco 49ers,7,2024,2,22,0,5,6
+305,Trey Benson,Arizona Cardinals,7,2024,2,12,0,22,2
+306,Jermaine Burton,Cincinnati Bengals,7,2024,2,88,0,20,5
+307,Blake Corum,Los Angeles Rams,7,2024,2,17,0,25,2
+308,Jacob Cowing,San Francisco 49ers,7,2024,2,50,0,16,3
+309,Josiah Deguara,Jacksonville Jaguars,4,2024,2,10,0,10,2
+310,Ashton Dulin,Indianapolis Colts,8,2024,2,67,1,43,5
+311,D'Wayne Eskridge,Miami Dolphins,3,2024,2,36,0,18,2
+312,C.J. Ham,Minnesota Vikings,6,2024,2,11,0,6,2
+313,Khalil Herbert,Chicago Bears,5,2024,2,4,0,6,2
+314,KhaDarel Hodge,Atlanta Falcons,8,2024,2,67,1,45,2
+315,Tanner Hudson,Cincinnati Bengals,3,2024,2,18,0,10,4
+316,Brevin Jordan,Houston Texans,2,2024,2,7,0,3,3
+317,Will Mallory,Indianapolis Colts,5,2024,2,12,0,0,5
+318,Scott Matlock,Los Angeles Chargers,7,2024,2,16,0,11,3
+319,Kendre Miller,New Orleans Saints,2,2024,2,1,0,4,3
+320,Scott Miller,Pittsburgh Steelers,8,2024,2,31,0,22,4
+321,Jordan Mims,New Orleans Saints,6,2024,2,13,0,10,4
+322,MyCole Pruitt,Pittsburgh Steelers,4,2024,2,19,0,4,3
+323,Tip Reiman,Arizona Cardinals,8,2024,2,6,0,4,2
+324,Ben Sinnott,Washington Commanders,7,2024,2,6,1,6,2
+325,Stone Smartt,Los Angeles Chargers,7,2024,2,41,0,12,3
+326,Xavier Smith,Los Angeles Rams,5,2024,2,6,0,5,2
+327,Durham Smythe,Miami Dolphins,6,2024,2,11,0,4,7
+328,Brevyn Spann-Ford,Dallas Cowboys,7,2024,2,20,0,12,6
+329,Jack Stoll,Philadelphia Eagles,5,2024,2,10,0,2,3
+330,J.J. Taylor,Houston Texans,2,2024,2,0,0,1,3
+331,Ian Thomas,Carolina Panthers,2,2024,2,4,0,5,5
+332,Marquez Valdes-Scantling,NaN,NaN,NaN,2,26,0,6,9
+333,Deuce Vaughn,Dallas Cowboys,3,2024,2,14,0,11,3
+334,Tylan Wallace,Baltimore Ravens,8,2024,2,31,0,13,2
+335,Kristian Wilkerson,Las Vegas Raiders,1,2024,2,18,1,11,3
+336,Isaiah Williams,NaN,NaN,NaN,2,6,0,7,3
+337,Jeff Wilson,Miami Dolphins,3,2024,2,12,0,13,2
+338,Charlie Woerner,Atlanta Falcons,8,2024,2,17,0,10,3
+339,Robbie Chosen,Miami Dolphins,2,2024,1,5,0,1,4
+340,Chris Brooks,NaN,NaN,NaN,1,1,0,0,1
+341,Julius Chestnut,Tennessee Titans,7,2024,1,9,0,12,1
+342,Nick Chubb,Cleveland Browns,2,2024,1,10,0,5,5
+343,Chris Conley,San Francisco 49ers,7,2024,1,4,0,0,6
+344,Dalvin Cook,Dallas Cowboys,1,2024,1,10,0,7,1
+345,Malachi Corley,New York Jets,2,2024,1,4,0,5,1
+346,Jamison Crowder,Washington Commanders,1,2024,1,5,0,8,1
+347,Jaelon Darden,Cleveland Browns,4,2024,1,6,0,9,1
+348,Derius Davis,Los Angeles Chargers,5,2024,1,8,0,11,2
+349,Grant DuBose,Miami Dolphins,2,2024,1,13,0,0,3
+350,Payne Durham,Tampa Bay Buccaneers,7,2024,1,8,0,6,1
+351,Devin Duvernay,Jacksonville Jaguars,5,2024,1,-1,0,2,1
+352,Gus Edwards,Los Angeles Chargers,4,2024,1,2,0,4,1
+353,Ryan Flournoy,Dallas Cowboys,3,2024,1,12,0,3,1
+354,Joseph Fortson,NaN,NaN,NaN,1,5,0,2,3
+355,Myles Gaskin,Minnesota Vikings,5,2024,1,11,0,13,1
+356,Jared Goff,Detroit Lions,7,2024,1,7,1,2,1
+357,Isaiah Hodgins,New York Giants,2,2024,1,5,0,0,1
+358,Jalin Hyatt,New York Giants,7,2024,1,6,0,0,8
+359,Brandon Johnson,NaN,NaN,NaN,1,9,0,4,1
+360,Charlie Jones,NaN,NaN,NaN,1,5,0,0,1
+361,Zay Jones,Arizona Cardinals,2,2024,1,3,0,5,2
+362,Tim Jones,NaN,NaN,NaN,1,20,0,17,2
+363,Velus Jones Jr.,NaN,NaN,NaN,1,8,0,13,1
+364,Marcedes Lewis,Chicago Bears,6,2024,1,2,0,1,1
+365,MarShawn Lloyd,Green Bay Packers,1,2024,1,3,0,8,1
+366,Patrick Mahomes,Kansas City Chiefs,7,2024,1,2,0,3,1
+367,Jeremy McNichols,Washington Commanders,8,2024,1,6,0,9,1
+368,Wanya Morris,Kansas City Chiefs,7,2024,1,1,1,0,1
+369,Dameon Pierce,Houston Texans,4,2024,1,1,0,3,1
+370,James Proche,Cleveland Browns,4,2024,1,3,0,4,1
+371,Ronnie Rivers,Los Angeles Rams,6,2024,1,0,0,7,1
+372,John Ross,Philadelphia Eagles,1,2024,1,6,0,2,2
+373,Trent Scott,Washington Commanders,8,2024,1,1,1,0,1
+374,John Shenker,Las Vegas Raiders,5,2024,1,7,0,3,1
+375,Tyler Smith,Dallas Cowboys,5,2024,1,0,0,6,1
+376,Geoff Swaim,Cleveland Browns,6,2024,1,7,0,5,1
+377,Patrick Taylor,San Francisco 49ers,8,2024,1,12,0,9,1
+378,Eric Tomlinson,Los Angeles Chargers,7,2024,1,7,0,10,3
+379,Brycen Tremayne,Washington Commanders,1,2024,1,-2,0,0,1
+380,Sione Vaki,Detroit Lions,7,2024,1,17,0,2,1
+381,Casey Washington,Atlanta Falcons,3,2024,1,14,0,11,1
+382,Jared Wiley,Kansas City Chiefs,5,2024,1,7,0,3,1
+383,Johnny Wilson,NaN,NaN,NaN,1,9,0,6,6
+384,Davis Allen,Los Angeles Rams,3,2024,0,0,0,0,2
+385,Andrew Beck,Green Bay Packers,2,2024,0,0,0,0,1
+386,Odell Beckham Jr.,NaN,NaN,NaN,0,0,0,0,3
+387,Braxton Berrios,Miami Dolphins,6,2024,0,0,0,0,4
+388,Jake Brendel,San Francisco 49ers,7,2024,0,2,0,0,0
+389,Irvin Charles,New York Jets,8,2024,0,0,0,0,1
+390,Taylor Decker,Detroit Lions,6,2024,0,0,0,0,1
+391,Erik Ezukanma,Miami Dolphins,1,2024,0,0,0,0,2
+392,Justin Fields,Pittsburgh Steelers,6,2024,0,0,0,0,0
+393,Sam Franklin Jr.,NaN,NaN,NaN,0,0,0,0,1
+394,Feleipe Franks,Carolina Panthers,6,2024,0,0,0,0,1
+395,Zach Frazier,Pittsburgh Steelers,5,2024,0,-2,0,-2,0
+396,Jha'Quan Jackson,Tennessee Titans,7,2024,0,0,0,0,1
+397,Kameron Johnson,Tampa Bay Buccaneers,4,2024,0,0,0,0,1
+398,Tom Kennedy,Detroit Lions,2,2024,0,0,0,0,1
+399,Trevor Lawrence,Jacksonville Jaguars,8,2024,0,-5,0,-5,0
+400,Chris Manhertz,New York Giants,8,2024,0,0,0,0,1
+401,Jordan Matthews,Carolina Panthers,1,2024,0,0,0,0,1
+402,Baker Mayfield,Tampa Bay Buccaneers,8,2024,0,0,0,0,0
+403,Skyy Moore,Kansas City Chiefs,6,2024,0,0,0,0,3
+404,Adam Prentice,New Orleans Saints,8,2024,0,0,0,0,2
+405,Dominick Puni,San Francisco 49ers,6,2024,0,-3,0,0,0
+406,Patrick Ricard,Baltimore Ravens,7,2024,0,0,0,0,2
+407,Allen Robinson,Detroit Lions,3,2024,0,0,0,0,2
+408,Isaac Seumalo,Pittsburgh Steelers,4,2024,0,0,0,0,0
+409,Xavier Weaver,Arizona Cardinals,1,2024,0,0,0,0,1
+410,Tristan Wirfs,Tampa Bay Buccaneers,8,2024,0,9,0,9,0
+411,Jaylen Wright,Miami Dolphins,6,2024,0,0,0,0,1
+412,Dareke Young,Seattle Seahawks,4,2024,0,0,0,0,1
+413,CeeDee Lamb,Dallas Cowboys,17,2023,135,1749,12,680,181
+414,Tyreek Hill,Miami Dolphins,16,2023,119,1799,13,652,171
+415,Amon-Ra St. Brown,Detroit Lions,16,2023,119,1515,10,668,164
+416,Evan Engram,Jacksonville Jaguars,17,2023,114,963,4,516,143
+417,Michael Pittman,NaN,NaN,NaN,109,1152,4,513,156
+418,Keenan Allen,Los Angeles Chargers,13,2023,108,1243,7,396,150
+419,Stefon Diggs,Buffalo Bills,17,2023,107,1183,8,399,160
+420,A.J. Brown,Philadelphia Eagles,17,2023,106,1456,7,473,158
+421,Puka Nacua,Los Angeles Rams,17,2023,105,1486,6,639,160
+422,Davante Adams,Las Vegas Raiders,17,2023,103,1144,8,336,175
+423,Adam Thielen,Carolina Panthers,17,2023,103,1014,4,334,137
+424,Ja'Marr Chase,Cincinnati Bengals,16,2023,100,1216,7,541,145
+425,DJ Moore,NaN,NaN,NaN,96,1364,8,539,136
+426,T.J. Hockenson,Minnesota Vikings,15,2023,95,960,5,336,127
+427,Garrett Wilson,New York Jets,17,2023,95,1042,3,327,168
+428,Travis Kelce,Kansas City Chiefs,15,2023,93,984,5,470,120
+429,Chris Olave,New Orleans Saints,16,2023,87,1123,5,347,138
+430,Sam LaPorta,Detroit Lions,17,2023,86,889,10,358,120
+431,Chris Godwin,Tampa Bay Buccaneers,17,2023,83,1024,2,376,130
+432,Trey McBride,Arizona Cardinals,17,2023,81,825,3,420,106
+433,David Njoku,Cleveland Browns,16,2023,81,882,6,599,123
+434,DeVonta Smith,Philadelphia Eagles,16,2023,81,1066,7,294,112
+435,Nico Collins,Houston Texans,15,2023,80,1297,8,549,109
+436,Mike Evans,Tampa Bay Buccaneers,17,2023,79,1255,13,322,136
+437,Tyler Lockett,Seattle Seahawks,17,2023,79,894,5,210,122
+438,Terry McLaurin,Washington Commanders,17,2023,79,1002,4,350,132
+439,Rashee Rice,Kansas City Chiefs,16,2023,79,938,7,652,102
+440,Zay Flowers,Baltimore Ravens,16,2023,77,858,5,387,108
+441,Breece Hall,New York Jets,17,2023,76,591,4,649,95
+442,Calvin Ridley,Jacksonville Jaguars,17,2023,76,1016,8,194,136
+443,Brandon Aiyuk,San Francisco 49ers,16,2023,75,1342,7,362,105
+444,DeAndre Hopkins,Tennessee Titans,17,2023,75,1057,7,223,137
+445,Alvin Kamara,New Orleans Saints,13,2023,75,466,1,501,86
+446,Dalton Kincaid,Buffalo Bills,16,2023,73,673,2,315,91
+447,Cole Kmet,Chicago Bears,17,2023,73,719,6,290,90
+448,Amari Cooper,Cleveland Browns,15,2023,72,1250,5,271,128
+449,Jaylen Waddle,Miami Dolphins,14,2023,72,1014,4,421,103
+450,Jake Ferguson,Dallas Cowboys,17,2023,71,761,5,425,102
+451,Jakobi Meyers,Las Vegas Raiders,16,2023,71,807,8,242,106
+452,Jordan Addison,Minnesota Vikings,17,2023,70,911,10,262,107
+453,Drake London,Atlanta Falcons,16,2023,69,905,2,188,110
+454,Josh Downs,Indianapolis Colts,17,2023,68,771,2,371,98
+455,Justin Jefferson,Minnesota Vikings,10,2023,68,1074,5,260,100
+456,Tyler Boyd,Cincinnati Bengals,17,2023,67,667,2,279,98
+457,Christian McCaffrey,San Francisco 49ers,16,2023,67,564,7,461,83
+458,DK Metcalf,NaN,NaN,NaN,66,1114,8,367,119
+459,George Kittle,San Francisco 49ers,16,2023,65,1020,6,483,90
+460,Jayden Reed,Green Bay Packers,16,2023,64,793,8,335,94
+461,Rachaad White,Tampa Bay Buccaneers,17,2023,64,549,3,611,70
+462,George Pickens,Pittsburgh Steelers,17,2023,63,1140,5,388,106
+463,Jaxon Smith-Njigba,Seattle Seahawks,17,2023,63,628,4,366,93
+464,Curtis Samuel,Washington Commanders,16,2023,62,613,4,260,91
+465,Tyler Conklin,New York Jets,17,2023,61,621,0,246,87
+466,Jaylen Warren,Pittsburgh Steelers,17,2023,61,370,0,482,74
+467,Wan'Dale Robinson,New York Giants,15,2023,60,525,1,287,78
+468,Deebo Samuel Sr.,NaN,NaN,NaN,60,892,7,527,89
+469,Romeo Doubs,Green Bay Packers,17,2023,59,674,8,134,96
+470,Dallas Goedert,Philadelphia Eagles,14,2023,59,592,3,319,83
+471,Cooper Kupp,Los Angeles Rams,12,2023,59,737,5,322,95
+472,Elijah Moore,Cleveland Browns,17,2023,59,640,2,191,104
+473,Dalton Schultz,Houston Texans,15,2023,59,635,5,259,88
+474,Courtland Sutton,Denver Broncos,16,2023,59,772,10,156,90
+475,Travis Etienne,Jacksonville Jaguars,17,2023,58,476,1,502,73
+476,Bijan Robinson,Atlanta Falcons,17,2023,58,487,4,481,86
+477,Christian Kirk,Jacksonville Jaguars,12,2023,57,787,3,247,85
+478,Tony Pollard,Dallas Cowboys,17,2023,55,311,0,321,67
+479,Logan Thomas,NaN,NaN,NaN,55,496,4,229,78
+480,Brandin Cooks,Dallas Cowboys,16,2023,54,657,8,125,81
+481,Jerry Jeudy,Denver Broncos,16,2023,54,758,2,323,87
+482,Chig Okonkwo,NaN,NaN,NaN,54,528,1,260,77
+483,Kyle Pitts,Atlanta Falcons,17,2023,53,667,3,134,90
+484,Jahmyr Gibbs,Detroit Lions,15,2023,52,316,1,314,71
+485,Joe Mixon,Cincinnati Bengals,17,2023,52,376,3,463,64
+486,Tyjae Spears,Tennessee Titans,17,2023,52,385,1,460,70
+487,Darren Waller,NaN,NaN,NaN,52,552,1,211,74
+488,Marquise Brown,Arizona Cardinals,14,2023,51,574,4,164,101
+489,Austin Ekeler,Los Angeles Chargers,14,2023,51,436,1,533,74
+490,Ezekiel Elliott,New England Patriots,17,2023,51,313,2,374,65
+491,Gerald Everett,Los Angeles Chargers,15,2023,51,411,3,275,70
+492,Diontae Johnson,Pittsburgh Steelers,13,2023,51,717,5,261,87
+493,Samaje Perine,Denver Broncos,17,2023,50,455,0,462,56
+494,Darius Slayton,New York Giants,17,2023,50,770,4,298,79
+495,Jonnu Smith,Atlanta Falcons,17,2023,50,582,3,357,70
+496,Jahan Dotson,Washington Commanders,17,2023,49,518,4,115,83
+497,Demario Douglas,New England Patriots,14,2023,49,561,0,336,79
+498,Antonio Gibson,NaN,NaN,NaN,48,389,2,377,59
+499,K.J. Osborn,Minnesota Vikings,16,2023,48,540,3,185,75
+500,Tank Dell,Houston Texans,11,2023,47,709,7,152,75
+501,Tyler Higbee,Los Angeles Rams,15,2023,47,495,2,246,70
+502,Cade Otton,Tampa Bay Buccaneers,17,2023,47,455,4,223,67
+503,Javonte Williams,Denver Broncos,16,2023,47,228,2,301,58
+504,Rashid Shaheed,New Orleans Saints,15,2023,46,719,5,151,75
+505,Mark Andrews,Baltimore Ravens,10,2023,45,544,6,217,61
+506,Gabe Davis,Buffalo Bills,17,2023,45,746,7,180,81
+507,James Cook,NaN,NaN,NaN,44,445,4,398,54
+508,Jerome Ford,Cleveland Browns,17,2023,44,319,5,304,63
+509,Isiah Pacheco,Kansas City Chiefs,14,2023,44,244,2,359,49
+510,Jonathan Mingo,Carolina Panthers,15,2023,43,418,0,155,85
+511,Hunter Henry,New England Patriots,14,2023,42,419,6,78,61
+512,Tee Higgins,Cincinnati Bengals,12,2023,42,656,5,235,76
+513,Saquon Barkley,New York Giants,14,2023,41,280,4,226,60
+514,Rondale Moore,Arizona Cardinals,17,2023,40,352,1,216,62
+515,Josh Reynolds,Detroit Lions,17,2023,40,608,5,173,64
+516,Robert Woods,Houston Texans,14,2023,40,426,1,126,75
+517,Tutu Atwell,Los Angeles Rams,16,2023,39,483,3,104,67
+518,Chuba Hubbard,Carolina Panthers,17,2023,39,233,0,265,44
+519,Tanner Hudson,Cincinnati Bengals,12,2023,39,352,1,148,50
+520,Trey Palmer,Tampa Bay Buccaneers,17,2023,39,385,3,103,68
+521,Khalil Shakir,Buffalo Bills,17,2023,39,611,2,282,45
+522,D'Andre Swift,Philadelphia Eagles,16,2023,39,214,1,267,49
+523,Michael Thomas,NaN,NaN,NaN,39,448,1,100,64
+524,Dontayvion Wicks,Green Bay Packers,15,2023,39,581,4,211,58
+525,Quentin Johnston,Los Angeles Chargers,17,2023,38,431,2,152,67
+526,Josh Palmer,Los Angeles Chargers,10,2023,38,581,2,196,61
+527,Rhamondre Stevenson,New England Patriots,12,2023,38,238,0,261,51
+528,Michael Wilson,Arizona Cardinals,13,2023,38,565,3,139,58
+529,Kendrick Bourne,New England Patriots,8,2023,37,406,4,203,55
+530,Josh Jacobs,Las Vegas Raiders,13,2023,37,296,0,293,54
+531,Juwan Johnson,New Orleans Saints,13,2023,37,368,4,145,59
+532,Brian Robinson,Washington Commanders,15,2023,36,368,4,410,43
+533,Nelson Agholor,Baltimore Ravens,17,2023,35,381,4,141,45
+534,Odell Beckham Jr.,NaN,NaN,NaN,35,565,3,155,64
+535,DJ Chark,NaN,NaN,NaN,35,525,5,84,66
+536,Kalif Raymond,Detroit Lions,17,2023,35,489,1,214,44
+537,Durham Smythe,Miami Dolphins,16,2023,35,366,0,139,43
+538,Michael Gallup,NaN,NaN,NaN,34,418,2,104,57
+539,Roschon Johnson,Chicago Bears,15,2023,34,209,0,247,40
+540,Zay Jones,Jacksonville Jaguars,9,2023,34,321,2,51,64
+541,Luke Musgrave,Green Bay Packers,11,2023,34,352,1,169,46
+542,Allen Robinson,Pittsburgh Steelers,17,2023,34,280,0,68,49
+543,Noah Brown,Houston Texans,10,2023,33,567,2,223,55
+544,Zach Charbonnet,Seattle Seahawks,16,2023,33,209,0,248,40
+545,Taysom Hill,New Orleans Saints,16,2023,33,291,2,133,40
+546,DeVante Parker,NaN,NaN,NaN,33,394,0,126,55
+547,Rashod Bateman,Baltimore Ravens,16,2023,32,367,1,59,56
+548,Noah Fant,Seattle Seahawks,17,2023,32,414,0,177,43
+549,Pat Freiermuth,Pittsburgh Steelers,12,2023,32,308,2,145,47
+550,Alec Pierce,Indianapolis Colts,17,2023,32,514,2,97,65
+551,Kyren Williams,Los Angeles Rams,12,2023,32,206,3,277,48
+552,Tucker Kraft,Green Bay Packers,17,2023,31,355,2,232,40
+553,Jaleel McLaughlin,Denver Broncos,17,2023,31,160,2,290,36
+554,Darnell Mooney,Chicago Bears,15,2023,31,414,1,181,61
+555,Kenneth Gainwell,Philadelphia Eagles,16,2023,30,183,0,175,37
+556,Kylen Granson,Indianapolis Colts,15,2023,30,368,1,128,50
+557,Aaron Jones,Green Bay Packers,11,2023,30,233,1,271,43
+558,Isaiah Likely,Baltimore Ravens,17,2023,30,411,5,216,40
+559,Alexander Mattison,Minnesota Vikings,16,2023,30,192,3,181,44
+560,Devin Singletary,Houston Texans,17,2023,30,193,0,223,38
+561,Mike Gesicki,New England Patriots,17,2023,29,244,2,88,45
+562,Najee Harris,NaN,NaN,NaN,29,170,0,175,38
+563,Brandon Powell,Minnesota Vikings,17,2023,29,324,1,104,44
+564,JuJu Smith-Schuster,New England Patriots,11,2023,29,260,1,94,47
+565,Kenneth Walker III,Seattle Seahawks,15,2023,29,259,1,317,37
+566,Noah Gray,Kansas City Chiefs,17,2023,28,305,2,140,41
+567,Derrick Henry,Tennessee Titans,17,2023,28,214,0,275,36
+568,Justice Hill,Baltimore Ravens,16,2023,28,206,1,237,39
+569,Christian Watson,Green Bay Packers,9,2023,28,422,5,105,53
+570,Nick Westbrook-Ikhine,Tennessee Titans,14,2023,28,370,3,107,45
+571,De'Von Achane,NaN,NaN,NaN,27,197,3,262,37
+572,Braxton Berrios,Miami Dolphins,16,2023,27,238,1,85,33
+573,James Conner,Arizona Cardinals,13,2023,27,165,2,221,33
+574,Zach Ertz,Arizona Cardinals,7,2023,27,187,1,46,43
+575,Michael Mayer,Las Vegas Raiders,14,2023,27,304,2,164,40
+576,Zack Moss,Indianapolis Colts,14,2023,27,192,2,189,37
+577,Donald Parham,Los Angeles Chargers,14,2023,27,285,4,126,41
+578,Miles Sanders,Carolina Panthers,16,2023,27,154,0,158,41
+579,Kadarius Toney,Kansas City Chiefs,13,2023,27,169,1,128,38
+580,Justin Watson,Kansas City Chiefs,16,2023,27,460,3,47,53
+581,Demarcus Robinson,Los Angeles Rams,16,2023,26,371,4,89,39
+582,Daniel Bellinger,New York Giants,17,2023,25,255,0,134,28
+583,Austin Hooper,Las Vegas Raiders,17,2023,25,234,0,142,31
+584,Trenton Irwin,Cincinnati Bengals,16,2023,25,316,1,110,32
+585,Jerick McKinnon,NaN,NaN,NaN,25,192,4,219,32
+586,Raheem Mostert,Miami Dolphins,15,2023,25,175,3,213,32
+587,Colby Parkinson,Seattle Seahawks,17,2023,25,247,2,86,34
+588,Hunter Renfrow,NaN,NaN,NaN,25,255,0,152,37
+589,Michael Carter,NaN,NaN,NaN,24,101,1,87,31
+590,Greg Dortch,Arizona Cardinals,16,2023,24,280,2,152,41
+591,Jameson Williams,Detroit Lions,12,2023,24,354,2,105,42
+592,Connor Heyward,Pittsburgh Steelers,17,2023,23,167,0,94,34
+593,Jalin Hyatt,New York Giants,17,2023,23,373,0,48,40
+594,Allen Lazard,New York Jets,14,2023,23,311,1,56,49
+595,Tommy Tremble,Carolina Panthers,16,2023,23,194,3,95,32
+596,AJ Dillon,NaN,NaN,NaN,22,223,0,231,28
+597,Dawson Knox,Buffalo Bills,12,2023,22,186,2,96,36
+598,Marvin Mims Jr.,Denver Broncos,16,2023,22,377,1,154,33
+599,Chris Moore,Tennessee Titans,17,2023,22,424,0,57,35
+600,Josh Oliver,Minnesota Vikings,17,2023,22,213,2,162,28
+601,Drew Sample,Cincinnati Bengals,17,2023,22,163,2,173,27
+602,Jalen Tolbert,Dallas Cowboys,17,2023,22,268,2,34,36
+603,Adam Trautman,Denver Broncos,17,2023,22,204,3,98,35
+604,Cedrick Wilson Jr.,NaN,NaN,NaN,22,296,3,57,38
+605,Ty Chandler,Minnesota Vikings,17,2023,21,159,0,206,25
+606,Emari Demercado,Arizona Cardinals,14,2023,21,119,0,109,30
+607,Xavier Gipson,New York Jets,17,2023,21,229,0,109,38
+608,Isaiah Hodgins,New York Giants,17,2023,21,230,3,75,33
+609,Skyy Moore,Kansas City Chiefs,14,2023,21,244,1,109,38
+610,Foster Moreau,New Orleans Saints,15,2023,21,193,1,96,25
+611,Cedric Tillman,NaN,NaN,NaN,21,224,0,88,44
+612,Marquez Valdes-Scantling,Kansas City Chiefs,16,2023,21,315,1,92,42
+613,Parris Campbell,New York Giants,12,2023,20,104,0,65,27
+614,Khalil Herbert,Chicago Bears,12,2023,20,134,1,138,31
+615,Van Jefferson,Atlanta Falcons,12,2023,20,209,0,25,43
+616,Ameer Abdullah,Las Vegas Raiders,17,2023,19,131,0,88,24
+617,John Bates,Washington Commanders,17,2023,19,151,0,65,28
+618,Jake Bobo,Seattle Seahawks,17,2023,19,196,2,87,25
+619,Jauan Jennings,San Francisco 49ers,13,2023,19,265,1,89,33
+620,Brandon Johnson,NaN,NaN,NaN,19,284,4,89,30
+621,Terrace Marshall Jr.,Carolina Panthers,9,2023,19,139,0,48,33
+622,Jonathan Taylor,Indianapolis Colts,10,2023,19,153,1,174,23
+623,Tre Tucker,Las Vegas Raiders,16,2023,19,331,2,28,34
+624,Mike Williams,Los Angeles Chargers,3,2023,19,249,1,108,26
+625,Tyler Allgeier,Atlanta Falcons,17,2023,18,193,1,217,23
+626,Mack Hollins,Atlanta Falcons,13,2023,18,251,0,55,30
+627,Hayden Hurst,Carolina Panthers,9,2023,18,184,1,67,32
+628,Will Mallory,Indianapolis Colts,12,2023,18,207,0,89,26
+629,Irv Smith,Cincinnati Bengals,12,2023,18,115,1,66,26
+630,Jamaal Williams,New Orleans Saints,13,2023,18,62,0,87,20
+631,Calvin Austin III,Pittsburgh Steelers,17,2023,17,180,1,73,30
+632,Matt Breida,NaN,NaN,NaN,17,88,0,89,21
+633,Will Dissly,Seattle Seahawks,16,2023,17,172,1,120,22
+634,Rico Dowdle,Dallas Cowboys,16,2023,17,144,2,170,22
+635,Clyde Edwards-Helaire,Kansas City Chiefs,15,2023,17,188,1,228,22
+636,Brevin Jordan,Houston Texans,14,2023,17,219,2,124,21
+637,Johnny Mundt,Minnesota Vikings,17,2023,17,172,1,94,23
+638,Latavius Murray,NaN,NaN,NaN,17,119,0,92,22
+639,Tyler Scott,NaN,NaN,NaN,17,168,0,70,32
+640,Deven Thompkins,Tampa Bay Buccaneers,17,2023,17,83,1,74,25
+641,Salvon Ahmed,Miami Dolphins,8,2023,16,88,1,109,23
+642,Treylon Burks,Tennessee Titans,11,2023,16,221,0,71,30
+643,Jamison Crowder,Washington Commanders,17,2023,16,159,1,80,20
+644,Alex Erickson,NaN,NaN,NaN,16,232,1,58,29
+645,Bo Melton,Green Bay Packers,5,2023,16,218,1,37,24
+646,John Metchie III,NaN,NaN,NaN,16,158,0,84,30
+647,David Montgomery,Detroit Lions,14,2023,16,117,0,149,24
+648,Jeremy Ruckert,New York Jets,15,2023,16,151,0,51,22
+649,Parker Washington,Jacksonville Jaguars,9,2023,16,132,2,34,21
+650,Jordan Akins,Cleveland Browns,17,2023,15,132,0,58,23
+651,Dalvin Cook,New York Jets,15,2023,15,78,0,106,20
+652,Derius Davis,Los Angeles Chargers,17,2023,15,66,0,115,17
+653,Mecole Hardman,Kansas City Chiefs,6,2023,15,124,0,108,24
+654,Deonte Harty,NaN,NaN,NaN,15,150,1,79,21
+655,Malik Heath,Green Bay Packers,13,2023,15,125,1,35,24
+656,Kareem Hunt,Cleveland Browns,15,2023,15,84,0,98,21
+657,Andrei Iosivas,Cincinnati Bengals,16,2023,15,116,4,35,25
+658,Kyle Philips,Tennessee Titans,9,2023,15,181,0,79,22
+659,Quez Watkins,Philadelphia Eagles,9,2023,15,142,1,46,21
+660,Zamir White,Las Vegas Raiders,17,2023,15,98,0,94,19
+661,Jamal Agnew,NaN,NaN,NaN,14,225,1,76,21
+662,David Bell,Cleveland Browns,15,2023,14,167,3,73,23
+663,Chase Brown,Cincinnati Bengals,12,2023,14,156,1,194,15
+664,Chase Edmonds,Tampa Bay Buccaneers,13,2023,14,81,0,111,17
+665,Elijah Higgins,Arizona Cardinals,11,2023,14,163,1,67,19
+666,KhaDarel Hodge,Atlanta Falcons,17,2023,14,232,0,83,23
+667,Kyle Juszczyk,San Francisco 49ers,17,2023,14,119,2,58,17
+668,Byron Pringle,NaN,NaN,NaN,14,161,0,31,22
+669,Jeff Wilson,Miami Dolphins,10,2023,14,85,0,69,17
+670,Mo Alie-Cox,Indianapolis Colts,17,2023,13,161,3,80,22
+671,Pharaoh Brown,New England Patriots,17,2023,13,208,1,121,15
+672,Harrison Bryant,Cleveland Browns,17,2023,13,81,3,35,20
+673,Luke Farrell,Jacksonville Jaguars,17,2023,13,155,0,96,15
+674,Lil'Jordan Humphrey,Denver Broncos,17,2023,13,162,3,99,19
+675,Alec Ingold,Miami Dolphins,17,2023,13,119,0,91,16
+676,Donovan Peoples-Jones,Detroit Lions,8,2023,13,155,0,35,25
+677,Dameon Pierce,Houston Texans,14,2023,13,101,0,95,17
+678,Tyquan Thornton,New England Patriots,9,2023,13,91,0,50,23
+679,Brock Wright,Detroit Lions,14,2023,13,91,1,49,14
+680,Dyami Brown,Washington Commanders,17,2023,12,168,1,76,23
+681,Gus Edwards,Baltimore Ravens,17,2023,12,180,0,145,13
+682,Ray-Ray McCloud,San Francisco 49ers,12,2023,12,135,0,87,15
+683,A.T. Perry,New Orleans Saints,10,2023,12,246,4,20,18
+684,Stephen Sullivan,Carolina Panthers,11,2023,12,125,0,8,24
+685,KaVontae Turpin,Dallas Cowboys,16,2023,12,127,3,39,18
+686,Cam Akers,Minnesota Vikings,6,2023,11,70,0,78,12
+687,Andrew Beck,Houston Texans,15,2023,11,55,2,37,13
+688,Lynn Bowden,NaN,NaN,NaN,11,83,0,57,16
+689,D'Onta Foreman,Chicago Bears,9,2023,11,77,1,65,16
+690,Julio Jones,NaN,NaN,NaN,11,74,3,28,19
+691,Tim Jones,NaN,NaN,NaN,11,83,0,31,18
+692,Isaiah McKenzie,NaN,NaN,NaN,11,82,0,72,14
+693,Scott Miller,Atlanta Falcons,17,2023,11,161,2,80,16
+694,Trent Sherfield,Buffalo Bills,17,2023,11,86,1,49,22
+695,Stone Smartt,Los Angeles Chargers,16,2023,11,155,1,56,21
+696,Patrick Taylor,Green Bay Packers,11,2023,11,49,0,59,17
+697,Robert Tonyan,Chicago Bears,17,2023,11,112,0,57,17
+698,Cole Turner,Washington Commanders,12,2023,11,120,0,50,15
+699,Davis Allen,Los Angeles Rams,15,2023,10,95,1,74,11
+700,Jalen Guyton,Los Angeles Chargers,8,2023,10,89,1,32,21
+701,Darrell Henderson,NaN,NaN,NaN,10,103,0,134,14
+702,Richie James,NaN,NaN,NaN,10,114,0,61,14
+703,D'Ernest Johnson,Jacksonville Jaguars,17,2023,10,140,0,136,12
+704,Kendre Miller,New Orleans Saints,8,2023,10,117,0,128,11
+705,Laviska Shenault Jr.,Carolina Panthers,8,2023,10,60,0,85,10
+706,Sterling Shepard,New York Giants,15,2023,10,57,1,33,22
+707,Geoff Swaim,Arizona Cardinals,14,2023,10,94,0,30,11
+708,Olamide Zaccheaus,Philadelphia Eagles,17,2023,10,164,2,52,20
+709,River Cracraft,Miami Dolphins,10,2023,9,121,1,49,12
+710,Keaton Mitchell,Baltimore Ravens,8,2023,9,93,0,122,11
+711,Andrew Ogletree,Indianapolis Colts,12,2023,9,147,2,30,21
+712,Cordarrelle Patterson,Atlanta Falcons,14,2023,9,38,1,37,12
+713,MyCole Pruitt,Atlanta Falcons,17,2023,9,110,1,46,12
+714,Josh Whyle,Tennessee Titans,11,2023,9,94,1,40,15
+715,Mitchell Wilcox,Cincinnati Bengals,17,2023,9,56,0,48,12
+716,Chase Claypool,NaN,NaN,NaN,8,77,1,25,21
+717,Josiah Deguara,Green Bay Packers,15,2023,8,65,0,39,8
+718,Xavier Hutchinson,Houston Texans,16,2023,8,90,0,20,19
+719,Joshua Kelley,Los Angeles Chargers,17,2023,8,32,0,39,12
+720,Lucas Krull,Denver Broncos,7,2023,8,95,1,50,14
+721,Luke Schoonmaker,Dallas Cowboys,17,2023,8,65,2,27,15
+722,Ben Skowronek,Los Angeles Rams,17,2023,8,66,1,30,12
+723,Ihmir Smith-Marsette,Carolina Panthers,17,2023,8,51,0,48,10
+724,Samori Toure,Green Bay Packers,11,2023,8,78,0,18,18
+725,C.J. Uzomah,New York Jets,12,2023,8,58,1,33,12
+726,Israel Abanikanda,New York Jets,6,2023,7,43,0,46,11
+727,Mike Boone,Houston Texans,9,2023,7,40,0,33,9
+728,Darrynton Evans,Miami Dolphins,2,2023,7,49,0,69,12
+729,C.J. Ham,Minnesota Vikings,17,2023,7,25,0,20,9
+730,Ty Johnson,Buffalo Bills,10,2023,7,62,1,60,7
+731,Charlie Jones,NaN,NaN,NaN,7,64,0,38,9
+732,Tony Jones,NaN,NaN,NaN,7,37,0,44,10
+733,Charlie Kolar,Baltimore Ravens,15,2023,7,87,1,17,9
+734,Jalen Reagor,New England Patriots,11,2023,7,138,0,18,23
+735,Deuce Vaughn,Dallas Cowboys,7,2023,7,40,0,46,7
+736,Darnell Washington,Pittsburgh Steelers,17,2023,7,61,0,50,10
+737,Trayveon Williams,Cincinnati Bengals,17,2023,7,10,0,35,9
+738,Ronnie Bell,San Francisco 49ers,17,2023,6,68,3,10,13
+739,Raheem Blackshear,Carolina Panthers,12,2023,6,45,0,38,7
+740,Jalen Brooks,Dallas Cowboys,7,2023,6,64,0,28,6
+741,DeeJay Dallas,Seattle Seahawks,17,2023,6,26,0,31,9
+742,Keelan Doss,NaN,NaN,NaN,6,33,0,14,13
+743,Tyler Goodson,Indianapolis Colts,6,2023,6,34,0,51,9
+744,Jimmy Graham,NaN,NaN,NaN,6,39,4,3,7
+745,Eric Gray,New York Giants,13,2023,6,22,0,40,7
+746,Julian Hill,Miami Dolphins,15,2023,6,48,0,30,9
+747,Elijah Mitchell,NaN,NaN,NaN,6,14,0,26,8
+748,Justyn Ross,Kansas City Chiefs,10,2023,6,53,0,15,11
+749,Isaiah Spiller,NaN,NaN,NaN,6,34,0,39,6
+750,Blake Bell,NaN,NaN,NaN,5,26,1,19,9
+751,Gary Brightwell,New York Giants,7,2023,5,47,0,53,7
+752,Jason Brownlee,New York Jets,7,2023,5,56,1,20,8
+753,Randall Cobb,NaN,NaN,NaN,5,39,1,23,17
+754,Payne Durham,Tampa Bay Buccaneers,13,2023,5,58,0,16,7
+755,Brycen Hopkins,NaN,NaN,NaN,5,78,0,32,7
+756,Deon Jackson,NaN,NaN,NaN,5,14,0,20,6
+757,Marvin Jones,NaN,NaN,NaN,5,35,0,9,10
+758,Keith Kirkwood,New Orleans Saints,13,2023,5,37,1,1,9
+759,Ty Montgomery,NaN,NaN,NaN,5,40,0,27,12
+760,David Moore,Tampa Bay Buccaneers,7,2023,5,94,1,62,7
+761,Craig Reynolds,Detroit Lions,17,2023,5,47,0,59,5
+762,Patrick Ricard,Baltimore Ravens,17,2023,5,52,1,35,7
+763,Ronnie Rivers,Los Angeles Rams,9,2023,5,22,0,41,5
+764,Equanimeous St. Brown,Chicago Bears,7,2023,5,62,0,7,6
+765,Jack Stoll,Philadelphia Eagles,17,2023,5,38,0,25,8
+766,Brenton Strange,Jacksonville Jaguars,14,2023,5,35,1,28,9
+767,Pierre Strong,Cleveland Browns,17,2023,5,47,0,73,8
+768,Ian Thomas,Carolina Panthers,12,2023,5,56,0,33,9
+769,Nate Adkins,Denver Broncos,10,2023,4,22,0,24,5
+770,Robbie Chosen,Miami Dolphins,9,2023,4,126,1,31,6
+771,Lawrence Cager,New York Giants,11,2023,4,36,1,27,5
+772,Grant Calcaterra,Philadelphia Eagles,15,2023,4,39,0,32,4
+773,DeAndre Carter,Las Vegas Raiders,17,2023,4,39,0,50,7
+774,Nick Chubb,Cleveland Browns,2,2023,4,21,0,20,4
+775,Britain Covey,Philadelphia Eagles,16,2023,4,42,0,26,6
+776,Devin Duvernay,Baltimore Ravens,13,2023,4,18,0,17,9
+777,Marquise Goodwin,NaN,NaN,NaN,4,67,0,21,13
+778,Peyton Hendershot,Dallas Cowboys,8,2023,4,38,0,28,7
+779,Keaontay Ingram,Arizona Cardinals,8,2023,4,26,0,31,4
+780,Rakim Jarrett,Tampa Bay Buccaneers,10,2023,4,60,0,27,9
+781,Velus Jones Jr.,NaN,NaN,NaN,4,20,0,15,7
+782,Marcedes Lewis,Chicago Bears,17,2023,4,29,1,29,5
+783,Zach Pascal,Arizona Cardinals,14,2023,4,19,0,12,15
+784,Boston Scott,Philadelphia Eagles,15,2023,4,52,0,43,6
+785,Ben Sims,Green Bay Packers,17,2023,4,21,1,18,6
+786,Austin Trammell,Los Angeles Rams,16,2023,4,29,0,35,7
+787,Emanuel Wilson,Green Bay Packers,7,2023,4,23,0,30,5
+788,Alex Armah,NaN,NaN,NaN,3,13,0,27,3
+789,Nick Bawden,NaN,NaN,NaN,3,21,0,22,3
+790,Khari Blasingame,Chicago Bears,16,2023,3,2,0,5,6
+791,Miles Boykin,Pittsburgh Steelers,17,2023,3,17,0,2,4
+792,Michael Burton,Denver Broncos,17,2023,3,8,0,6,3
+793,Chris Conley,San Francisco 49ers,8,2023,3,69,0,28,6
+794,Elijah Cooks,Jacksonville Jaguars,9,2023,3,38,0,8,4
+795,Jashaun Corbin,NaN,NaN,NaN,3,12,0,13,3
+796,Greg Dulcich,Denver Broncos,2,2023,3,25,0,5,4
+797,Melvin Gordon,NaN,NaN,NaN,3,46,0,28,3
+798,Kevin Harris,NaN,NaN,NaN,3,58,0,59,3
+799,Hunter Luepke,Dallas Cowboys,17,2023,3,18,0,16,4
+800,Jordan Mason,San Francisco 49ers,17,2023,3,31,0,23,4
+801,D.J. Montgomery,Indianapolis Colts,7,2023,3,56,1,28,8
+802,Jalen Nailor,Minnesota Vikings,6,2023,3,29,0,21,6
+803,La'Mical Perine,Kansas City Chiefs,5,2023,3,33,0,32,5
+804,Eric Saubert,Houston Texans,9,2023,3,12,0,6,3
+805,Trey Sermon,Indianapolis Colts,14,2023,3,13,0,6,6
+806,Steven Sims,Houston Texans,3,2023,3,25,0,27,3
+807,Keith Smith,NaN,NaN,NaN,3,33,0,15,3
+808,Charlie Woerner,San Francisco 49ers,17,2023,3,32,0,20,3
+809,Kayshon Boutte,New England Patriots,5,2023,2,19,0,10,7
+810,J.K. Dobbins,Baltimore Ravens,1,2023,2,15,0,15,3
+811,Elijah Dotson,NaN,NaN,NaN,2,13,0,14,2
+812,Kenyan Drake,NaN,NaN,NaN,2,31,0,36,3
+813,Damien Harris,NaN,NaN,NaN,2,16,0,16,2
+814,Trishton Jackson,Minnesota Vikings,7,2023,2,9,0,7,4
+815,Tyler Johnson,Los Angeles Rams,1,2023,2,8,1,1,3
+816,Chris Manhertz,Denver Broncos,16,2023,2,16,0,10,4
+817,Anthony McFarland,NaN,NaN,NaN,2,11,0,7,2
+818,James Mitchell,Detroit Lions,15,2023,2,28,0,12,2
+819,Quintin Morris,Buffalo Bills,15,2023,2,26,1,5,3
+820,Dare Ogunbowale,Houston Texans,12,2023,2,18,0,5,7
+821,Adam Prentice,New Orleans Saints,13,2023,2,12,0,8,3
+822,Teagan Quitoriano,Houston Texans,7,2023,2,33,0,18,3
+823,Chris Rodriguez Jr.,Washington Commanders,13,2023,2,12,0,19,2
+824,Willie Snead,NaN,NaN,NaN,2,14,0,3,3
+825,Malik Taylor,New York Jets,3,2023,2,13,0,7,4
+826,Sean Tucker,Tampa Bay Buccaneers,11,2023,2,9,0,12,2
+827,Ke'Shawn Vaughn,Tampa Bay Buccaneers,6,2023,2,2,0,1,5
+828,David Wells,NaN,NaN,NaN,2,-10,0,-10,2
+829,Damien Williams,NaN,NaN,NaN,2,12,0,11,2
+830,Kenny Yeboah,New York Jets,5,2023,2,28,0,20,4
+831,Tank Bigsby,Jacksonville Jaguars,17,2023,1,6,0,5,4
+832,Ben Bredeson,New York Giants,16,2023,1,0,0,2,1
+833,Jake Browning,Cincinnati Bengals,9,2023,1,-7,0,0,1
+834,Khalil Dorsey,Detroit Lions,13,2023,1,31,0,9,1
+835,Colton Dowell,Tennessee Titans,10,2023,1,3,0,0,2
+836,Ross Dwelley,San Francisco 49ers,12,2023,1,12,0,12,2
+837,Brandin Echols,New York Jets,14,2023,1,18,0,8,1
+838,Chris Evans,Cincinnati Bengals,8,2023,1,-1,0,0,1
+839,Simi Fehoko,Los Angeles Chargers,6,2023,1,9,1,7,2
+840,Tucker Fisk,Atlanta Falcons,6,2023,1,9,0,6,1
+841,John FitzPatrick,Atlanta Falcons,9,2023,1,12,0,10,1
+842,Cole Fotheringham,Las Vegas Raiders,2,2023,1,6,0,5,1
+843,Royce Freeman,Los Angeles Rams,14,2023,1,13,0,14,2
+844,Jake Funk,Indianapolis Colts,4,2023,1,12,0,12,1
+845,Reggie Gilliam,Buffalo Bills,17,2023,1,3,0,2,1
+846,Antoine Green,Detroit Lions,9,2023,1,2,0,1,2
+847,Justin Herbert,Los Angeles Chargers,13,2023,1,10,0,17,1
+848,Jesper Horsted,NaN,NaN,NaN,1,4,0,2,1
+849,Sam Howell,Washington Commanders,17,2023,1,4,0,3,1
+850,Evan Hull,Indianapolis Colts,1,2023,1,6,0,3,1
+851,Collin Johnson,Chicago Bears,3,2023,1,11,0,4,1
+852,Jakob Johnson,Las Vegas Raiders,13,2023,1,12,0,10,2
+853,Ko Kieft,Tampa Bay Buccaneers,16,2023,1,2,1,2,5
+854,Mason Kinsey,Tennessee Titans,6,2023,1,6,0,8,1
+855,Bam Knight,NaN,NaN,NaN,1,8,0,13,1
+856,Kwamie Lassiter II,NaN,NaN,NaN,1,2,0,3,1
+857,Nick Muse,Minnesota Vikings,2,2023,1,22,0,10,1
+858,Gunner Olszewski,New York Giants,10,2023,1,0,0,0,1
+859,Devine Ozigbo,NaN,NaN,NaN,1,8,0,5,1
+860,Rashaad Penny,NaN,NaN,NaN,1,5,0,6,1
+861,Kevin Rader,NaN,NaN,NaN,1,6,0,4,3
+862,Giovanni Ricci,NaN,NaN,NaN,1,2,0,3,1
+863,Desmond Ridder,Atlanta Falcons,15,2023,1,-6,0,0,1
+864,James Robinson,NaN,NaN,NaN,1,-2,0,1,1
+865,Malcolm Rodriguez,Detroit Lions,17,2023,1,6,0,0,1
+866,Jeffery Simmons,Tennessee Titans,12,2023,1,2,1,0,1
+867,Dan Skipper,Detroit Lions,11,2023,1,4,0,5,1
+868,Donovan Smith,NaN,NaN,NaN,1,0,0,0,1
+869,Geno Smith,Seattle Seahawks,15,2023,1,-2,0,6,1
+870,Mike Strachan,Carolina Panthers,4,2023,1,45,0,8,3
+871,C.J. Stroud,Houston Texans,15,2023,1,0,0,1,1
+872,Cody Thompson,Seattle Seahawks,7,2023,1,10,0,4,1
+873,Laquon Treadwell,Baltimore Ravens,5,2023,1,16,0,0,3
+874,Nick Vannett,Los Angeles Chargers,8,2023,1,3,0,0,1
+875,Tylan Wallace,Baltimore Ravens,11,2023,1,11,0,0,2
+876,Trevon Wesco,Tennessee Titans,15,2023,1,21,0,12,3
+877,Damiere Byrd,NaN,NaN,NaN,0,0,0,0,2
+878,Irvin Charles,New York Jets,12,2023,0,0,0,0,1
+879,Tommy DeVito,New York Giants,9,2023,0,0,0,0,0
+880,Phillip Dorsett,Denver Broncos,2,2023,0,0,0,0,3
+881,D'Wayne Eskridge,Seattle Seahawks,4,2023,0,0,0,0,1
+882,Erik Ezukanma,Miami Dolphins,2,2023,0,0,0,0,1
+883,Chauncey Golston,Dallas Cowboys,17,2023,0,0,0,0,0
+884,Robert Hainsey,Tampa Bay Buccaneers,17,2023,0,-3,0,-3,0
+885,JaMycal Hasty,New England Patriots,2,2023,0,0,0,0,2
+886,Travis Homer,Chicago Bears,16,2023,0,0,0,0,1
+887,Shedrick Jackson,Cincinnati Bengals,3,2023,0,0,0,0,1
+888,Daniel Jones,New York Giants,6,2023,0,0,0,0,0
+889,Sean McKeon,Dallas Cowboys,9,2023,0,0,0,0,2
+890,Jordan Mims,New Orleans Saints,2,2023,0,0,0,0,2
+891,Albert Okwuegbunam,Philadelphia Eagles,4,2023,0,0,0,0,1
+892,Trey Pipkins,Los Angeles Chargers,17,2023,0,0,0,0,0
+893,James Proche,Cleveland Browns,10,2023,0,0,0,0,5
+894,Amari Rodgers,NaN,NaN,NaN,0,0,0,0,2
+895,Matthew Stafford,Los Angeles Rams,15,2023,0,0,0,0,0
+896,Easton Stick,Los Angeles Chargers,5,2023,0,0,0,0,0
+897,Cole Strange,New England Patriots,10,2023,0,3,0,3,0
+898,Ryan Tannehill,NaN,NaN,NaN,0,0,0,0,1
+899,Trent Taylor,Chicago Bears,17,2023,0,0,0,0,2
+900,Greg Van Roten,Las Vegas Raiders,17,2023,0,5,0,5,0
+901,Jonathan Williams,NaN,NaN,NaN,0,0,0,0,1
+902,Rod Williams,NaN,NaN,NaN,0,0,0,0,2
+903,Juwann Winfree,Indianapolis Colts,8,2023,0,0,0,0,1
+904,Justin Jefferson,Minnesota Vikings,17,2022,128,1809,8,613,184
+905,Tyreek Hill,Miami Dolphins,17,2022,119,1710,7,482,170
+906,Travis Kelce,Kansas City Chiefs,17,2022,110,1338,12,657,152
+907,Stefon Diggs,Buffalo Bills,16,2022,108,1429,11,419,154
+908,Austin Ekeler,Los Angeles Chargers,17,2022,107,722,5,848,127
+909,CeeDee Lamb,Dallas Cowboys,17,2022,107,1359,9,486,156
+910,Amon-Ra St. Brown,Detroit Lions,16,2022,106,1161,6,531,146
+911,Chris Godwin,Tampa Bay Buccaneers,15,2022,104,1023,3,514,142
+912,Davante Adams,Las Vegas Raiders,17,2022,100,1516,14,493,180
+913,Michael Pittman,NaN,NaN,NaN,99,925,4,344,141
+914,DeVonta Smith,Philadelphia Eagles,17,2022,95,1196,7,476,136
+915,DK Metcalf,NaN,NaN,NaN,90,1048,6,216,141
+916,A.J. Brown,Philadelphia Eagles,17,2022,88,1496,11,552,145
+917,Ja'Marr Chase,Cincinnati Bengals,12,2022,87,1046,9,421,134
+918,T.J. Hockenson,Minnesota Vikings,10,2022,86,914,6,413,129
+919,Diontae Johnson,Pittsburgh Steelers,17,2022,86,882,0,236,147
+920,Christian McCaffrey,San Francisco 49ers,11,2022,85,741,5,695,108
+921,Christian Kirk,Jacksonville Jaguars,17,2022,84,1108,8,371,133
+922,Tyler Lockett,Seattle Seahawks,16,2022,84,1033,9,272,117
+923,Garrett Wilson,New York Jets,17,2022,83,1103,4,384,147
+924,Zay Jones,Jacksonville Jaguars,16,2022,82,823,5,293,121
+925,Brandon Aiyuk,San Francisco 49ers,17,2022,78,1015,8,375,114
+926,Amari Cooper,Cleveland Browns,17,2022,78,1160,9,299,132
+927,JuJu Smith-Schuster,Kansas City Chiefs,16,2022,78,933,3,457,101
+928,Mike Evans,Tampa Bay Buccaneers,15,2022,77,1124,6,216,127
+929,Terry McLaurin,Washington Commanders,17,2022,77,1191,5,382,120
+930,Cooper Kupp,Los Angeles Rams,9,2022,75,812,6,413,98
+931,Jaylen Waddle,Miami Dolphins,17,2022,75,1356,8,510,117
+932,Tee Higgins,Cincinnati Bengals,16,2022,74,1029,7,286,109
+933,Mark Andrews,Baltimore Ravens,15,2022,73,847,5,243,113
+934,Evan Engram,Jacksonville Jaguars,17,2022,73,766,4,465,98
+935,Leonard Fournette,NaN,NaN,NaN,73,523,3,563,83
+936,Tyler Higbee,Los Angeles Rams,17,2022,72,620,3,404,108
+937,Drake London,Atlanta Falcons,17,2022,72,866,4,231,117
+938,Chris Olave,New Orleans Saints,15,2022,72,1042,4,210,119
+939,Josh Palmer,Los Angeles Chargers,16,2022,72,769,3,252,107
+940,Adam Thielen,Minnesota Vikings,17,2022,70,716,6,152,107
+941,Rhamondre Stevenson,New England Patriots,17,2022,69,421,1,488,88
+942,Marquise Brown,Arizona Cardinals,12,2022,67,709,3,236,107
+943,Jerry Jeudy,Denver Broncos,15,2022,67,972,6,396,100
+944,Jakobi Meyers,New England Patriots,14,2022,67,804,6,238,96
+945,Keenan Allen,Los Angeles Chargers,10,2022,66,752,4,257,89
+946,DeAndre Hopkins,Arizona Cardinals,9,2022,64,717,3,165,96
+947,Curtis Samuel,Washington Commanders,17,2022,64,656,4,289,92
+948,Courtland Sutton,Denver Broncos,15,2022,64,829,2,147,109
+949,Parris Campbell,Indianapolis Colts,17,2022,63,623,3,276,91
+950,Pat Freiermuth,Pittsburgh Steelers,16,2022,63,732,2,281,98
+951,DJ Moore,NaN,NaN,NaN,63,888,7,186,118
+952,Mike Williams,Los Angeles Chargers,13,2022,63,895,4,324,93
+953,Donovan Peoples-Jones,Cleveland Browns,17,2022,61,839,3,191,96
+954,George Kittle,San Francisco 49ers,15,2022,60,765,11,386,86
+955,Allen Lazard,Green Bay Packers,15,2022,60,788,6,248,100
+956,Joe Mixon,Cincinnati Bengals,14,2022,60,441,2,468,75
+957,K.J. Osborn,Minnesota Vikings,17,2022,60,650,5,300,90
+958,Aaron Jones,Green Bay Packers,17,2022,59,395,5,477,72
+959,Tyler Boyd,Cincinnati Bengals,16,2022,58,762,5,249,82
+960,Tyler Conklin,New York Jets,17,2022,58,552,3,284,87
+961,Gerald Everett,Los Angeles Chargers,16,2022,58,555,4,320,87
+962,David Njoku,Cleveland Browns,14,2022,58,628,4,332,80
+963,Saquon Barkley,New York Giants,16,2022,57,338,0,434,76
+964,Brandin Cooks,Houston Texans,13,2022,57,699,3,205,93
+965,Mack Hollins,Las Vegas Raiders,17,2022,57,690,4,192,94
+966,Richie James,NaN,NaN,NaN,57,569,4,176,70
+967,Alvin Kamara,New Orleans Saints,15,2022,57,490,2,461,77
+968,Dalton Schultz,Dallas Cowboys,15,2022,57,577,5,204,89
+969,Jerick McKinnon,NaN,NaN,NaN,56,512,9,541,71
+970,Deebo Samuel Sr.,NaN,NaN,NaN,56,632,2,493,94
+971,Dallas Goedert,Philadelphia Eagles,12,2022,55,702,3,420,69
+972,Josh Jacobs,Las Vegas Raiders,17,2022,53,400,0,374,64
+973,Robert Tonyan,Green Bay Packers,17,2022,53,470,2,230,67
+974,Robert Woods,Tennessee Titans,17,2022,53,527,2,156,91
+975,Greg Dortch,Arizona Cardinals,16,2022,52,467,2,293,64
+976,Hayden Hurst,Cincinnati Bengals,13,2022,52,414,2,184,68
+977,George Pickens,Pittsburgh Steelers,17,2022,52,801,4,104,84
+978,Russell Gage,NaN,NaN,NaN,51,426,5,171,70
+979,Noah Fant,Seattle Seahawks,17,2022,50,486,4,221,63
+980,Cole Kmet,Chicago Bears,17,2022,50,544,7,280,69
+981,Rachaad White,Tampa Bay Buccaneers,17,2022,50,290,2,319,58
+982,Gabe Davis,Buffalo Bills,15,2022,48,836,7,142,93
+983,Dawson Knox,Buffalo Bills,15,2022,48,517,6,193,65
+984,Chris Moore,Houston Texans,16,2022,48,548,2,267,74
+985,Demarcus Robinson,Baltimore Ravens,17,2022,48,458,2,150,75
+986,D'Andre Swift,Detroit Lions,14,2022,48,389,3,454,70
+987,Zach Ertz,Arizona Cardinals,10,2022,47,406,4,130,69
+988,Kalif Raymond,Detroit Lions,17,2022,47,616,0,218,64
+989,DeAndre Carter,Los Angeles Chargers,17,2022,46,538,3,206,65
+990,Chase Claypool,NaN,NaN,NaN,46,451,1,143,79
+991,James Conner,Arizona Cardinals,13,2022,46,300,1,376,58
+992,Antonio Gibson,NaN,NaN,NaN,46,353,2,297,58
+993,Marvin Jones,NaN,NaN,NaN,46,529,3,95,81
+994,Darius Slayton,New York Giants,16,2022,46,724,2,262,71
+995,Noah Brown,Dallas Cowboys,16,2022,43,555,3,128,74
+996,Romeo Doubs,Green Bay Packers,13,2022,42,425,3,191,67
+997,Juwan Johnson,New Orleans Saints,16,2022,42,508,7,166,65
+998,Isaiah McKenzie,NaN,NaN,NaN,42,423,4,128,65
+999,Cade Otton,Tampa Bay Buccaneers,16,2022,42,391,2,174,65
+1000,Marquez Valdes-Scantling,Kansas City Chiefs,17,2022,42,687,2,122,81
+1001,Michael Carter,NaN,NaN,NaN,41,288,0,273,54
+1002,Najee Harris,NaN,NaN,NaN,41,229,3,207,53
+1003,Hunter Henry,New England Patriots,17,2022,41,509,2,203,59
+1004,Austin Hooper,Tennessee Titans,17,2022,41,444,2,130,60
+1005,Rondale Moore,Arizona Cardinals,8,2022,41,414,1,281,56
+1006,Alec Pierce,Indianapolis Colts,16,2022,41,593,2,113,78
+1007,Christian Watson,Green Bay Packers,14,2022,41,611,7,264,66
+1008,Darnell Mooney,Chicago Bears,12,2022,40,493,2,168,61
+1009,Olamide Zaccheaus,Atlanta Falcons,17,2022,40,533,3,193,61
+1010,Dalvin Cook,Minnesota Vikings,17,2022,39,295,2,331,56
+1011,Michael Gallup,NaN,NaN,NaN,39,424,4,107,74
+1012,Tony Pollard,Dallas Cowboys,16,2022,39,371,3,347,55
+1013,Ben Skowronek,Los Angeles Rams,14,2022,39,376,0,142,61
+1014,Logan Thomas,NaN,NaN,NaN,39,323,1,126,61
+1015,Samaje Perine,Cincinnati Bengals,16,2022,38,287,4,321,51
+1016,Josh Reynolds,Detroit Lions,14,2022,38,479,3,115,59
+1017,Devin Singletary,Buffalo Bills,16,2022,38,280,1,261,52
+1018,Jordan Akins,Houston Texans,15,2022,37,495,5,270,54
+1019,Rex Burkhead,NaN,NaN,NaN,37,204,1,214,51
+1020,Nico Collins,Houston Texans,10,2022,37,481,2,143,66
+1021,Devin Duvernay,Baltimore Ravens,14,2022,37,407,3,159,49
+1022,Isaiah Hodgins,New York Giants,8,2022,37,392,4,88,48
+1023,Elijah Moore,New York Jets,16,2022,37,446,1,93,65
+1024,Isaiah Likely,Baltimore Ravens,16,2022,36,373,3,151,60
+1025,Hunter Renfrow,NaN,NaN,NaN,36,330,2,149,50
+1026,Kendrick Bourne,New England Patriots,16,2022,35,434,1,145,48
+1027,Jahan Dotson,Washington Commanders,12,2022,35,523,7,137,61
+1028,Travis Etienne,Jacksonville Jaguars,17,2022,35,316,0,352,45
+1029,Kareem Hunt,Cleveland Browns,17,2022,35,210,1,235,44
+1030,Jauan Jennings,San Francisco 49ers,16,2022,35,416,1,176,56
+1031,Randall Cobb,NaN,NaN,NaN,34,417,1,185,50
+1032,Will Dissly,Seattle Seahawks,15,2022,34,349,3,184,38
+1033,David Montgomery,Chicago Bears,16,2022,34,316,1,283,40
+1034,Treylon Burks,Tennessee Titans,11,2022,33,444,1,165,54
+1035,Greg Dulcich,Denver Broncos,10,2022,33,411,2,155,55
+1036,Derrick Henry,Tennessee Titans,16,2022,33,398,0,397,41
+1037,Foster Moreau,Las Vegas Raiders,15,2022,33,420,2,237,54
+1038,Allen Robinson,Los Angeles Rams,10,2022,33,339,3,71,52
+1039,Quez Watkins,Philadelphia Eagles,17,2022,33,354,3,146,51
+1040,Corey Davis,NaN,NaN,NaN,32,536,2,109,64
+1041,Mike Gesicki,Miami Dolphins,17,2022,32,362,5,97,52
+1042,Chig Okonkwo,NaN,NaN,NaN,32,450,3,252,46
+1043,Nelson Agholor,New England Patriots,16,2022,31,362,2,147,53
+1044,Harrison Bryant,Cleveland Browns,17,2022,31,239,1,113,42
+1045,Kylen Granson,Indianapolis Colts,13,2022,31,302,0,124,40
+1046,Raheem Mostert,Miami Dolphins,16,2022,31,202,2,179,42
+1047,DeVante Parker,NaN,NaN,NaN,31,539,3,105,47
+1048,Daniel Bellinger,New York Giants,12,2022,30,268,2,144,35
+1049,DJ Chark,NaN,NaN,NaN,30,502,3,132,52
+1050,Nyheim Hines,Buffalo Bills,9,2022,30,241,1,190,37
+1051,Deon Jackson,NaN,NaN,NaN,30,209,1,228,34
+1052,Dameon Pierce,Houston Texans,13,2022,30,165,1,197,39
+1053,Trent Sherfield,Miami Dolphins,17,2022,30,417,2,138,51
+1054,Trey McBride,Arizona Cardinals,16,2022,29,265,1,117,39
+1055,AJ Dillon,NaN,NaN,NaN,28,206,0,203,43
+1056,Noah Gray,Kansas City Chiefs,17,2022,28,299,1,182,34
+1057,Terrace Marshall Jr.,Carolina Panthers,14,2022,28,490,1,132,47
+1058,Kyle Pitts,Atlanta Falcons,10,2022,28,356,2,130,59
+1059,Rashid Shaheed,New Orleans Saints,12,2022,28,488,2,175,34
+1060,Jonathan Taylor,Indianapolis Colts,11,2022,28,143,0,203,40
+1061,Darren Waller,NaN,NaN,NaN,28,388,3,76,43
+1062,Jaylen Warren,Pittsburgh Steelers,16,2022,28,214,0,225,33
+1063,Nick Chubb,Cleveland Browns,17,2022,27,239,1,259,37
+1064,Marquise Goodwin,NaN,NaN,NaN,27,387,4,114,42
+1065,J.D. McKissic,NaN,NaN,NaN,27,173,0,152,40
+1066,Latavius Murray,NaN,NaN,NaN,27,132,0,188,35
+1067,Laviska Shenault Jr.,Carolina Panthers,13,2022,27,272,1,330,32
+1068,Jonnu Smith,New England Patriots,14,2022,27,245,0,200,38
+1069,Kenneth Walker III,Seattle Seahawks,15,2022,27,165,0,221,35
+1070,Ameer Abdullah,Las Vegas Raiders,17,2022,25,211,1,195,32
+1071,Eno Benjamin,NaN,NaN,NaN,25,193,0,234,34
+1072,Melvin Gordon,NaN,NaN,NaN,25,223,0,206,32
+1073,Mecole Hardman,Kansas City Chiefs,8,2022,25,297,4,160,34
+1074,Jarvis Landry,NaN,NaN,NaN,25,272,1,61,39
+1075,Colby Parkinson,Seattle Seahawks,17,2022,25,322,2,150,34
+1076,Irv Smith,Minnesota Vikings,8,2022,25,182,2,91,36
+1077,Nick Westbrook-Ikhine,Tennessee Titans,17,2022,25,397,3,107,50
+1078,Jelani Woods,Indianapolis Colts,15,2022,25,312,3,120,40
+1079,David Bell,Cleveland Browns,16,2022,24,214,0,69,35
+1080,A.J. Green,NaN,NaN,NaN,24,236,2,56,47
+1081,Kendall Hinton,NaN,NaN,NaN,24,311,0,139,33
+1082,Van Jefferson,Los Angeles Rams,11,2022,24,369,3,38,44
+1083,Julio Jones,NaN,NaN,NaN,24,299,2,114,43
+1084,Brandon Powell,Los Angeles Rams,17,2022,24,156,0,184,32
+1085,Jamal Agnew,NaN,NaN,NaN,23,187,3,125,30
+1086,Kenneth Gainwell,Philadelphia Eagles,17,2022,23,169,0,146,29
+1087,Scott Miller,Tampa Bay Buccaneers,15,2022,23,185,0,33,40
+1088,Wan'Dale Robinson,New York Giants,6,2022,23,227,1,126,31
+1089,Skyy Moore,Kansas City Chiefs,16,2022,22,250,0,151,33
+1090,Shi Smith,NaN,NaN,NaN,22,296,2,97,41
+1091,Tyquan Thornton,New England Patriots,13,2022,22,247,2,63,45
+1092,Jeff Wilson,Miami Dolphins,8,2022,22,185,1,141,37
+1093,James Cook,NaN,NaN,NaN,21,180,1,132,32
+1094,Dontrell Hilliard,NaN,NaN,NaN,21,177,4,151,26
+1095,Cordarrelle Patterson,Atlanta Falcons,13,2022,21,122,0,116,31
+1096,Equanimeous St. Brown,Chicago Bears,16,2022,21,323,1,98,38
+1097,Ian Thomas,Carolina Panthers,17,2022,21,197,0,182,30
+1098,C.J. Uzomah,New York Jets,15,2022,21,232,2,105,27
+1099,Robbie Chosen,Arizona Cardinals,10,2022,20,282,1,92,44
+1100,Cameron Brate,NaN,NaN,NaN,20,174,0,65,38
+1101,Matt Breida,NaN,NaN,NaN,20,118,0,100,25
+1102,Phillip Dorsett,Houston Texans,15,2022,20,257,1,62,40
+1103,JaMycal Hasty,Jacksonville Jaguars,17,2022,20,126,1,134,26
+1104,Dare Ogunbowale,Houston Texans,17,2022,20,104,0,124,26
+1105,Miles Sanders,Philadelphia Eagles,17,2022,20,78,0,103,26
+1106,Mo Alie-Cox,Indianapolis Colts,17,2022,19,189,3,99,28
+1107,Jake Ferguson,Dallas Cowboys,16,2022,19,174,2,124,22
+1108,Zach Gentry,NaN,NaN,NaN,19,132,0,102,23
+1109,Breece Hall,New York Jets,7,2022,19,218,1,163,31
+1110,Kyle Juszczyk,San Francisco 49ers,16,2022,19,200,1,149,23
+1111,Johnny Mundt,Minnesota Vikings,17,2022,19,140,1,117,21
+1112,Dante Pettis,Chicago Bears,17,2022,19,245,3,63,41
+1113,Tre'Quan Smith,New Orleans Saints,15,2022,19,278,1,66,27
+1114,Tommy Tremble,Carolina Panthers,17,2022,19,174,3,62,32
+1115,Tutu Atwell,Los Angeles Rams,13,2022,18,298,1,60,35
+1116,Braxton Berrios,New York Jets,17,2022,18,145,0,92,32
+1117,Adam Trautman,New Orleans Saints,15,2022,18,207,1,123,22
+1118,Brock Wright,Detroit Lions,17,2022,18,216,4,165,24
+1119,DeeJay Dallas,Seattle Seahawks,15,2022,17,126,0,126,19
+1120,Kenyan Drake,NaN,NaN,NaN,17,89,1,125,26
+1121,Clyde Edwards-Helaire,Kansas City Chiefs,10,2022,17,151,3,144,23
+1122,Ezekiel Elliott,Dallas Cowboys,15,2022,17,92,0,88,23
+1123,Damien Harris,NaN,NaN,NaN,17,97,0,86,23
+1124,Darrell Henderson,NaN,NaN,NaN,17,102,0,110,22
+1125,Mitchell Wilcox,Cincinnati Bengals,16,2022,17,139,1,74,18
+1126,Tyler Allgeier,Atlanta Falcons,16,2022,16,139,1,168,17
+1127,Marquez Callaway,New Orleans Saints,14,2022,16,158,1,35,32
+1128,Chase Edmonds,Denver Broncos,5,2022,16,157,1,113,24
+1129,Travis Homer,Seattle Seahawks,10,2022,16,157,1,129,18
+1130,Mark Ingram,NaN,NaN,NaN,16,68,0,78,18
+1131,MyCole Pruitt,Atlanta Falcons,13,2022,16,150,4,75,21
+1132,Amari Rodgers,NaN,NaN,NaN,16,204,1,63,25
+1133,Michael Thomas,NaN,NaN,NaN,16,171,3,21,22
+1134,Kadarius Toney,Kansas City Chiefs,7,2022,16,171,2,108,20
+1135,Sammy Watkins,NaN,NaN,NaN,16,325,0,126,27
+1136,Javonte Williams,Denver Broncos,4,2022,16,76,0,118,22
+1137,Rashod Bateman,Baltimore Ravens,6,2022,15,285,2,133,28
+1138,Ashton Dulin,Indianapolis Colts,12,2022,15,207,1,35,22
+1139,Alec Ingold,Miami Dolphins,17,2022,15,105,1,93,23
+1140,Trenton Irwin,Cincinnati Bengals,9,2022,15,231,4,59,23
+1141,Alexander Mattison,Minnesota Vikings,17,2022,15,91,1,121,18
+1142,Zach Pascal,Philadelphia Eagles,17,2022,15,150,1,86,19
+1143,Eric Saubert,Denver Broncos,17,2022,15,148,1,75,24
+1144,Durham Smythe,Miami Dolphins,16,2022,15,129,1,47,20
+1145,Justin Watson,Kansas City Chiefs,17,2022,15,315,2,60,34
+1146,John Bates,Washington Commanders,16,2022,14,108,1,54,22
+1147,Chuba Hubbard,Carolina Panthers,15,2022,14,171,0,166,17
+1148,Brevin Jordan,Houston Texans,11,2022,14,128,0,78,28
+1149,Joshua Kelley,Los Angeles Chargers,13,2022,14,101,0,88,25
+1150,Ray-Ray McCloud,San Francisco 49ers,17,2022,14,243,1,92,25
+1151,Josh Oliver,Baltimore Ravens,17,2022,14,149,2,74,25
+1152,Steven Sims,Pittsburgh Steelers,12,2022,14,104,0,60,23
+1153,Cam Akers,Los Angeles Rams,15,2022,13,117,0,136,18
+1154,Damiere Byrd,NaN,NaN,NaN,13,268,2,105,23
+1155,Lawrence Cager,New York Giants,6,2022,13,118,1,78,19
+1156,Josiah Deguara,Green Bay Packers,17,2022,13,114,0,63,15
+1157,KhaDarel Hodge,Atlanta Falcons,17,2022,13,202,1,61,20
+1158,Bam Knight,NaN,NaN,NaN,13,100,0,132,14
+1159,Isiah Pacheco,Kansas City Chiefs,17,2022,13,130,0,157,14
+1160,Sterling Shepard,New York Giants,3,2022,13,154,1,55,24
+1161,Avery Williams,NaN,NaN,NaN,13,61,0,85,14
+1162,Pharaoh Brown,Cleveland Browns,13,2022,12,117,0,83,20
+1163,Connor Heyward,Pittsburgh Steelers,17,2022,12,151,1,62,17
+1164,Justice Hill,Baltimore Ravens,15,2022,12,58,0,83,12
+1165,Justin Jackson,NaN,NaN,NaN,12,101,1,110,19
+1166,Ty Johnson,New York Jets,17,2022,12,88,0,73,24
+1167,Geoff Swaim,Tennessee Titans,17,2022,12,58,1,43,16
+1168,Jamaal Williams,Detroit Lions,17,2022,12,73,0,65,16
+1169,Cedrick Wilson Jr.,NaN,NaN,NaN,12,136,0,45,18
+1170,Hassan Haskins,Tennessee Titans,15,2022,11,57,0,58,12
+1171,Peyton Hendershot,Dallas Cowboys,17,2022,11,103,2,47,16
+1172,Denzel Mims,NaN,NaN,NaN,11,186,0,75,25
+1173,James Mitchell,Detroit Lions,14,2022,11,113,1,62,11
+1174,Zack Moss,Indianapolis Colts,8,2022,11,39,0,42,13
+1175,Patrick Ricard,Baltimore Ravens,17,2022,11,74,0,72,13
+1176,James Robinson,NaN,NaN,NaN,11,51,2,63,14
+1177,David Sills,New York Giants,9,2022,11,106,0,40,17
+1178,Jack Stoll,Philadelphia Eagles,17,2022,11,123,0,49,14
+1179,Shane Zylstra,Detroit Lions,13,2022,11,60,4,13,15
+1180,Michael Bandy,Los Angeles Chargers,10,2022,10,89,0,25,21
+1181,Raheem Blackshear,Carolina Panthers,13,2022,10,93,0,105,12
+1182,Keelan Cole,NaN,NaN,NaN,10,141,1,20,21
+1183,C.J. Ham,Minnesota Vikings,17,2022,10,86,0,56,12
+1184,O.J. Howard,NaN,NaN,NaN,10,145,2,60,23
+1185,Tanner Hudson,New York Giants,11,2022,10,132,0,59,15
+1186,Tre' McKitty,NaN,NaN,NaN,10,72,0,52,18
+1187,Albert Okwuegbunam,Denver Broncos,8,2022,10,95,1,59,18
+1188,Donald Parham,Los Angeles Chargers,6,2022,10,130,1,42,12
+1189,Byron Pringle,NaN,NaN,NaN,10,135,2,14,16
+1190,Khalil Shakir,Buffalo Bills,14,2022,10,161,1,74,20
+1191,Dan Arnold,NaN,NaN,NaN,9,135,0,70,13
+1192,Brandon Bolden,NaN,NaN,NaN,9,57,1,27,9
+1193,Mike Boone,Denver Broncos,9,2022,9,96,0,81,15
+1194,River Cracraft,Miami Dolphins,11,2022,9,102,2,26,14
+1195,Anthony Firkser,Atlanta Falcons,11,2022,9,100,0,20,13
+1196,Joseph Fortson,NaN,NaN,NaN,9,108,2,40,13
+1197,Khalil Herbert,Chicago Bears,13,2022,9,57,1,81,12
+1198,Parker Hesse,Atlanta Falcons,17,2022,9,89,0,36,11
+1199,Taysom Hill,New Orleans Saints,16,2022,9,77,2,37,13
+1200,DeSean Jackson,NaN,NaN,NaN,9,153,0,23,17
+1201,Marcus Johnson,NaN,NaN,NaN,9,99,0,36,22
+1202,Sony Michel,NaN,NaN,NaN,9,53,0,46,13
+1203,Jalen Nailor,Minnesota Vikings,15,2022,9,179,1,67,13
+1204,Breshad Perriman,NaN,NaN,NaN,9,110,1,52,19
+1205,Craig Reynolds,Detroit Lions,9,2022,9,116,0,108,10
+1206,Brian Robinson,Washington Commanders,12,2022,9,60,1,72,12
+1207,Eric Tomlinson,Denver Broncos,17,2022,9,79,2,44,13
+1208,Kyren Williams,Los Angeles Rams,10,2022,9,76,0,80,12
+1209,Reggie Gilliam,Buffalo Bills,15,2022,8,69,1,54,10
+1210,Tom Kennedy,Detroit Lions,7,2022,8,141,0,73,15
+1211,Marlon Mack,NaN,NaN,NaN,8,99,1,114,10
+1212,Quintin Morris,Buffalo Bills,14,2022,8,84,1,38,11
+1213,Kyle Philips,Tennessee Titans,4,2022,8,78,0,21,13
+1214,James Proche,Baltimore Ravens,15,2022,8,62,0,16,17
+1215,Jalen Reagor,Minnesota Vikings,17,2022,8,104,1,28,13
+1216,Giovanni Ricci,NaN,NaN,NaN,8,100,0,52,9
+1217,Cam Sims,NaN,NaN,NaN,8,89,0,18,18
+1218,Jeff Smith,NaN,NaN,NaN,8,134,0,37,11
+1219,Andre Baccellia,Arizona Cardinals,8,2022,7,45,0,11,10
+1220,J.K. Dobbins,Baltimore Ravens,8,2022,7,42,1,39,8
+1221,D'Wayne Eskridge,Seattle Seahawks,10,2022,7,58,0,46,13
+1222,KJ Hamler,NaN,NaN,NaN,7,165,0,23,14
+1223,N'Keal Harry,Chicago Bears,7,2022,7,116,1,16,9
+1224,T.Y. Hilton,NaN,NaN,NaN,7,121,0,33,10
+1225,Brycen Hopkins,NaN,NaN,NaN,7,109,0,33,11
+1226,Velus Jones Jr.,NaN,NaN,NaN,7,107,1,37,14
+1227,Ko Kieft,Tampa Bay Buccaneers,17,2022,7,80,1,31,10
+1228,Chris Myarick,New York Giants,16,2022,7,65,1,38,8
+1229,Teagan Quitoriano,Houston Texans,9,2022,7,113,2,53,14
+1230,Pierre Strong,New England Patriots,15,2022,7,42,0,38,7
+1231,Jonathan Williams,NaN,NaN,NaN,7,40,0,38,10
+1232,Cole Beasley,NaN,NaN,NaN,6,35,0,14,7
+1233,Jamison Crowder,Buffalo Bills,4,2022,6,60,0,30,13
+1234,Malik Davis,Dallas Cowboys,12,2022,6,63,0,65,7
+1235,Royce Freeman,Houston Texans,4,2022,6,33,0,39,8
+1236,Kenny Golladay,NaN,NaN,NaN,6,81,1,11,17
+1237,Brandon Johnson,NaN,NaN,NaN,6,42,1,13,14
+1238,Marcedes Lewis,Green Bay Packers,17,2022,6,66,2,14,7
+1239,Phillip Lindsay,NaN,NaN,NaN,6,19,0,11,8
+1240,Chris Manhertz,Jacksonville Jaguars,17,2022,6,42,0,35,8
+1241,Dax Milne,NaN,NaN,NaN,6,37,1,13,7
+1242,Trent Taylor,Cincinnati Bengals,16,2022,6,62,0,43,10
+1243,Laquon Treadwell,Seattle Seahawks,6,2022,6,42,0,11,10
+1244,Nick Vannett,New York Giants,6,2022,6,55,0,32,9
+1245,Jordan Wilkins,NaN,NaN,NaN,6,29,0,44,8
+1246,Andrew Beck,Denver Broncos,13,2022,5,69,0,41,11
+1247,Gary Brightwell,New York Giants,17,2022,5,39,0,35,8
+1248,Dyami Brown,Washington Commanders,15,2022,5,143,2,31,14
+1249,Malcolm Brown,NaN,NaN,NaN,5,37,0,37,6
+1250,Grant Calcaterra,Philadelphia Eagles,15,2022,5,81,0,41,9
+1251,Corey Clement,NaN,NaN,NaN,5,54,0,61,7
+1252,D'Onta Foreman,Carolina Panthers,17,2022,5,26,0,27,9
+1253,Troy Hairston,Houston Texans,16,2022,5,19,0,10,8
+1254,Zander Horvath,NaN,NaN,NaN,5,8,2,1,8
+1255,Jakob Johnson,Las Vegas Raiders,17,2022,5,10,0,7,6
+1256,Tony Jones,NaN,NaN,NaN,5,30,0,34,8
+1257,Gunner Olszewski,Pittsburgh Steelers,16,2022,5,53,0,13,7
+1258,Ronnie Rivers,Los Angeles Rams,8,2022,5,29,0,55,5
+1259,Armani Rogers,Washington Commanders,11,2022,5,64,0,57,6
+1260,Boston Scott,Philadelphia Eagles,15,2022,5,15,0,20,6
+1261,Deven Thompkins,Tampa Bay Buccaneers,5,2022,5,32,0,32,10
+1262,Samori Toure,Green Bay Packers,11,2022,5,82,1,11,10
+1263,Derek Watt,NaN,NaN,NaN,5,11,1,4,5
+1264,Mike Woods,NaN,NaN,NaN,5,45,0,17,10
+1265,Chris Conley,Tennessee Titans,7,2022,4,46,0,3,7
+1266,Tyler Davis,NaN,NaN,NaN,4,26,0,27,7
+1267,Luke Farrell,Jacksonville Jaguars,17,2022,4,40,0,36,4
+1268,Myles Gaskin,Miami Dolphins,4,2022,4,28,0,20,6
+1269,Ryan Griffin,NaN,NaN,NaN,4,26,0,9,8
+1270,Keaontay Ingram,Arizona Cardinals,12,2022,4,21,0,32,5
+1271,David Johnson,NaN,NaN,NaN,4,47,0,46,4
+1272,Marcus Jones,NaN,NaN,NaN,4,78,1,95,4
+1273,Charlie Kolar,Baltimore Ravens,2,2022,4,49,0,20,6
+1274,Tyler Kroft,NaN,NaN,NaN,4,57,0,14,5
+1275,Jake Kumerow,NaN,NaN,NaN,4,64,0,17,7
+1276,Rashaad Penny,NaN,NaN,NaN,4,16,0,28,5
+1277,Anthony Schwartz,Cleveland Browns,11,2022,4,51,0,27,10
+1278,Stone Smartt,Los Angeles Chargers,7,2022,4,17,0,7,5
+1279,Freddie Swain,NaN,NaN,NaN,4,74,0,27,6
+1280,Tylan Wallace,Baltimore Ravens,9,2022,4,33,0,9,7
+1281,Montrell Washington,Denver Broncos,15,2022,4,2,0,13,9
+1282,Darrel Williams,NaN,NaN,NaN,4,9,0,15,8
+1283,Stephen Anderson,NaN,NaN,NaN,3,9,0,6,7
+1284,Julius Chestnut,Tennessee Titans,6,2022,3,41,0,39,3
+1285,Tevin Coleman,NaN,NaN,NaN,3,44,1,20,3
+1286,Ross Dwelley,San Francisco 49ers,12,2022,3,105,1,43,5
+1287,Bryan Edwards,NaN,NaN,NaN,3,15,0,9,5
+1288,Ben Ellefson,NaN,NaN,NaN,3,26,0,11,3
+1289,Chris Evans,Cincinnati Bengals,12,2022,3,38,1,8,4
+1290,Simi Fehoko,Dallas Cowboys,5,2022,3,24,0,10,4
+1291,Penny Hart,NaN,NaN,NaN,3,20,0,12,4
+1292,Cody Hollister,NaN,NaN,NaN,3,54,0,8,5
+1293,Jesper Horsted,NaN,NaN,NaN,3,19,0,6,4
+1294,D'Ernest Johnson,Cleveland Browns,15,2022,3,7,0,8,3
+1295,Tim Jones,NaN,NaN,NaN,3,30,0,21,4
+1296,Elijah Mitchell,NaN,NaN,NaN,3,7,0,16,4
+1297,Ty Montgomery,NaN,NaN,NaN,3,15,1,7,4
+1298,Adam Prentice,New Orleans Saints,11,2022,3,9,0,18,3
+1299,Kyle Rudolph,NaN,NaN,NaN,3,28,1,3,5
+1300,Isaiah Spiller,NaN,NaN,NaN,3,13,0,23,3
+1301,Mike Strachan,Indianapolis Colts,13,2022,3,59,0,13,9
+1302,Ke'Shawn Vaughn,Tampa Bay Buccaneers,15,2022,3,19,0,29,4
+1303,Maxx Williams,NaN,NaN,NaN,3,18,0,6,3
+1304,Devin Asiasi,NaN,NaN,NaN,2,5,0,0,4
+1305,Daylen Baldwin,NaN,NaN,NaN,2,25,0,0,2
+1306,Blake Bell,NaN,NaN,NaN,2,20,1,8,2
+1307,Giovani Bernard,NaN,NaN,NaN,2,-1,0,7,2
+1308,Kendall Blanton,NaN,NaN,NaN,2,35,0,23,2
+1309,Miles Boykin,Pittsburgh Steelers,16,2022,2,11,0,0,3
+1310,Spencer Brown,Buffalo Bills,14,2022,2,10,0,12,4
+1311,Michael Burton,Kansas City Chiefs,17,2022,2,11,0,8,3
+1312,Quintez Cephus,Detroit Lions,4,2022,2,15,0,4,3
+1313,Tyrie Cleveland,NaN,NaN,NaN,2,28,0,17,7
+1314,Pharoh Cooper,NaN,NaN,NaN,2,6,0,12,2
+1315,Jaelon Darden,Cleveland Browns,2,2022,2,26,0,16,2
+1316,Mike Davis,NaN,NaN,NaN,2,4,0,11,2
+1317,Trestan Ebner,NaN,NaN,NaN,2,8,0,-1,7
+1318,Demetric Felton,NaN,NaN,NaN,2,8,0,11,4
+1319,Jalen Guyton,Los Angeles Chargers,3,2022,2,64,0,7,4
+1320,Deonte Harty,NaN,NaN,NaN,2,13,0,8,2
+1321,Justin Herbert,Los Angeles Chargers,17,2022,2,-10,0,5,2
+1322,Dennis Houston,Dallas Cowboys,2,2022,2,16,0,6,6
+1323,Lil'Jordan Humphrey,New England Patriots,6,2022,2,20,0,15,4
+1324,Caleb Huntley,NaN,NaN,NaN,2,3,0,9,2
+1325,Andy Isabella,Baltimore Ravens,2,2022,2,21,0,5,5
+1326,Cade Johnson,NaN,NaN,NaN,2,21,0,6,4
+1327,Keith Kirkwood,New Orleans Saints,5,2022,2,18,0,4,4
+1328,Anthony McFarland,NaN,NaN,NaN,2,11,0,15,2
+1329,Sean McKeon,Dallas Cowboys,13,2022,2,11,0,7,3
+1330,Racey McMath,NaN,NaN,NaN,2,40,0,7,8
+1331,Kene Nwangwu,Minnesota Vikings,17,2022,2,21,0,21,2
+1332,Dezmon Patmon,NaN,NaN,NaN,2,24,0,7,6
+1333,Larry Rountree III,NaN,NaN,NaN,2,14,0,31,2
+1334,Drew Sample,Cincinnati Bengals,2,2022,2,-2,0,0,2
+1335,Braylon Sanders,Miami Dolphins,3,2022,2,17,0,3,3
+1336,Mason Schreck,NaN,NaN,NaN,2,6,0,0,2
+1337,Benny Snell,NaN,NaN,NaN,2,17,0,18,2
+1338,Stephen Sullivan,Carolina Panthers,14,2022,2,46,0,21,6
+1339,Mike Thomas,NaN,NaN,NaN,2,38,0,24,10
+1340,Jalen Tolbert,Dallas Cowboys,8,2022,2,12,0,2,3
+1341,Austin Trammell,Los Angeles Rams,6,2022,2,13,0,0,4
+1342,Cole Turner,Washington Commanders,10,2022,2,23,0,7,9
+1343,Jalen Virgil,Denver Broncos,9,2022,2,75,1,43,5
+1344,Jonathan Ward,Tennessee Titans,3,2022,2,7,0,4,3
+1345,Nsimba Webster,Chicago Bears,2,2022,2,14,0,4,3
+1346,Trevon Wesco,Chicago Bears,14,2022,2,26,0,12,4
+1347,Kevin White,NaN,NaN,NaN,2,74,0,68,5
+1348,Trayveon Williams,Cincinnati Bengals,8,2022,2,30,0,8,3
+1349,Dareke Young,Seattle Seahawks,13,2022,2,24,0,23,2
+1350,Salvon Ahmed,Miami Dolphins,12,2022,1,8,0,7,1
+1351,Maurice Alexander,NaN,NaN,NaN,1,7,0,4,1
+1352,Tyler Badie,Denver Broncos,1,2022,1,24,1,31,1
+1353,C.J. Board,NaN,NaN,NaN,1,6,0,0,1
+1354,John Brown,NaN,NaN,NaN,1,42,1,0,2
+1355,Jason Cabinda,NaN,NaN,NaN,1,5,0,2,4
+1356,Jalen Camp,NaN,NaN,NaN,1,7,0,0,1
+1357,Keke Coutee,NaN,NaN,NaN,1,20,0,8,1
+1358,Frank Darby,NaN,NaN,NaN,1,15,0,1,1
+1359,Jeff Driskel,Houston Texans,7,2022,1,4,0,7,1
+1360,Darrynton Evans,Chicago Bears,6,2022,1,33,0,31,1
+1361,Erik Ezukanma,Miami Dolphins,1,2022,1,3,0,7,1
+1362,Jake Gervase,NaN,NaN,NaN,1,12,0,6,1
+1363,Jared Goff,Detroit Lions,17,2022,1,5,0,9,1
+1364,Danny Gray,San Francisco 49ers,13,2022,1,10,0,4,7
+1365,Kamu Grugier-Hill,Arizona Cardinals,9,2022,1,4,0,4,1
+1366,Jacob Harris,Los Angeles Rams,7,2022,1,6,0,2,1
+1367,Godwin Igwebuike,NaN,NaN,NaN,1,3,0,0,1
+1368,Tyron Johnson,NaN,NaN,NaN,1,8,0,10,1
+1369,Ronald Jones,NaN,NaN,NaN,1,22,0,23,1
+1370,Mason Kinsey,Tennessee Titans,2,2022,1,3,0,0,1
+1371,Tyler Mabry,Seattle Seahawks,2,2022,1,7,1,1,1
+1372,Patrick Mahomes,Kansas City Chiefs,17,2022,1,6,0,15,1
+1373,Jason Moore,NaN,NaN,NaN,1,5,0,0,2
+1374,Devine Ozigbo,NaN,NaN,NaN,1,3,0,7,1
+1375,Richard Rodgers,NaN,NaN,NaN,1,4,0,3,4
+1376,Jeremy Ruckert,New York Jets,9,2022,1,8,0,1,2
+1377,Penei Sewell,Detroit Lions,17,2022,1,9,0,6,1
+1378,Keith Smith,NaN,NaN,NaN,1,8,0,8,2
+1379,Ihmir Smith-Marsette,Kansas City Chiefs,2,2022,1,15,0,5,4
+1380,Tommy Sweeney,Buffalo Bills,5,2022,1,7,0,8,1
+1381,J.J. Taylor,New England Patriots,1,2022,1,8,0,5,1
+1382,Patrick Taylor,Green Bay Packers,14,2022,1,17,0,17,1
+1383,KaVontae Turpin,Dallas Cowboys,17,2022,1,9,0,5,2
+1384,Dwayne Washington,NaN,NaN,NaN,1,7,0,6,1
+1385,Cody White,NaN,NaN,NaN,1,2,0,2,1
+1386,Jameson Williams,Detroit Lions,6,2022,1,41,1,5,9
+1387,Ty'Son Williams,NaN,NaN,NaN,1,5,0,6,1
+1388,Russell Wilson,Denver Broncos,15,2022,1,1,0,2,1
+1389,Zach Wilson,New York Jets,9,2022,1,2,1,0,1
+1390,Juwann Winfree,Green Bay Packers,3,2022,1,17,0,5,4
+1391,Bailey Zappe,New England Patriots,4,2022,1,-6,0,2,1
+1392,Josh Ali,NaN,NaN,NaN,0,0,0,0,1
+1393,David Bakhtiari,NaN,NaN,NaN,0,0,0,0,1
+1394,Khari Blasingame,Chicago Bears,16,2022,0,0,0,0,1
+1395,Tom Brady,NaN,NaN,NaN,0,0,0,0,1
+1396,Jack Conklin,Cleveland Browns,14,2022,0,0,0,0,1
+1397,Tanner Conner,Miami Dolphins,13,2022,0,0,0,0,3
+1398,Tyrion Davis-Price,NaN,NaN,NaN,0,0,0,0,2
+1399,Gus Edwards,Baltimore Ravens,9,2022,0,0,0,0,2
+1400,Justin Fields,Chicago Bears,15,2022,0,0,0,0,0
+1401,Joe Flacco,New York Jets,5,2022,0,-3,0,-3,0
+1402,Miller Forristall,Cleveland Browns,4,2022,0,0,0,0,1
+1403,Feleipe Franks,Atlanta Falcons,11,2022,0,0,0,0,2
+1404,Tanner Gentry,NaN,NaN,NaN,0,0,0,0,1
+1405,Josh Gordon,NaN,NaN,NaN,0,0,0,0,1
+1406,Trevor Lawrence,Jacksonville Jaguars,17,2022,0,0,0,0,0
+1407,Lance McCutcheon,Los Angeles Rams,10,2022,0,0,0,0,5
+1408,Stanley Morgan,NaN,NaN,NaN,0,0,0,0,1
+1409,Kyler Murray,Arizona Cardinals,11,2022,0,0,0,0,0
+1410,Jaret Patterson,Washington Commanders,3,2022,0,0,0,0,1
+1411,Noah Togiai,NaN,NaN,NaN,0,0,0,0,1
+1412,Jake Tonges,Chicago Bears,4,2022,0,0,0,0,1
+1413,Laremy Tunsil,Houston Texans,17,2022,0,0,0,0,0
+1414,DJ Turner,Las Vegas Raiders,9,2022,0,0,0,0,1
+1415,James Washington,NaN,NaN,NaN,0,0,0,0,1
+1416,Carson Wentz,Washington Commanders,8,2022,0,0,0,0,0
+1417,Charlie Woerner,San Francisco 49ers,17,2022,0,0,0,0,2
+1418,Cooper Kupp,Los Angeles Rams,17,2021,145,1947,16,846,191
+1419,Davante Adams,Green Bay Packers,16,2021,123,1553,11,601,169
+1420,Tyreek Hill,Kansas City Chiefs,17,2021,111,1239,9,444,159
+1421,Justin Jefferson,Minnesota Vikings,17,2021,108,1616,10,490,168
+1422,Mark Andrews,Baltimore Ravens,17,2021,107,1361,9,450,153
+1423,Diontae Johnson,Pittsburgh Steelers,16,2021,107,1161,8,527,169
+1424,Keenan Allen,Los Angeles Chargers,16,2021,106,1138,6,340,157
+1425,Jaylen Waddle,Miami Dolphins,16,2021,104,1015,6,420,140
+1426,Stefon Diggs,Buffalo Bills,17,2021,103,1225,10,326,164
+1427,Hunter Renfrow,NaN,NaN,NaN,103,1038,9,452,128
+1428,Chris Godwin,Tampa Bay Buccaneers,14,2021,98,1103,5,586,127
+1429,DJ Moore,NaN,NaN,NaN,93,1157,4,422,163
+1430,Travis Kelce,Kansas City Chiefs,16,2021,92,1125,9,564,134
+1431,Marquise Brown,Baltimore Ravens,16,2021,91,1008,6,388,146
+1432,Brandin Cooks,Houston Texans,16,2021,90,1037,6,330,134
+1433,Amon-Ra St. Brown,Detroit Lions,17,2021,90,912,5,424,119
+1434,Michael Pittman,NaN,NaN,NaN,88,1082,6,348,129
+1435,Jakobi Meyers,New England Patriots,17,2021,83,866,2,221,126
+1436,Cole Beasley,NaN,NaN,NaN,82,693,1,305,112
+1437,Ja'Marr Chase,Cincinnati Bengals,17,2021,81,1455,13,651,128
+1438,Darnell Mooney,Chicago Bears,17,2021,81,1055,4,381,140
+1439,CeeDee Lamb,Dallas Cowboys,16,2021,79,1102,6,441,120
+1440,Dalton Schultz,Dallas Cowboys,17,2021,78,808,8,341,104
+1441,Christian Kirk,Arizona Cardinals,17,2021,77,982,5,231,103
+1442,Terry McLaurin,Washington Commanders,17,2021,77,1053,5,307,130
+1443,Deebo Samuel Sr.,NaN,NaN,NaN,77,1405,6,780,121
+1444,Mike Williams,Los Angeles Chargers,16,2021,76,1146,9,415,129
+1445,DK Metcalf,NaN,NaN,NaN,75,967,12,328,129
+1446,Zach Ertz,Arizona Cardinals,11,2021,74,763,5,340,112
+1447,Mike Evans,Tampa Bay Buccaneers,16,2021,74,1035,14,239,114
+1448,Najee Harris,NaN,NaN,NaN,74,467,3,499,94
+1449,Tee Higgins,Cincinnati Bengals,14,2021,74,1091,6,285,110
+1450,Mike Gesicki,Miami Dolphins,17,2021,73,780,2,218,112
+1451,Marvin Jones,NaN,NaN,NaN,73,832,4,120,120
+1452,Tyler Lockett,Seattle Seahawks,16,2021,73,1175,8,277,107
+1453,George Kittle,San Francisco 49ers,14,2021,71,910,6,442,94
+1454,Austin Ekeler,Los Angeles Chargers,16,2021,70,647,8,622,94
+1455,Leonard Fournette,NaN,NaN,NaN,69,454,2,449,84
+1456,Amari Cooper,Dallas Cowboys,15,2021,68,865,8,229,104
+1457,Noah Fant,Denver Broncos,16,2021,68,670,4,319,90
+1458,Kyle Pitts,Atlanta Falcons,17,2021,68,1026,1,313,110
+1459,Tyler Boyd,Cincinnati Bengals,16,2021,67,828,5,389,94
+1460,Adam Thielen,Minnesota Vikings,13,2021,67,726,10,239,95
+1461,Russell Gage,NaN,NaN,NaN,66,770,4,248,94
+1462,DeVonta Smith,Philadelphia Eagles,17,2021,64,916,5,208,104
+1463,A.J. Brown,Tennessee Titans,13,2021,63,869,5,235,105
+1464,Laviska Shenault Jr.,Jacksonville Jaguars,16,2021,63,619,0,393,100
+1465,D'Andre Swift,Detroit Lions,13,2021,62,452,2,502,78
+1466,Tyler Conklin,Minnesota Vikings,17,2021,61,593,3,326,87
+1467,Tyler Higbee,Los Angeles Rams,15,2021,61,560,5,275,85
+1468,T.J. Hockenson,Detroit Lions,12,2021,61,583,4,199,85
+1469,Pat Freiermuth,Pittsburgh Steelers,16,2021,60,497,7,247,79
+1470,Cole Kmet,Chicago Bears,17,2021,60,612,0,246,93
+1471,Chase Claypool,NaN,NaN,NaN,59,860,2,295,105
+1472,Mecole Hardman,Kansas City Chiefs,17,2021,59,693,2,502,83
+1473,Courtland Sutton,Denver Broncos,17,2021,58,776,2,135,98
+1474,Brandon Aiyuk,San Francisco 49ers,17,2021,56,826,5,349,84
+1475,Dallas Goedert,Philadelphia Eagles,15,2021,56,830,4,386,76
+1476,Kendrick Bourne,New England Patriots,17,2021,55,800,5,385,70
+1477,Rob Gronkowski,NaN,NaN,NaN,55,802,6,350,89
+1478,Darren Waller,NaN,NaN,NaN,55,665,2,242,93
+1479,A.J. Green,NaN,NaN,NaN,54,848,3,181,92
+1480,Josh Jacobs,Las Vegas Raiders,15,2021,54,348,0,395,64
+1481,Rondale Moore,Arizona Cardinals,14,2021,54,435,1,438,64
+1482,Robbie Chosen,Carolina Panthers,17,2021,53,519,5,158,110
+1483,Tim Patrick,Denver Broncos,16,2021,53,734,5,202,85
+1484,Aaron Jones,Green Bay Packers,15,2021,52,391,6,412,65
+1485,Jarvis Landry,NaN,NaN,NaN,52,570,2,273,87
+1486,Cordarrelle Patterson,Atlanta Falcons,16,2021,52,548,5,385,69
+1487,Jamison Crowder,New York Jets,12,2021,51,447,2,174,71
+1488,Hunter Henry,New England Patriots,17,2021,50,603,9,144,75
+1489,Van Jefferson,Los Angeles Rams,17,2021,50,802,6,220,89
+1490,K.J. Osborn,Minnesota Vikings,17,2021,50,655,7,179,82
+1491,Myles Gaskin,Miami Dolphins,17,2021,49,234,4,224,63
+1492,Dawson Knox,Buffalo Bills,15,2021,49,587,9,277,71
+1493,C.J. Uzomah,Cincinnati Bengals,16,2021,49,493,5,300,63
+1494,Jared Cook,NaN,NaN,NaN,48,564,4,238,83
+1495,Gerald Everett,Seattle Seahawks,15,2021,48,478,4,249,63
+1496,Kalif Raymond,Detroit Lions,16,2021,48,576,4,262,71
+1497,Ezekiel Elliott,Dallas Cowboys,17,2021,47,287,2,303,65
+1498,Zay Jones,Las Vegas Raiders,17,2021,47,546,1,170,70
+1499,Alvin Kamara,New Orleans Saints,13,2021,47,439,5,437,67
+1500,Darrel Williams,NaN,NaN,NaN,47,452,2,435,57
+1501,Rashod Bateman,Baltimore Ravens,12,2021,46,515,1,163,68
+1502,Braxton Berrios,New York Jets,16,2021,46,431,2,264,65
+1503,Marquez Callaway,New Orleans Saints,17,2021,46,698,6,144,84
+1504,Evan Engram,New York Giants,15,2021,46,408,3,185,73
+1505,Cedrick Wilson Jr.,NaN,NaN,NaN,45,602,6,260,61
+1506,Robert Woods,Los Angeles Rams,9,2021,45,556,4,198,69
+1507,Odell Beckham Jr.,NaN,NaN,NaN,44,537,5,151,82
+1508,Mike Davis,NaN,NaN,NaN,44,259,1,306,58
+1509,Chase Edmonds,Arizona Cardinals,12,2021,43,311,0,324,53
+1510,J.D. McKissic,NaN,NaN,NaN,43,397,2,380,53
+1511,Elijah Moore,New York Jets,11,2021,43,538,5,207,77
+1512,Quez Watkins,Philadelphia Eagles,17,2021,43,647,1,253,62
+1513,Javonte Williams,Denver Broncos,17,2021,43,316,3,343,53
+1514,Antonio Brown,NaN,NaN,NaN,42,545,4,190,62
+1515,Antonio Gibson,NaN,NaN,NaN,42,294,3,333,52
+1516,DeAndre Hopkins,Arizona Cardinals,10,2021,42,572,8,140,64
+1517,Joe Mixon,Cincinnati Bengals,16,2021,42,314,3,318,48
+1518,David Montgomery,Chicago Bears,13,2021,42,301,0,265,51
+1519,Byron Pringle,NaN,NaN,NaN,42,568,5,187,60
+1520,Emmanuel Sanders,NaN,NaN,NaN,42,626,4,85,72
+1521,Saquon Barkley,New York Giants,13,2021,41,263,2,298,57
+1522,Brandon Bolden,NaN,NaN,NaN,41,405,2,416,49
+1523,Adam Humphries,NaN,NaN,NaN,41,383,0,158,62
+1524,Devontae Booker,NaN,NaN,NaN,40,268,1,297,45
+1525,Nyheim Hines,Indianapolis Colts,17,2021,40,310,1,276,57
+1526,Allen Lazard,Green Bay Packers,15,2021,40,513,8,174,60
+1527,DeVante Parker,NaN,NaN,NaN,40,515,2,104,73
+1528,Devin Singletary,Buffalo Bills,17,2021,40,228,1,242,50
+1529,Jonathan Taylor,Indianapolis Colts,17,2021,40,360,2,406,51
+1530,Ray-Ray McCloud,Pittsburgh Steelers,16,2021,39,277,0,116,66
+1531,Tony Pollard,Dallas Cowboys,15,2021,39,337,0,338,46
+1532,Kadarius Toney,New York Giants,10,2021,39,420,0,228,57
+1533,Ameer Abdullah,Carolina Panthers,11,2021,38,289,1,294,53
+1534,Austin Hooper,Cleveland Browns,16,2021,38,345,3,185,61
+1535,Jerry Jeudy,Denver Broncos,10,2021,38,467,0,178,56
+1536,Zach Pascal,Indianapolis Colts,16,2021,38,384,3,121,69
+1537,Allen Robinson,Chicago Bears,12,2021,38,410,1,92,66
+1538,Nick Westbrook-Ikhine,Tennessee Titans,16,2021,38,476,4,144,57
+1539,Nelson Agholor,New England Patriots,15,2021,37,473,3,101,64
+1540,James Conner,Arizona Cardinals,15,2021,37,375,3,382,39
+1541,Kenny Golladay,NaN,NaN,NaN,37,521,0,119,76
+1542,Christian McCaffrey,Carolina Panthers,7,2021,37,343,1,258,41
+1543,Michael Carter,NaN,NaN,NaN,36,325,0,341,55
+1544,Deonte Harty,NaN,NaN,NaN,36,570,3,246,59
+1545,Tyler Johnson,Tampa Bay Buccaneers,17,2021,36,360,0,137,55
+1546,David Njoku,Cleveland Browns,16,2021,36,475,4,247,53
+1547,Sterling Shepard,New York Giants,7,2021,36,366,1,111,53
+1548,Dan Arnold,NaN,NaN,NaN,35,408,0,185,52
+1549,Gabe Davis,Buffalo Bills,16,2021,35,549,6,132,63
+1550,Michael Gallup,NaN,NaN,NaN,35,445,2,123,62
+1551,Dalvin Cook,Minnesota Vikings,13,2021,34,224,0,278,49
+1552,Corey Davis,NaN,NaN,NaN,34,492,4,129,59
+1553,AJ Dillon,NaN,NaN,NaN,34,313,2,310,37
+1554,Bryan Edwards,NaN,NaN,NaN,34,571,3,190,59
+1555,Anthony Firkser,Tennessee Titans,15,2021,34,291,2,111,43
+1556,Devonta Freeman,NaN,NaN,NaN,34,190,1,183,42
+1557,Ty Johnson,New York Jets,16,2021,34,372,2,334,55
+1558,Donovan Peoples-Jones,Cleveland Browns,14,2021,34,597,3,146,58
+1559,Durham Smythe,Miami Dolphins,17,2021,34,357,0,151,41
+1560,Nico Collins,Houston Texans,14,2021,33,446,1,121,60
+1561,Devin Duvernay,Baltimore Ravens,16,2021,33,272,2,141,47
+1562,Kenneth Gainwell,Philadelphia Eagles,16,2021,33,253,1,226,50
+1563,Albert Okwuegbunam,Denver Broncos,14,2021,33,330,2,245,40
+1564,Josh Palmer,Los Angeles Chargers,17,2021,33,353,4,100,49
+1565,Jalen Reagor,Philadelphia Eagles,17,2021,33,299,2,126,57
+1566,Laquon Treadwell,Jacksonville Jaguars,12,2021,33,434,1,122,51
+1567,David Johnson,NaN,NaN,NaN,32,225,1,169,42
+1568,Alexander Mattison,Minnesota Vikings,16,2021,32,228,1,238,39
+1569,Tre'Quan Smith,New Orleans Saints,11,2021,32,377,3,113,50
+1570,Jalen Guyton,Los Angeles Chargers,16,2021,31,448,3,149,48
+1571,Julio Jones,NaN,NaN,NaN,31,434,1,112,48
+1572,Calvin Ridley,Atlanta Falcons,5,2021,31,281,2,91,52
+1573,James Robinson,NaN,NaN,NaN,31,222,0,230,46
+1574,Geoff Swaim,Tennessee Titans,16,2021,31,210,3,139,40
+1575,Olamide Zaccheaus,Atlanta Falcons,17,2021,31,406,3,96,53
+1576,Cameron Brate,NaN,NaN,NaN,30,245,4,81,57
+1577,Kenyan Drake,NaN,NaN,NaN,30,291,1,259,40
+1578,Kyle Juszczyk,San Francisco 49ers,17,2021,30,296,1,151,38
+1579,Foster Moreau,Las Vegas Raiders,17,2021,30,373,3,189,44
+1580,Chester Rogers,NaN,NaN,NaN,30,301,1,103,43
+1581,Ricky Seals-Jones,NaN,NaN,NaN,30,271,2,152,49
+1582,Jack Doyle,NaN,NaN,NaN,29,302,3,125,43
+1583,Darrell Henderson,NaN,NaN,NaN,29,176,3,180,40
+1584,Josh Reynolds,Detroit Lions,7,2021,29,396,2,119,49
+1585,Randall Cobb,NaN,NaN,NaN,28,375,5,138,39
+1586,Keelan Cole,NaN,NaN,NaN,28,449,1,85,51
+1587,Melvin Gordon,NaN,NaN,NaN,28,213,2,186,38
+1588,Jeremy McNichols,Tennessee Titans,14,2021,28,240,1,244,38
+1589,Jonnu Smith,New England Patriots,16,2021,28,294,1,232,45
+1590,Ryan Griffin,NaN,NaN,NaN,27,261,2,149,42
+1591,Mark Ingram,NaN,NaN,NaN,27,162,0,164,35
+1592,Samaje Perine,Cincinnati Bengals,16,2021,27,196,1,198,31
+1593,Adam Trautman,New Orleans Saints,13,2021,27,263,2,111,43
+1594,Sammy Watkins,NaN,NaN,NaN,27,394,1,107,49
+1595,Damiere Byrd,NaN,NaN,NaN,26,329,1,116,38
+1596,Hayden Hurst,Atlanta Falcons,13,2021,26,221,3,89,31
+1597,Kyle Rudolph,NaN,NaN,NaN,26,257,1,137,39
+1598,Miles Sanders,Philadelphia Eagles,12,2021,26,158,0,227,34
+1599,Darius Slayton,New York Giants,13,2021,26,339,2,65,58
+1600,Marquez Valdes-Scantling,Green Bay Packers,11,2021,26,430,3,146,55
+1601,Jamaal Williams,Detroit Lions,13,2021,26,157,0,156,28
+1602,Rex Burkhead,NaN,NaN,NaN,25,186,0,141,32
+1603,Josiah Deguara,Green Bay Packers,16,2021,25,245,2,204,33
+1604,Chuba Hubbard,Carolina Panthers,17,2021,25,174,1,172,37
+1605,Demarcus Robinson,Kansas City Chiefs,17,2021,25,264,3,62,41
+1606,Tajae Sharpe,NaN,NaN,NaN,25,230,0,69,37
+1607,Freddie Swain,NaN,NaN,NaN,25,343,4,206,40
+1608,Albert Wilson,NaN,NaN,NaN,25,213,0,138,39
+1609,Jamal Agnew,NaN,NaN,NaN,24,229,1,111,39
+1610,Jordan Akins,Houston Texans,13,2021,24,214,0,82,33
+1611,Mo Alie-Cox,Indianapolis Colts,17,2021,24,316,4,150,45
+1612,Danny Amendola,NaN,NaN,NaN,24,248,3,69,38
+1613,Tavon Austin,NaN,NaN,NaN,24,213,1,68,37
+1614,DeAndre Carter,Washington Commanders,17,2021,24,296,3,78,44
+1615,Rashard Higgins,NaN,NaN,NaN,24,275,1,41,47
+1616,Jauan Jennings,San Francisco 49ers,16,2021,24,282,5,103,38
+1617,James O'Shaughnessy,NaN,NaN,NaN,24,244,0,114,34
+1618,Henry Ruggs III,NaN,NaN,NaN,24,469,2,109,36
+1619,James Washington,NaN,NaN,NaN,24,285,2,79,44
+1620,Giovani Bernard,NaN,NaN,NaN,23,123,3,134,29
+1621,Pharaoh Brown,Houston Texans,15,2021,23,171,0,106,34
+1622,JaMycal Hasty,San Francisco 49ers,11,2021,23,157,0,128,29
+1623,T.Y. Hilton,NaN,NaN,NaN,23,331,3,71,37
+1624,Marcedes Lewis,Green Bay Packers,17,2021,23,214,0,144,28
+1625,Zack Moss,Buffalo Bills,13,2021,23,197,1,200,32
+1626,Chris Conley,Houston Texans,16,2021,22,323,2,95,37
+1627,Kareem Hunt,Cleveland Browns,8,2021,22,174,0,174,27
+1628,Justin Jackson,NaN,NaN,NaN,22,178,0,165,25
+1629,Harrison Bryant,Cleveland Browns,16,2021,21,233,3,79,28
+1630,DeeJay Dallas,Seattle Seahawks,17,2021,21,133,0,110,23
+1631,Will Dissly,Seattle Seahawks,15,2021,21,231,1,143,26
+1632,Sony Michel,NaN,NaN,NaN,21,128,1,120,33
+1633,Chris Moore,Houston Texans,12,2021,21,227,2,147,22
+1634,John Bates,Washington Commanders,17,2021,20,249,1,139,25
+1635,Nick Chubb,Cleveland Browns,14,2021,20,174,1,183,25
+1636,Marquise Goodwin,NaN,NaN,NaN,20,313,1,83,40
+1637,DeSean Jackson,NaN,NaN,NaN,20,454,2,175,34
+1638,Brevin Jordan,Houston Texans,9,2021,20,178,3,94,28
+1639,Isaiah McKenzie,NaN,NaN,NaN,20,178,1,81,26
+1640,Donald Parham,Los Angeles Chargers,14,2021,20,190,3,138,27
+1641,Tommy Tremble,Carolina Panthers,16,2021,20,180,1,70,35
+1642,Clyde Edwards-Helaire,Kansas City Chiefs,10,2021,19,129,2,169,23
+1643,Zach Gentry,NaN,NaN,NaN,19,167,0,127,25
+1644,Dontrell Hilliard,NaN,NaN,NaN,19,87,0,108,26
+1645,D'Ernest Johnson,Cleveland Browns,17,2021,19,137,0,138,25
+1646,Elijah Mitchell,NaN,NaN,NaN,19,137,1,151,20
+1647,Antoine Wesley,NaN,NaN,NaN,19,208,3,61,32
+1648,Demetric Felton,NaN,NaN,NaN,18,181,2,201,21
+1649,Damien Harris,NaN,NaN,NaN,18,132,0,134,21
+1650,Derrick Henry,Tennessee Titans,8,2021,18,154,0,160,20
+1651,Ian Thomas,Carolina Panthers,17,2021,18,188,0,92,30
+1652,Logan Thomas,NaN,NaN,NaN,18,196,3,67,25
+1653,Robert Tonyan,Green Bay Packers,8,2021,18,204,2,104,29
+1654,Brandon Zylstra,NaN,NaN,NaN,18,250,1,118,25
+1655,C.J. Ham,Minnesota Vikings,17,2021,17,125,0,61,18
+1656,Terrace Marshall Jr.,Carolina Panthers,13,2021,17,138,0,63,30
+1657,Stephen Anderson,NaN,NaN,NaN,16,165,1,115,19
+1658,Noah Brown,Dallas Cowboys,13,2021,16,184,0,68,25
+1659,Travis Homer,Seattle Seahawks,14,2021,16,161,0,128,20
+1660,Tyler Kroft,NaN,NaN,NaN,16,173,1,74,25
+1661,Ty Montgomery,NaN,NaN,NaN,16,95,0,87,26
+1662,James Proche,Baltimore Ravens,14,2021,16,202,0,55,20
+1663,Damien Williams,NaN,NaN,NaN,16,103,1,109,23
+1664,Maxx Williams,NaN,NaN,NaN,16,193,1,125,17
+1665,Quintez Cephus,Detroit Lions,5,2021,15,204,2,95,22
+1666,Chris Evans,Cincinnati Bengals,14,2021,15,151,2,113,17
+1667,Kendall Hinton,NaN,NaN,NaN,15,175,1,57,23
+1668,Mohamed Sanu,NaN,NaN,NaN,15,177,0,44,24
+1669,Cam Sims,NaN,NaN,NaN,15,211,2,42,23
+1670,JuJu Smith-Schuster,Pittsburgh Steelers,5,2021,15,129,0,68,28
+1671,Jimmy Graham,NaN,NaN,NaN,14,167,3,55,23
+1672,Khalil Herbert,Chicago Bears,17,2021,14,96,0,101,16
+1673,Mack Hollins,Miami Dolphins,17,2021,14,223,4,39,28
+1674,O.J. Howard,NaN,NaN,NaN,14,135,1,83,21
+1675,MyCole Pruitt,Tennessee Titans,16,2021,14,145,3,59,18
+1676,Rhamondre Stevenson,New England Patriots,12,2021,14,123,0,145,18
+1677,Ashton Dulin,Indianapolis Colts,17,2021,13,173,2,50,22
+1678,KhaDarel Hodge,Detroit Lions,16,2021,13,157,0,37,27
+1679,Lil'Jordan Humphrey,New Orleans Saints,10,2021,13,249,2,101,18
+1680,Juwan Johnson,New Orleans Saints,14,2021,13,159,4,42,22
+1681,Jerick McKinnon,NaN,NaN,NaN,13,107,1,134,20
+1682,Dare Ogunbowale,Jacksonville Jaguars,17,2021,13,114,1,93,21
+1683,Boston Scott,Philadelphia Eagles,16,2021,13,83,0,96,16
+1684,Salvon Ahmed,Miami Dolphins,12,2021,12,117,0,123,19
+1685,Dyami Brown,Washington Commanders,15,2021,12,165,0,34,25
+1686,Eric Ebron,NaN,NaN,NaN,12,84,1,21,18
+1687,Isaiah Ford,NaN,NaN,NaN,12,161,2,60,17
+1688,N'Keal Harry,New England Patriots,12,2021,12,184,0,25,22
+1689,Carlos Hyde,NaN,NaN,NaN,12,65,0,59,22
+1690,Jalen Richard,NaN,NaN,NaN,12,72,0,67,14
+1691,Adam Shaheen,NaN,NaN,NaN,12,110,0,33,16
+1692,Malik Turner,Dallas Cowboys,14,2021,12,149,3,74,16
+1693,James White,NaN,NaN,NaN,12,94,0,70,14
+1694,Brock Wright,Detroit Lions,9,2021,12,117,2,64,17
+1695,Tevin Coleman,NaN,NaN,NaN,11,49,0,88,16
+1696,Kylen Granson,Indianapolis Colts,17,2021,11,106,0,76,15
+1697,Jakeem Grant,NaN,NaN,NaN,11,132,2,103,17
+1698,Blake Jarwin,NaN,NaN,NaN,11,96,2,38,17
+1699,Collin Johnson,New York Giants,12,2021,11,105,0,18,21
+1700,Breshad Perriman,NaN,NaN,NaN,11,167,1,102,18
+1701,John Ross,New York Giants,10,2021,11,224,1,40,20
+1702,Drew Sample,Cincinnati Bengals,17,2021,11,81,0,82,15
+1703,Ben Skowronek,Los Angeles Rams,14,2021,11,133,0,53,20
+1704,Peyton Barber,NaN,NaN,NaN,10,67,0,73,13
+1705,Trinity Benson,NaN,NaN,NaN,10,103,0,59,22
+1706,Parris Campbell,Indianapolis Colts,6,2021,10,162,1,17,20
+1707,D'Wayne Eskridge,Seattle Seahawks,10,2021,10,64,1,32,20
+1708,Royce Freeman,Houston Texans,7,2021,10,77,0,75,16
+1709,Cyril Grayson,NaN,NaN,NaN,10,212,2,70,12
+1710,Alec Ingold,Las Vegas Raiders,9,2021,10,85,1,46,12
+1711,Ronald Jones,NaN,NaN,NaN,10,64,0,77,13
+1712,Latavius Murray,NaN,NaN,NaN,10,75,0,71,13
+1713,Jaret Patterson,Washington Commanders,17,2021,10,73,0,75,11
+1714,Dante Pettis,New York Giants,3,2021,10,87,1,38,16
+1715,Anthony Schwartz,Cleveland Browns,14,2021,10,135,1,10,23
+1716,Dede Westbrook,NaN,NaN,NaN,10,68,0,17,15
+1717,Blake Bell,NaN,NaN,NaN,9,87,0,67,13
+1718,Alex Collins,NaN,NaN,NaN,9,87,0,96,10
+1719,D'Onta Foreman,Tennessee Titans,9,2021,9,123,0,124,11
+1720,Jacob Hollister,NaN,NaN,NaN,9,55,1,28,14
+1721,Marcus Johnson,NaN,NaN,NaN,9,160,0,95,19
+1722,Dax Milne,NaN,NaN,NaN,9,83,0,39,14
+1723,Josh Oliver,Baltimore Ravens,14,2021,9,66,0,25,15
+1724,Elijhaa Penny,NaN,NaN,NaN,9,30,1,36,13
+1725,Trent Sherfield,San Francisco 49ers,17,2021,9,87,1,23,20
+1726,Keith Smith,NaN,NaN,NaN,9,56,0,38,10
+1727,Lee Smith,NaN,NaN,NaN,9,65,1,31,11
+1728,Equanimeous St. Brown,Green Bay Packers,13,2021,9,98,0,58,17
+1729,Tommy Sweeney,Buffalo Bills,13,2021,9,44,1,14,12
+1730,Nick Vannett,New Orleans Saints,7,2021,9,133,1,92,15
+1731,Ty'Son Williams,NaN,NaN,NaN,9,84,0,71,12
+1732,Derrick Gore,NaN,NaN,NaN,8,105,0,90,9
+1733,Denzel Mims,NaN,NaN,NaN,8,133,0,49,23
+1734,Patrick Ricard,Baltimore Ravens,13,2021,8,63,1,45,13
+1735,Eric Saubert,Denver Broncos,17,2021,8,47,1,29,12
+1736,Jeff Smith,NaN,NaN,NaN,8,113,0,15,17
+1737,Juwann Winfree,Green Bay Packers,7,2021,8,58,0,31,13
+1738,Matt Breida,NaN,NaN,NaN,7,72,2,61,9
+1739,DJ Chark,NaN,NaN,NaN,7,154,2,24,22
+1740,Phillip Dorsett,Houston Texans,3,2021,7,110,0,27,14
+1741,Luke Farrell,Jacksonville Jaguars,15,2021,7,56,0,28,11
+1742,Noah Gray,Kansas City Chiefs,16,2021,7,36,1,18,10
+1743,Penny Hart,NaN,NaN,NaN,7,59,0,41,12
+1744,Godwin Igwebuike,NaN,NaN,NaN,7,60,0,64,10
+1745,Jesse James,NaN,NaN,NaN,7,62,1,18,8
+1746,Craig Reynolds,Detroit Lions,5,2021,7,52,0,55,8
+1747,Greg Ward,NaN,NaN,NaN,7,95,3,16,11
+1748,Jeff Wilson,San Francisco 49ers,9,2021,7,31,0,43,8
+1749,Eno Benjamin,NaN,NaN,NaN,6,42,0,46,7
+1750,Chris Carson,NaN,NaN,NaN,6,29,0,42,6
+1751,Corey Clement,NaN,NaN,NaN,6,29,1,12,7
+1752,Jaelon Darden,Tampa Bay Buccaneers,9,2021,6,43,0,24,12
+1753,Tom Kennedy,Detroit Lions,12,2021,6,54,0,17,10
+1754,Chris Manhertz,Jacksonville Jaguars,17,2021,6,71,1,26,9
+1755,Tre' McKitty,NaN,NaN,NaN,6,45,0,34,8
+1756,Anthony Miller,Pittsburgh Steelers,1,2021,6,25,1,10,12
+1757,Rashaad Penny,NaN,NaN,NaN,6,48,0,62,8
+1758,Curtis Samuel,Washington Commanders,5,2021,6,27,0,40,9
+1759,Shi Smith,NaN,NaN,NaN,6,104,0,71,11
+1760,Kenny Stills,NaN,NaN,NaN,6,68,1,10,23
+1761,Preston Williams,NaN,NaN,NaN,6,71,0,38,16
+1762,Antony Auclair,NaN,NaN,NaN,5,47,1,13,5
+1763,Le'Veon Bell,NaN,NaN,NaN,5,30,1,26,7
+1764,Dez Fitzpatrick,Tennessee Titans,4,2021,5,49,1,3,8
+1765,Joseph Fortson,NaN,NaN,NaN,5,47,2,9,5
+1766,Josh Gordon,NaN,NaN,NaN,5,32,1,5,14
+1767,KJ Hamler,NaN,NaN,NaN,5,74,0,16,10
+1768,Parker Hesse,Atlanta Falcons,8,2021,5,43,0,21,6
+1769,Tony Jones,NaN,NaN,NaN,5,29,0,28,8
+1770,Joshua Kelley,Los Angeles Chargers,10,2021,5,38,0,31,6
+1771,Scott Miller,Tampa Bay Buccaneers,9,2021,5,38,0,9,9
+1772,Colby Parkinson,Seattle Seahawks,14,2021,5,33,0,20,8
+1773,Rodney Smith,NaN,NaN,NaN,5,48,0,32,5
+1774,Ihmir Smith-Marsette,Minnesota Vikings,8,2021,5,116,2,17,6
+1775,Mike Thomas,NaN,NaN,NaN,5,52,0,13,11
+1776,Cody White,NaN,NaN,NaN,5,33,0,14,6
+1777,Charlie Woerner,San Francisco 49ers,17,2021,5,52,0,9,6
+1778,Christian Blake,NaN,NaN,NaN,4,25,0,2,9
+1779,Kendall Blanton,NaN,NaN,NaN,4,37,0,13,7
+1780,C.J. Board,NaN,NaN,NaN,4,51,0,13,6
+1781,Ja'Marcus Bradley,NaN,NaN,NaN,4,64,0,16,4
+1782,Jason Cabinda,NaN,NaN,NaN,4,16,1,8,7
+1783,Pharoh Cooper,NaN,NaN,NaN,4,33,0,7,11
+1784,Tyler Davis,NaN,NaN,NaN,4,35,0,13,5
+1785,Ross Dwelley,San Francisco 49ers,17,2021,4,51,1,5,5
+1786,Darren Fells,NaN,NaN,NaN,4,43,0,27,5
+1787,Will Fuller,NaN,NaN,NaN,4,26,0,10,8
+1788,Garrett Griffin,NaN,NaN,NaN,4,39,0,27,4
+1789,Chris Herndon,NaN,NaN,NaN,4,40,1,31,7
+1790,Taysom Hill,New Orleans Saints,12,2021,4,52,0,50,6
+1791,Chris Hogan,NaN,NaN,NaN,4,41,1,13,8
+1792,Cody Hollister,NaN,NaN,NaN,4,33,0,17,7
+1793,Jermar Jefferson,Detroit Lions,7,2021,4,23,0,21,5
+1794,Duke Johnson,NaN,NaN,NaN,4,41,0,51,5
+1795,Jakob Johnson,New England Patriots,17,2021,4,43,0,34,5
+1796,Phillip Lindsay,NaN,NaN,NaN,4,45,1,53,5
+1797,Sean McKeon,Dallas Cowboys,9,2021,4,27,1,10,6
+1798,Kene Nwangwu,Minnesota Vikings,11,2021,4,9,0,19,5
+1799,Qadree Ollison,NaN,NaN,NaN,4,12,0,6,6
+1800,Adrian Peterson,NaN,NaN,NaN,4,8,0,19,4
+1801,Amari Rodgers,NaN,NaN,NaN,4,45,0,24,8
+1802,Wendell Smallwood,NaN,NaN,NaN,4,22,0,14,5
+1803,Willie Snead,NaN,NaN,NaN,4,38,0,12,8
+1804,Jack Stoll,Philadelphia Eagles,16,2021,4,22,0,20,5
+1805,J.J. Taylor,New England Patriots,5,2021,4,8,0,10,4
+1806,Ke'Shawn Vaughn,Tampa Bay Buccaneers,12,2021,4,26,0,14,8
+1807,Kristian Wilkerson,New England Patriots,3,2021,4,42,2,5,8
+1808,Jonathan Williams,NaN,NaN,NaN,4,28,0,36,6
+1809,Cam Akers,Los Angeles Rams,1,2021,3,10,0,4,3
+1810,Ryquell Armstead,NaN,NaN,NaN,3,16,0,20,4
+1811,Malcolm Brown,NaN,NaN,NaN,3,10,0,8,5
+1812,Michael Burton,Kansas City Chiefs,16,2021,3,31,0,36,3
+1813,Greg Dortch,Arizona Cardinals,5,2021,3,15,0,31,3
+1814,Alex Erickson,NaN,NaN,NaN,3,55,0,30,4
+1815,Reggie Gilliam,Buffalo Bills,16,2021,3,23,0,22,5
+1816,Demetrius Harris,NaN,NaN,NaN,3,10,0,13,6
+1817,K.J. Hill,NaN,NaN,NaN,3,30,0,12,3
+1818,Tommy Hudson,NaN,NaN,NaN,3,31,0,24,6
+1819,Tyree Jackson,NaN,NaN,NaN,3,22,1,7,7
+1820,Andy Janovich,NaN,NaN,NaN,3,9,0,4,4
+1821,Keith Kirkwood,Carolina Panthers,3,2021,3,17,0,16,7
+1822,Patrick Laird,NaN,NaN,NaN,3,17,0,20,3
+1823,D.J. Montgomery,New York Jets,3,2021,3,36,0,15,6
+1824,Jason Moore,NaN,NaN,NaN,3,56,0,26,4
+1825,Chris Myarick,New York Giants,8,2021,3,17,1,8,6
+1826,Gabe Nabers,NaN,NaN,NaN,3,17,0,12,3
+1827,Adam Prentice,New Orleans Saints,7,2021,3,16,0,15,3
+1828,Jaylen Samuels,NaN,NaN,NaN,3,14,0,17,4
+1829,Trey Sermon,San Francisco 49ers,9,2021,3,26,0,18,4
+1830,Kaden Smith,NaN,NaN,NaN,3,33,0,11,3
+1831,Jeremy Sprinkle,NaN,NaN,NaN,3,31,0,19,3
+1832,Auden Tate,NaN,NaN,NaN,3,39,1,21,4
+1833,Jonathan Ward,Arizona Cardinals,13,2021,3,34,0,26,4
+1834,Derek Watt,NaN,NaN,NaN,3,15,0,16,3
+1835,Trevon Wesco,New York Jets,12,2021,3,35,0,29,5
+1836,Mitchell Wilcox,Cincinnati Bengals,15,2021,3,16,0,8,5
+1837,Shane Zylstra,Detroit Lions,4,2021,3,34,0,6,7
+1838,J.J. Arcega-Whiteside,NaN,NaN,NaN,2,36,0,29,5
+1839,Kalen Ballage,NaN,NaN,NaN,2,8,0,10,7
+1840,Cameron Batson,NaN,NaN,NaN,2,15,1,1,5
+1841,Khari Blasingame,Tennessee Titans,11,2021,2,4,0,4,2
+1842,Reggie Bonnafon,NaN,NaN,NaN,2,12,0,9,2
+1843,Mike Boone,Denver Broncos,8,2021,2,22,0,24,2
+1844,Daniel Brown,NaN,NaN,NaN,2,29,0,22,2
+1845,Derek Carrier,NaN,NaN,NaN,2,13,0,6,2
+1846,Cethan Carter,NaN,NaN,NaN,2,16,0,8,2
+1847,Dominique Dafney,NaN,NaN,NaN,2,34,0,31,4
+1848,Taylor Decker,Detroit Lions,9,2021,2,4,1,1,2
+1849,Darrynton Evans,Tennessee Titans,1,2021,2,11,0,15,2
+1850,Jesper Horsted,NaN,NaN,NaN,2,21,2,0,3
+1851,Jordan Howard,NaN,NaN,NaN,2,19,0,14,5
+1852,Trenton Irwin,Cincinnati Bengals,7,2021,2,34,0,5,5
+1853,Tyron Johnson,NaN,NaN,NaN,2,16,0,9,5
+1854,Marcus Kemp,NaN,NaN,NaN,2,24,0,8,5
+1855,Jake Kumerow,NaN,NaN,NaN,2,28,0,7,6
+1856,Marlon Mack,NaN,NaN,NaN,2,8,0,4,5
+1857,Racey McMath,NaN,NaN,NaN,2,8,0,9,6
+1858,Jaydon Mickens,NaN,NaN,NaN,2,10,0,3,3
+1859,Stanley Morgan,NaN,NaN,NaN,2,11,0,20,4
+1860,Dazz Newsome,NaN,NaN,NaN,2,23,0,15,5
+1861,Gunner Olszewski,New England Patriots,16,2021,2,31,0,14,3
+1862,Dezmon Patmon,NaN,NaN,NaN,2,21,1,3,4
+1863,Scottie Phillips,NaN,NaN,NaN,2,9,0,7,3
+1864,Kevin Rader,NaN,NaN,NaN,2,8,0,4,3
+1865,Trey Ragas,NaN,NaN,NaN,2,6,0,13,2
+1866,Richard Rodgers,NaN,NaN,NaN,2,11,0,10,2
+1867,C.J. Saunders,NaN,NaN,NaN,2,11,0,0,2
+1868,David Sills,New York Giants,4,2021,2,17,0,2,6
+1869,Benny Snell,NaN,NaN,NaN,2,13,0,20,4
+1870,Johnny Stanton,NaN,NaN,NaN,2,7,1,4,2
+1871,Luke Stocker,NaN,NaN,NaN,2,12,0,6,2
+1872,Mike Strachan,Indianapolis Colts,6,2021,2,26,0,0,3
+1873,Malik Taylor,Green Bay Packers,10,2021,2,14,0,8,3
+1874,Patrick Taylor,Green Bay Packers,9,2021,2,3,0,5,2
+1875,Trent Taylor,Cincinnati Bengals,4,2021,2,41,0,7,3
+1876,Tylan Wallace,Baltimore Ravens,17,2021,2,23,0,14,6
+1877,Austin Walter,NaN,NaN,NaN,2,9,0,13,3
+1878,Dwayne Washington,NaN,NaN,NaN,2,12,0,10,2
+1879,Tyrell Williams,NaN,NaN,NaN,2,14,0,8,3
+1880,Ethan Wolf,NaN,NaN,NaN,2,8,0,6,2
+1881,Kenny Yeboah,New York Jets,9,2021,2,36,0,3,3
+1882,Alex Armah,NaN,NaN,NaN,1,1,1,1,1
+1883,Nick Bawden,NaN,NaN,NaN,1,20,0,11,1
+1884,Nick Bellore,NaN,NaN,NaN,1,4,0,4,1
+1885,Tarik Black,New York Jets,1,2021,1,10,0,0,2
+1886,Miles Boykin,Baltimore Ravens,8,2021,1,6,0,0,1
+1887,Nick Boyle,NaN,NaN,NaN,1,2,0,0,2
+1888,Garrett Bradbury,Minnesota Vikings,13,2021,1,21,0,24,1
+1889,Gary Brightwell,New York Giants,13,2021,1,6,0,5,1
+1890,Keke Coutee,NaN,NaN,NaN,1,5,0,0,1
+1891,Darrell Daniels,NaN,NaN,NaN,1,0,0,1,4
+1892,Frank Darby,NaN,NaN,NaN,1,14,0,11,4
+1893,Davion Davis,NaN,NaN,NaN,1,17,0,13,3
+1894,Wayne Gallman,NaN,NaN,NaN,1,21,0,20,3
+1895,Marvin Hall,NaN,NaN,NaN,1,10,0,5,1
+1896,Taylor Heinicke,Washington Commanders,16,2021,1,-2,0,2,1
+1897,Daniel Helm,NaN,NaN,NaN,1,-1,0,2,2
+1898,Kylin Hill,NaN,NaN,NaN,1,5,0,7,2
+1899,Amani Hooker,Tennessee Titans,12,2021,1,6,0,2,1
+1900,Brycen Hopkins,NaN,NaN,NaN,1,9,0,6,1
+1901,Andy Isabella,Arizona Cardinals,8,2021,1,13,0,7,1
+1902,Lane Johnson,Philadelphia Eagles,13,2021,1,5,1,0,1
+1903,Daniel Jones,New York Giants,11,2021,1,16,0,3,1
+1904,Tommylee Lewis,NaN,NaN,NaN,1,7,0,11,2
+1905,Drew Lock,Denver Broncos,6,2021,1,1,0,6,1
+1906,Hunter Long,Miami Dolphins,7,2021,1,8,0,4,3
+1907,Conor McDermott,New York Jets,6,2021,1,1,1,0,1
+1908,Anthony McFarland,NaN,NaN,NaN,1,11,0,11,1
+1909,Kirk Merritt,NaN,NaN,NaN,1,13,0,0,3
+1910,Johnny Mundt,Los Angeles Rams,6,2021,1,9,0,2,1
+1911,Ryan Nall,NaN,NaN,NaN,1,4,0,0,1
+1912,Devine Ozigbo,NaN,NaN,NaN,1,7,0,3,1
+1913,Danny Pinter,Indianapolis Colts,16,2021,1,2,1,0,1
+1914,Bobby Price,Detroit Lions,15,2021,1,17,0,8,1
+1915,Mike Remmers,NaN,NaN,NaN,1,-2,0,-2,1
+1916,Andre Roberts,NaN,NaN,NaN,1,35,0,16,2
+1917,Aaron Rodgers,Green Bay Packers,16,2021,1,-4,0,0,1
+1918,Larry Rountree III,NaN,NaN,NaN,1,-1,0,0,2
+1919,Diontae Spencer,NaN,NaN,NaN,1,-3,0,0,4
+1920,Terence Steele,Dallas Cowboys,16,2021,1,1,1,0,1
+1921,Andrew Thomas,New York Giants,13,2021,1,2,1,0,1
+1922,Eric Tomlinson,Baltimore Ravens,17,2021,1,7,0,4,1
+1923,Kevin White,NaN,NaN,NaN,1,38,0,9,5
+1924,Christian Wilkins,Miami Dolphins,17,2021,1,1,1,0,1
+1925,Trayveon Williams,Cincinnati Bengals,5,2021,1,4,0,11,2
+1926,Seth Williams,NaN,NaN,NaN,1,34,0,4,1
+1927,Easop Winston,NaN,NaN,NaN,1,5,0,9,1
+1928,Deon Yelder,NaN,NaN,NaN,1,0,0,2,1
+1929,Rodney Adams,NaN,NaN,NaN,0,0,0,0,1
+1930,Josh Allen,Buffalo Bills,17,2021,0,0,0,0,0
+1931,Geronimo Allison,NaN,NaN,NaN,0,0,0,0,2
+1932,Travis Benjamin,NaN,NaN,NaN,0,0,0,0,5
+1933,Darius Bradwell,NaN,NaN,NaN,0,0,0,0,1
+1934,John Brown,NaN,NaN,NaN,0,0,0,0,3
+1935,Tevaughn Campbell,NaN,NaN,NaN,0,0,0,0,1
+1936,Derek Carr,Las Vegas Raiders,17,2021,0,0,0,0,0
+1937,Tyrie Cleveland,NaN,NaN,NaN,0,0,0,0,1
+1938,Isaiah Coulter,NaN,NaN,NaN,0,0,0,0,1
+1939,Keion Crossen,New York Giants,16,2021,0,0,0,0,1
+1940,Dion Dawkins,Buffalo Bills,16,2021,0,0,0,0,1
+1941,Jacob Eason,NaN,NaN,NaN,0,0,0,0,0
+1942,Ben Ellefson,NaN,NaN,NaN,0,0,0,0,1
+1943,Justin Herbert,Los Angeles Chargers,17,2021,0,0,0,0,0
+1944,Jason Huntley,NaN,NaN,NaN,0,0,0,0,1
+1945,Jalen Hurts,Philadelphia Eagles,15,2021,0,0,0,0,1
+1946,Baker Mayfield,Cleveland Browns,14,2021,0,11,0,11,0
+1947,Codey McElroy,NaN,NaN,NaN,0,0,0,0,1
+1948,Gardner Minshew,Philadelphia Eagles,4,2021,0,0,0,0,0
+1949,David Moore,Green Bay Packers,1,2021,0,0,0,0,2
+1950,Kyler Murray,Arizona Cardinals,14,2021,0,7,0,7,0
+1951,Matt Nelson,NaN,NaN,NaN,0,0,0,0,1
+1952,Giovanni Ricci,NaN,NaN,NaN,0,0,0,0,2
+1953,Mekhi Sargent,NaN,NaN,NaN,0,0,0,0,1
+1954,Devin Smith,NaN,NaN,NaN,0,0,0,0,1
+1955,Vyncint Smith,NaN,NaN,NaN,0,0,0,0,1
+1956,Stephen Sullivan,Carolina Panthers,3,2021,0,0,0,0,1
+1957,Colin Thompson,NaN,NaN,NaN,0,0,0,0,1
+1958,Mike White,New York Jets,4,2021,0,0,0,0,0
+1959,Trent Williams,San Francisco 49ers,15,2021,0,0,0,0,1
+1960,Zach Wilson,New York Jets,13,2021,0,0,0,0,1

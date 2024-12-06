@@ -14,14 +14,15 @@ st.set_page_config(page_title="Reciever Stats")
 
 @st.cache_data
 def load_wr_data():
-    data_file = 'https://github.com/chale15/NFL_Data/blob/f8b21ec34657411944467c0f4ddc058518e76d46/wr_full.csv'
-    df = pd.read_csv(data_file)
-    return df
+    data = pd.read_csv('wr_full.csv', index_col=0)
+    data = data.dropna()
+    return data
+
+df = load_wr_data()
 
 def random_year():
     year_input = get_random_year(data)
 
-data = load_wr_data()
 #year_val = 2000
 
 st.markdown("# Reciever Stats")

@@ -1,0 +1,412 @@
+,QB,Team,GP,Year,ATT(R),YDS(R),YPC,TDs(R),YDS,ATT,YPA,CMP,TDs,INTs,QBR,SCK
+0,Geno Smith,Seattle Seahawks,8,2024,30,177,5.9,1,2197,308,7.1,212,8,7,88.4,21
+1,Baker Mayfield,Tampa Bay Buccaneers,8,2024,29,169,5.8,2,2189,284,7.7,202,21,9,104.9,20
+2,Kirk Cousins,Atlanta Falcons,8,2024,14,8,0.6,0,2106,271,7.8,185,14,7,97.8,15
+3,Brock Purdy,San Francisco 49ers,8,2024,42,210,5,3,2101,242,8.7,156,10,7,93.7,15
+4,Lamar Jackson,Baltimore Ravens,8,2024,81,501,6.2,2,2099,236,8.9,158,17,2,115.4,12
+5,Joe Burrow,Cincinnati Bengals,8,2024,24,106,4.4,1,1993,263,7.6,185,15,3,106.5,19
+6,C.J. Stroud,Houston Texans,8,2024,23,84,3.6,0,1948,266,7.3,177,11,4,95.6,22
+7,Aaron Rodgers,New York Jets,8,2024,11,44,4,0,1896,284,6.7,175,12,7,85.1,18
+8,Dak Prescott,Dallas Cowboys,7,2024,10,24,2.4,1,1845,262,7,167,10,8,84.5,18
+9,Trevor Lawrence,Jacksonville Jaguars,8,2024,20,105,5.2,1,1835,243,7.6,152,11,4,93.9,16
+10,Josh Allen,Buffalo Bills,8,2024,45,204,4.5,3,1766,223,7.9,143,14,1,107.6,10
+11,Jayden Daniels,Washington Commanders,8,2024,74,424,5.7,4,1736,206,8.4,148,7,2,104.4,17
+12,Daniel Jones,New York Giants,8,2024,53,185,3.5,0,1706,278,6.1,174,6,5,79.5,25
+13,Jared Goff,Detroit Lions,7,2024,14,18,1.3,0,1695,189,9,140,13,4,115.3,17
+14,Matthew Stafford,Los Angeles Rams,7,2024,6,-7,-1.2,0,1671,232,7.2,157,7,5,89.6,17
+15,Patrick Mahomes,Kansas City Chiefs,7,2024,34,139,4.1,1,1651,225,7.3,154,8,9,84.9,12
+16,Kyler Murray,Arizona Cardinals,8,2024,41,344,8.4,2,1638,232,7.1,156,11,3,98,11
+17,Sam Darnold,Minnesota Vikings,7,2024,27,106,3.9,0,1610,189,8.5,127,14,5,107.2,21
+18,Jordan Love,Green Bay Packers,6,2024,10,28,2.8,0,1547,201,7.7,124,15,9,91.8,7
+19,Jalen Hurts,Philadelphia Eagles,7,2024,73,255,3.5,7,1544,191,8.1,132,8,4,98.6,18
+20,Bo Nix,Denver Broncos,8,2024,52,259,5,4,1530,261,5.9,165,8,5,81.4,11
+21,Caleb Williams,Chicago Bears,7,2024,35,210,6,0,1448,223,6.5,140,9,5,85.6,22
+22,Justin Herbert,Los Angeles Chargers,7,2024,24,83,3.5,0,1443,196,7.4,127,8,1,98.2,15
+23,Gardner Minshew,Las Vegas Raiders,7,2024,14,46,3.3,0,1377,204,6.8,138,6,8,80,22
+24,Deshaun Watson,Cleveland Browns,7,2024,31,148,4.8,1,1148,216,5.3,137,5,3,79,33
+25,Justin Fields,Pittsburgh Steelers,6,2024,55,231,4.2,5,1106,160,6.9,106,5,1,93.9,16
+26,Derek Carr,New Orleans Saints,5,2024,8,22,2.8,1,989,128,7.7,90,8,4,100.7,5
+27,Andy Dalton,Carolina Panthers,6,2024,11,34,3.1,0,989,160,6.2,106,7,6,82,7
+28,Anthony Richardson,Indianapolis Colts,6,2024,41,242,5.9,1,958,133,7.2,59,4,7,57.2,9
+29,Jacoby Brissett,New England Patriots,6,2024,15,62,4.1,0,828,159,5.2,94,2,1,74.6,18
+30,Tua Tagovailoa,Miami Dolphins,3,2024,6,41,6.8,0,717,100,7.2,68,3,3,86.1,5
+31,Joe Flacco,Indianapolis Colts,3,2024,6,26,4.3,0,716,108,6.6,71,7,1,102.2,6
+32,Will Levis,Tennessee Titans,5,2024,16,106,6.6,0,699,125,5.6,83,5,7,70.7,15
+33,Spencer Rattler,New Orleans Saints,3,2024,9,61,6.8,0,571,99,5.8,59,1,2,70.7,14
+34,Mason Rudolph,Tennessee Titans,3,2024,9,42,4.7,1,566,95,6,56,2,3,69.9,5
+35,Drake Maye,New England Patriots,4,2024,13,114,8.8,1,564,84,6.7,53,5,2,92.6,9
+36,Russell Wilson,Pittsburgh Steelers,2,2024,6,10,1.7,1,542,57,9.5,36,3,0,111.9,5
+37,Bryce Young,Carolina Panthers,5,2024,9,32,3.6,1,523,102,5.1,61,2,5,59.4,9
+38,Aidan O'Connell,Las Vegas Raiders,4,2024,,,,,455,82,5.6,52,2,2,76,3
+39,Jameis Winston,Cleveland Browns,6,2024,7,4,0.6,0,417,53,7.9,33,4,0,111.9,3
+40,Malik Willis,Green Bay Packers,4,2024,16,137,8.6,1,380,39,9.7,29,3,0,130.3,5
+41,Tyler Huntley,Miami Dolphins,3,2024,16,67,4.2,1,377,66,5.7,39,1,1,73.9,7
+42,Marcus Mariota,Washington Commanders,2,2024,13,36,2.8,0,203,26,7.8,19,2,0,121.2,1
+43,Skylar Thompson,Miami Dolphins,2,2024,1,4,4,0,187,33,5.7,21,0,0,78.7,6
+44,Jake Haener,New Orleans Saints,5,2024,7,18,2.6,0,177,29,6.1,14,1,0,79.2,2
+45,Tim Boyle,Miami Dolphins,2,2024,2,10,5,0,153,26,5.9,15,0,0,74.7,1
+46,Dorian Thompson-Robinson,Cleveland Browns,1,2024,3,44,14.7,0,82,24,3.4,11,0,2,19.8,1
+47,Davis Mills,Houston Texans,3,2024,,,,,79,13,6.1,7,0,0,72.3,1
+48,Cooper Rush,Dallas Cowboys,3,2024,2,1,0.5,0,52,14,3.7,9,0,1,41.4,0
+49,Tyrod Taylor,New York Jets,1,2024,1,7,7,0,36,8,4.5,6,1,0,122.9,0
+50,Jaxon Smith-Njigba,Seattle Seahawks,8,2024,1,1,100,35,35,1,35,1,0,0,118.8,0
+51,Mac Jones,Jacksonville Jaguars,2,2024,,,,,28,9,3.1,6,0,0,70.6,2
+52,Courtland Sutton,Denver Broncos,8,2024,,,,,28,1,28,1,0,0,118.8,0
+53,Hendon Hooker,Detroit Lions,2,2024,1,-1,-1,0,25,5,5,3,0,0,72.9,1
+54,Taylor Heinicke,Los Angeles Chargers,1,2024,,,,,24,2,12,2,0,0,116.7,3
+55,Adonai Mitchell,Indianapolis Colts,8,2024,2,14,7,0,24,1,24,1,0,0,118.8,0
+56,Nick Mullens,Minnesota Vikings,3,2024,1,0,0,0,24,1,24,1,0,0,118.8,0
+57,Kyle Allen,Pittsburgh Steelers,1,2024,,,,,19,1,19,1,0,0,118.8,0
+58,Jack Fox,Detroit Lions,7,2024,1,1,100,17,17,1,17,1,0,0,118.8,0
+59,Stefon Diggs,Houston Texans,8,2024,3,8,2.7,1,13,1,13,1,0,0,118.8,0
+60,Amon-Ra St. Brown,Detroit Lions,7,2024,,,,,7,1,7,1,1,0,135.4,0
+61,Drew Lock,New York Giants,2,2024,1,13,13,0,6,8,0.8,3,0,0,45.8,1
+62,Mitchell Trubisky,Buffalo Bills,5,2024,6,-6,-1,0,5,3,1.7,2,0,0,70.1,0
+63,Riley Dixon,Denver Broncos,8,2024,1,1,100,3,3,1,3,1,0,0,79.2,0
+64,Taysom Hill,New Orleans Saints,4,2024,18,97,5.4,2,3,1,3,1,0,0,79.2,0
+65,David Montgomery,Detroit Lions,7,2024,14,138,9.9,0,3,1,3,1,1,0,118.8,0
+66,Josh Johnson,Baltimore Ravens,1,2024,,,,,1,1,1,1,0,0,79.2,0
+67,Tutu Atwell,Los Angeles Rams,7,2024,1,7,7,0,0,1,0,0,0,0,39.6,0
+68,Ty Chandler,Minnesota Vikings,6,2024,6,42,7,0,0,0,0,0,0,0,0,1
+69,Johnny Hekker,Carolina Panthers,8,2024,-,-,-,-,0,2,0,0,0,0,39.6,0
+70,Darnell Mooney,Atlanta Falcons,8,2024,,,,,0,1,0,0,0,0,39.6,0
+71,Malik Nabers,New York Giants,6,2024,3,0,0,0,0,1,0,0,0,0,39.6,0
+72,Kenny Pickett,Philadelphia Eagles,1,2024,,,,,0,1,0,0,0,0,39.6,1
+73,Tua Tagovailoa,Miami Dolphins,17,2023,35,74,2.1,0,4624,560,8.3,388,29,14,101.1,29
+74,Jared Goff,Detroit Lions,17,2023,32,21,0.7,2,4575,605,7.6,407,30,12,97.9,30
+75,Dak Prescott,Dallas Cowboys,17,2023,55,242,4.4,2,4516,590,7.6,410,36,9,105.9,39
+76,Josh Allen,Buffalo Bills,17,2023,111,524,4.7,15,4306,579,7.4,385,29,18,92.2,24
+77,Brock Purdy,San Francisco 49ers,16,2023,39,144,3.7,2,4280,444,9.6,308,31,11,113,28
+78,Patrick Mahomes,Kansas City Chiefs,16,2023,75,389,5.2,0,4183,597,7,401,27,14,92.6,27
+79,Jordan Love,Green Bay Packers,17,2023,50,247,4.9,4,4159,579,7.2,372,32,11,96.1,30
+80,C.J. Stroud,Houston Texans,15,2023,39,167,4.3,3,4108,499,8.2,319,23,5,100.8,38
+81,Baker Mayfield,Tampa Bay Buccaneers,17,2023,62,163,2.6,1,4044,566,7.1,364,28,10,94.6,40
+82,Trevor Lawrence,Jacksonville Jaguars,16,2023,70,339,4.8,4,4016,564,7.1,370,21,14,88.5,35
+83,Matthew Stafford,Los Angeles Rams,15,2023,21,65,3.1,0,3965,521,7.6,326,24,11,92.5,30
+84,Sam Howell,Washington Commanders,17,2023,48,263,5.5,5,3946,612,6.4,388,21,21,78.9,65
+85,Derek Carr,New Orleans Saints,17,2023,32,40,1.2,0,3878,548,7.1,375,25,8,97.7,31
+86,Jalen Hurts,Philadelphia Eagles,17,2023,157,605,3.8,15,3858,538,7.2,352,23,15,89.1,36
+87,Lamar Jackson,Baltimore Ravens,16,2023,148,821,5.6,5,3678,457,8,307,24,7,102.7,37
+88,Geno Smith,Seattle Seahawks,15,2023,37,155,4.2,1,3624,499,7.3,323,20,9,92.1,31
+89,Gardner Minshew,Indianapolis Colts,17,2023,34,100,2.9,3,3305,490,6.7,305,15,9,84.6,34
+90,Justin Herbert,Los Angeles Chargers,13,2023,52,228,4.4,3,3134,456,6.9,297,20,7,93.2,29
+91,Russell Wilson,Denver Broncos,15,2023,80,341,4.3,3,3070,447,6.9,297,26,8,98,45
+92,Bryce Young,Carolina Panthers,16,2023,39,253,6.5,0,2877,527,5.5,315,11,10,73.7,62
+93,Desmond Ridder,Atlanta Falcons,15,2023,53,193,3.6,5,2836,388,7.3,249,12,12,83.4,31
+94,Justin Fields,Chicago Bears,13,2023,124,657,5.3,4,2562,370,6.9,227,16,9,86.3,44
+95,Joshua Dobbs,Minnesota Vikings,5,2023,30,163,5.4,3,2464,417,5.9,262,13,10,79.5,30
+96,Kirk Cousins,Minnesota Vikings,8,2023,14,25,1.8,0,2331,311,7.5,216,18,5,103.8,17
+97,Joe Burrow,Cincinnati Bengals,10,2023,31,88,2.8,0,2309,365,6.3,244,15,6,91,24
+98,Zach Wilson,New York Jets,12,2023,36,211,5.9,0,2271,368,6.2,221,8,7,77.2,46
+99,Aidan O'Connell,Las Vegas Raiders,11,2023,17,11,0.6,1,2218,343,6.5,213,12,7,83.9,24
+100,Mac Jones,New England Patriots,11,2023,26,96,3.7,0,2120,345,6.1,224,10,12,77,22
+101,Kenny Pickett,Pittsburgh Steelers,12,2023,42,54,1.3,1,2070,324,6.4,201,6,4,81.4,23
+102,Jake Browning,Cincinnati Bengals,9,2023,27,127,4.7,3,1936,243,8,171,12,7,98.4,24
+103,Will Levis,Tennessee Titans,9,2023,25,57,2.3,1,1808,255,7.1,149,8,4,84.2,28
+104,Kyler Murray,Arizona Cardinals,8,2023,44,244,5.6,3,1799,268,6.7,176,10,5,89.4,18
+105,Joe Flacco,Cleveland Browns,5,2023,9,2,0.2,0,1616,204,7.9,123,13,8,90.2,8
+106,Tyrod Taylor,New York Giants,11,2023,38,197,5.2,0,1341,180,7.4,116,5,3,89.1,17
+107,Nick Mullens,Minnesota Vikings,5,2023,10,25,2.5,0,1306,148,8.8,100,7,8,88.4,12
+108,Bailey Zappe,New England Patriots,10,2023,17,83,4.9,1,1272,212,6,127,6,9,68.8,25
+109,Jimmy Garoppolo,Las Vegas Raiders,7,2023,20,39,2,0,1205,169,7.1,110,7,9,77.6,14
+110,Easton Stick,Los Angeles Chargers,5,2023,27,144,5.3,1,1129,174,6.5,111,3,1,85.6,14
+111,Deshaun Watson,Cleveland Browns,6,2023,26,142,5.5,1,1115,171,6.5,105,7,4,84.3,17
+112,Tommy DeVito,New York Giants,9,2023,36,195,5.4,1,1101,178,6.2,114,8,3,89.2,37
+113,Daniel Jones,New York Giants,6,2023,40,206,5.2,1,909,160,5.7,108,2,6,70.6,30
+114,Taylor Heinicke,Atlanta Falcons,5,2023,15,124,8.3,1,890,136,6.5,74,5,4,74.7,8
+115,Tyson Bagent,Chicago Bears,5,2023,23,109,4.7,2,859,143,6,94,3,6,71.4,5
+116,Trevor Siemian,New York Jets,5,2023,11,40,3.6,0,724,153,4.7,86,2,4,62.1,8
+117,Mason Rudolph,Pittsburgh Steelers,4,2023,10,8,0.8,0,719,74,9.7,55,3,0,118,6
+118,Mitchell Trubisky,Pittsburgh Steelers,5,2023,16,54,3.4,2,632,107,5.9,67,4,5,71.9,7
+119,Anthony Richardson,Indianapolis Colts,4,2023,25,136,5.4,4,577,84,6.9,50,3,1,87.2,7
+120,Drew Lock,Seattle Seahawks,4,2023,5,14,2.8,0,543,76,7.1,48,3,3,81.2,6
+121,Jarrett Stidham,Denver Broncos,3,2023,9,8,0.9,0,496,66,7.5,40,2,1,87.7,7
+122,Dorian Thompson-Robinson,Cleveland Browns,8,2023,14,65,4.6,0,440,112,3.9,60,1,4,51.2,6
+123,Andy Dalton,Carolina Panthers,3,2023,3,12,4,0,361,58,6.2,34,2,0,88.4,3
+124,Tim Boyle,New York Jets,3,2023,4,5,1.2,0,360,77,4.7,48,1,4,56.2,9
+125,C.J. Beathard,Jacksonville Jaguars,7,2023,8,35,4.4,0,349,53,6.6,40,1,0,98.7,6
+126,Sam Darnold,San Francisco 49ers,10,2023,21,15,0.7,1,297,46,6.5,28,2,1,85.1,6
+127,Case Keenum,Houston Texans,2,2023,2,1,0.5,0,291,53,5.5,34,1,3,61.1,6
+128,Jameis Winston,New Orleans Saints,7,2023,5,-6,-1.2,0,264,47,5.6,25,2,3,57.4,2
+129,Jacoby Brissett,Washington Commanders,3,2023,3,19,6.3,0,224,23,9.7,18,3,0,146.8,0
+130,Tyler Huntley,Baltimore Ravens,5,2023,15,55,3.7,0,203,37,5.5,21,3,0,99.3,4
+131,Davis Mills,Houston Texans,6,2023,2,9,4.5,0,173,39,4.4,18,2,0,76.1,2
+132,Brett Rypien,Los Angeles Rams,2,2023,3,19,6.3,0,172,38,4.5,18,0,1,49.4,2
+133,Jaren Hall,Minnesota Vikings,3,2023,6,14,2.3,0,168,20,8.4,13,0,1,70.4,4
+134,Jeff Driskel,Cleveland Browns,1,2023,7,33,4.7,0,166,26,6.4,13,2,2,63.9,3
+135,Marcus Mariota,Philadelphia Eagles,3,2023,8,52,6.5,0,164,23,7.1,15,1,1,82.5,3
+136,Carson Wentz,Los Angeles Rams,2,2023,17,56,3.3,1,163,24,6.8,17,2,1,99.8,2
+137,Cooper Rush,Dallas Cowboys,7,2023,12,-5,-0.4,0,144,24,6,18,0,1,72.2,1
+138,Taysom Hill,New Orleans Saints,16,2023,81,401,5,4,83,11,7.6,6,1,0,109.3,2
+139,Mike White,Miami Dolphins,6,2023,8,-9,-1.1,0,74,6,12.3,5,1,1,118.1,0
+140,Malik Willis,Tennessee Titans,3,2023,5,21,4.2,0,74,5,14.8,4,0,0,118.8,4
+141,Clayton Tune,Arizona Cardinals,7,2023,8,30,3.8,1,62,21,3,12,0,2,22.6,7
+142,Keenan Allen,Los Angeles Chargers,13,2023,2,6,3,0,49,2,24.5,1,1,0,135.4,0
+143,Sean Clifford,Green Bay Packers,2,2023,3,-2,-0.7,0,37,1,37,1,0,0,118.8,0
+144,Jalen Reeves-Maybin,Detroit Lions,17,2023,,,0,,31,1,31,1,0,0,118.8,0
+145,Braden Mann,Philadelphia Eagles,15,2023,1,1,100,28,28,1,28,1,0,0,118.8,0
+146,Logan Woodside,Atlanta Falcons,1,2023,1,6,6,0,27,4,6.8,3,0,1,53.1,1
+147,Drake London,Atlanta Falcons,16,2023,1,1,100,22,22,1,22,1,0,0,118.8,0
+148,Thomas Morstead,New York Jets,17,2023,1,1,100,18,18,1,18,1,0,0,118.8,0
+149,Kenneth Gainwell,Philadelphia Eagles,16,2023,30,183,6.1,0,17,1,17,1,0,0,118.8,0
+150,Derrick Henry,Tennessee Titans,17,2023,28,214,7.6,0,14,3,4.7,2,2,0,116.7,0
+151,Dontayvion Wicks,Green Bay Packers,15,2023,1,1,1,0,14,1,14,1,0,0,118.8,0
+152,Logan Cooke,Jacksonville Jaguars,17,2023,1,1,100,13,13,1,13,1,0,0,118.8,0
+153,Jakobi Meyers,Las Vegas Raiders,16,2023,4,24,6,2,12,3,4,2,1,0,113.9,0
+154,Tommy Townsend,Kansas City Chiefs,17,2023,1,1,100,11,11,1,11,1,0,0,112.5,0
+155,Johnny Hekker,Carolina Panthers,17,2023,-,-,-,-,7,1,7,1,0,0,95.8,0
+156,Devin Singletary,Houston Texans,17,2023,30,193,6.4,0,6,1,6,1,1,0,131.2,0
+157,Dyami Brown,Washington Commanders,17,2023,1,0,0,0,4,1,4,1,0,0,83.3,0
+158,Cam Akers,Minnesota Vikings,6,2023,11,70,6.4,0,0,0,0,0,0,0,0,1
+159,Bryan Anger,Dallas Cowboys,17,2023,0,0,,,0,0,0,0,0,0,0,0
+160,Tutu Atwell,Los Angeles Rams,16,2023,5,31,6.2,0,0,0,0,0,0,0,0,0
+161,Daniel Bellinger,New York Giants,17,2023,,,,,0,0,0,0,0,0,0,0
+162,Tyler Boyd,Cincinnati Bengals,17,2023,2,11,5.5,0,0,1,0,0,0,1,0,0
+163,Parris Campbell,New York Giants,12,2023,,,,,0,0,0,0,0,0,0,1
+164,DeeJay Dallas,Seattle Seahawks,17,2023,6,26,4.3,0,0,0,0,0,0,0,0,1
+165,Tank Dell,Houston Texans,11,2023,11,51,4.6,0,0,0,0,0,0,0,0,1
+166,Chris Godwin,Tampa Bay Buccaneers,17,2023,4,38,9.5,1,0,1,0,0,0,0,39.6,0
+167,Connor Heyward,Pittsburgh Steelers,17,2023,1,0,0,0,0,1,0,0,0,0,39.6,0
+168,DeAndre Hopkins,Tennessee Titans,17,2023,2,9,4.5,0,0,1,0,0,0,0,39.6,0
+169,Tanner Hudson,Cincinnati Bengals,12,2023,0,0,,,0,0,0,0,0,0,0,1
+170,Josh Jacobs,Las Vegas Raiders,13,2023,37,296,8,0,0,0,0,0,0,0,0,1
+171,Justin Jefferson,Minnesota Vikings,10,2023,1,-12,-12,0,0,1,0,0,0,0,39.6,0
+172,Nathan Peterman,Chicago Bears,2,2023,2,-4,-2,0,0,0,0,0,0,0,0,1
+173,Aaron Rodgers,New York Jets,1,2023,,,,,0,1,0,0,0,0,39.6,1
+174,Jonnu Smith,Atlanta Falcons,17,2023,1,0,0,0,0,1,0,0,0,0,39.6,0
+175,Amon-Ra St. Brown,Detroit Lions,16,2023,4,24,6,0,0,0,0,0,0,0,0,1
+176,Kadarius Toney,Kansas City Chiefs,13,2023,11,31,2.8,0,0,1,0,0,0,0,39.6,0
+177,Kyle Trask,Tampa Bay Buccaneers,2,2023,1,-1,-1,0,0,1,0,0,0,0,39.6,0
+178,Garrett Wilson,New York Jets,17,2023,4,0,0,0,0,1,0,0,0,0,39.6,0
+179,Christian Kirk,Jacksonville Jaguars,12,2023,1,6,6,0,-1,2,-0.5,1,0,0,56.2,0
+180,Ja'Marr Chase,Cincinnati Bengals,16,2023,3,-6,-2,0,-7,1,-7,1,0,0,79.2,0
+181,Patrick Mahomes,Kansas City Chiefs,17,2022,61,358,5.9,4,5250,648,8.1,435,41,12,105.2,26
+182,Justin Herbert,Los Angeles Chargers,17,2022,54,147,2.7,0,4739,699,6.8,477,25,10,93.2,38
+183,Kirk Cousins,Minnesota Vikings,17,2022,31,97,3.1,2,4547,643,7.1,424,29,14,92.5,46
+184,Joe Burrow,Cincinnati Bengals,16,2022,75,257,3.4,5,4475,606,7.4,414,35,12,100.8,41
+185,Jared Goff,Detroit Lions,17,2022,29,73,2.5,0,4438,587,7.6,382,29,7,99.3,23
+186,Josh Allen,Buffalo Bills,16,2022,124,762,6.2,7,4283,567,7.6,359,35,14,96.6,33
+187,Geno Smith,Seattle Seahawks,17,2022,68,366,5.4,1,4282,572,7.5,399,30,11,100.9,46
+188,Trevor Lawrence,Jacksonville Jaguars,17,2022,62,291,4.7,5,4113,584,7,387,25,8,95.2,27
+189,Jalen Hurts,Philadelphia Eagles,15,2022,165,760,4.6,13,3701,460,8,306,22,6,101.6,38
+190,Aaron Rodgers,Green Bay Packers,17,2022,34,94,2.8,1,3695,542,6.8,350,26,12,91.1,32
+191,Tua Tagovailoa,Miami Dolphins,13,2022,24,70,2.9,0,3548,400,8.9,259,25,8,105.5,21
+192,Russell Wilson,Denver Broncos,15,2022,55,277,5,3,3524,483,7.3,292,16,11,84.4,55
+193,Derek Carr,Las Vegas Raiders,15,2022,24,102,4.2,0,3522,502,7,305,24,14,86.3,27
+194,Daniel Jones,New York Giants,16,2022,120,708,5.9,7,3205,472,6.8,317,15,5,92.5,44
+195,Davis Mills,Houston Texans,15,2022,32,108,3.4,2,3118,479,6.5,292,17,15,78.8,31
+196,Mac Jones,New England Patriots,14,2022,47,102,2.2,1,2997,442,6.8,288,14,11,84.8,34
+197,Andy Dalton,New Orleans Saints,14,2022,30,54,1.8,0,2871,378,7.6,252,18,9,95.2,25
+198,Dak Prescott,Dallas Cowboys,12,2022,45,182,4,1,2860,394,7.3,261,23,15,91.1,20
+199,Jacoby Brissett,Cleveland Browns,16,2022,49,243,5,2,2608,369,7.1,236,12,6,88.9,24
+200,Jimmy Garoppolo,San Francisco 49ers,11,2022,23,33,1.4,2,2437,308,7.9,207,16,4,103,18
+201,Kenny Pickett,Pittsburgh Steelers,13,2022,55,237,4.3,3,2404,389,6.2,245,7,9,76.7,27
+202,Kyler Murray,Arizona Cardinals,11,2022,67,418,6.2,3,2368,390,6.1,259,14,7,87.2,25
+203,Justin Fields,Chicago Bears,15,2022,160,1143,7.1,8,2242,318,7,192,17,11,85.2,55
+204,Lamar Jackson,Baltimore Ravens,12,2022,112,764,6.8,3,2242,326,6.9,203,17,7,91.1,26
+205,Marcus Mariota,Atlanta Falcons,13,2022,85,438,5.2,4,2219,300,7.4,184,15,9,88.2,28
+206,Baker Mayfield,Los Angeles Rams,5,2022,15,37,2.5,0,2163,335,6.5,201,10,8,79,36
+207,Matthew Stafford,Los Angeles Rams,9,2022,13,9,0.7,1,2087,303,6.9,206,10,8,87.4,29
+208,Taylor Heinicke,Washington Commanders,9,2022,28,96,3.4,1,1859,259,7.2,161,12,6,89.6,19
+209,Carson Wentz,Washington Commanders,8,2022,22,86,3.9,1,1755,276,6.4,172,11,9,80.2,26
+210,Zach Wilson,New York Jets,9,2022,28,102,3.6,1,1688,242,7,132,6,7,72.8,23
+211,Brock Purdy,San Francisco 49ers,9,2022,22,13,0.6,1,1374,170,8.1,114,13,4,107.3,11
+212,Mitchell Trubisky,Pittsburgh Steelers,7,2022,19,38,2,2,1252,180,7,117,4,5,81.1,11
+213,Mike White,New York Jets,4,2022,6,9,1.5,1,1192,175,6.8,103,3,4,75.7,9
+214,Sam Darnold,Carolina Panthers,6,2022,26,106,4.1,2,1143,140,8.2,82,7,3,92.6,10
+215,Deshaun Watson,Cleveland Browns,6,2022,36,175,4.9,1,1102,170,6.5,99,7,5,79.1,20
+216,Joe Flacco,New York Jets,5,2022,3,6,2,0,1051,191,5.5,110,5,3,75.2,10
+217,Cooper Rush,Dallas Cowboys,9,2022,9,6,0.7,0,1051,162,6.5,94,5,3,80,7
+218,Jameis Winston,New Orleans Saints,3,2022,5,16,3.2,0,858,115,7.5,73,4,5,79.6,11
+219,Bailey Zappe,New England Patriots,4,2022,10,0,0,0,781,92,8.5,65,5,3,100.9,6
+220,Desmond Ridder,Atlanta Falcons,4,2022,16,64,4,0,708,115,6.2,73,2,0,86.4,9
+221,Gardner Minshew,Philadelphia Eagles,5,2022,7,3,0.4,1,663,76,8.7,44,3,3,83.4,6
+222,Tyler Huntley,Baltimore Ravens,6,2022,43,137,3.2,1,658,112,5.9,75,2,3,77.2,7
+223,Jarrett Stidham,Las Vegas Raiders,5,2022,14,84,6,0,656,83,7.9,53,4,3,89.2,7
+224,Sam Ehlinger,Indianapolis Colts,4,2022,17,87,5.1,0,573,101,5.7,64,3,3,76,14
+225,Skylar Thompson,Miami Dolphins,7,2022,14,21,1.5,0,534,105,5.1,60,1,3,62.2,6
+226,Brett Rypien,Denver Broncos,4,2022,6,7,1.2,0,483,88,5.5,53,2,4,63.8,8
+227,Kyle Allen,Houston Texans,2,2022,6,13,2.2,0,416,78,5.3,46,2,4,60.6,5
+228,Joshua Dobbs,Tennessee Titans,2,2022,8,44,5.5,0,411,68,6,40,2,2,73.8,6
+229,Anthony Brown,Dallas Cowboys,12,2022,,,1,,302,49,6.2,22,0,2,48.2,5
+230,Malik Willis,Tennessee Titans,8,2022,27,123,4.6,1,276,61,4.5,31,0,3,42.8,10
+231,Taysom Hill,New Orleans Saints,16,2022,96,575,6,7,240,19,12.6,13,2,0,146.3,2
+232,Nick Mullens,Minnesota Vikings,4,2022,4,8,2,0,224,25,9,21,1,1,100.7,0
+233,Jordan Love,Green Bay Packers,4,2022,1,-1,-1,0,195,21,9.3,14,1,0,112.2,0
+234,Trey Lance,San Francisco 49ers,2,2022,16,67,4.2,0,194,31,6.3,15,0,1,55,2
+235,Trevor Siemian,Chicago Bears,2,2022,4,8,2,0,184,26,7.1,15,1,1,76.4,2
+236,Sam Howell,Washington Commanders,1,2022,5,35,7,1,169,19,8.9,11,1,1,83,3
+237,Nathan Peterman,Chicago Bears,3,2022,2,7,3.5,0,139,25,5.6,14,1,1,68.6,1
+238,Jeff Driskel,Houston Texans,7,2022,20,75,3.8,0,108,20,5.4,14,1,0,99.6,2
+239,Tyrod Taylor,New York Giants,3,2022,5,70,14,0,58,8,7.2,6,1,1,94.8,3
+240,C.J. Beathard,Jacksonville Jaguars,4,2022,4,-4,-1,0,35,11,3.2,7,0,1,30.5,1
+241,Justin Jefferson,Minnesota Vikings,17,2022,4,24,6,1,34,2,17,2,0,0,118.8,0
+242,Christian McCaffrey,San Francisco 49ers,11,2022,52,464,8.9,4,34,1,34,1,1,0,158.3,0
+243,Tim Boyle,Chicago Bears,1,2022,2,-2,-1,0,33,8,4.1,2,0,2,4.7,0
+244,Tyler Boyd,Cincinnati Bengals,16,2022,,,,,23,1,23,1,0,0,118.8,1
+245,Kyle Trask,Tampa Bay Buccaneers,1,2022,,,,,23,9,2.6,3,0,0,42.4,0
+246,Brandon Allen,Cincinnati Bengals,1,2022,3,-1,-0.3,0,22,3,7.3,3,0,0,97.2,1
+247,Riley Dixon,Los Angeles Rams,17,2022,2,2,100,9,18,2,9,2,0,0,104.2,0
+248,Braden Mann,New York Jets,17,2022,2,1,50,8.5,17,2,8.5,1,0,0,79.2,0
+249,Ryan Wright,Minnesota Vikings,17,2022,2,1,50,6.5,13,2,6.5,1,0,0,70.8,0
+250,Josh Johnson,San Francisco 49ers,2,2022,2,3,1.5,0,10,2,5,1,0,0,64.6,0
+251,Case Keenum,Buffalo Bills,2,2022,5,0,0,0,8,7,1.1,2,0,0,39.6,0
+252,Jack Fox,Detroit Lions,17,2022,1,1,100,6,6,1,6,1,0,0,91.7,0
+253,Derrick Henry,Tennessee Titans,16,2022,33,398,12.1,0,4,2,2,2,1,0,118.8,0
+254,Mack Hollins,Las Vegas Raiders,17,2022,4,40,10,0,4,1,4,1,0,0,83.3,0
+255,Braxton Berrios,New York Jets,17,2022,9,91,10.1,2,2,1,2,1,1,0,118.8,0
+256,Davante Adams,Las Vegas Raiders,17,2022,3,-1,-0.3,0,0,0,0,0,0,0,0,1
+257,Lawrence Cager,New York Giants,6,2022,0,0,,,0,0,0,0,0,0,0,1
+258,Ja'Marr Chase,Cincinnati Bengals,12,2022,5,8,1.6,0,0,0,0,0,0,0,0,1
+259,Dalvin Cook,Minnesota Vikings,17,2022,39,295,7.6,2,0,0,0,0,0,0,0,1
+260,Amari Cooper,Cleveland Browns,17,2022,,,,,0,1,0,0,0,1,0,0
+261,DeeJay Dallas,Seattle Seahawks,15,2022,17,126,7.4,0,0,1,0,0,0,1,0,0
+262,Phillip Dorsett,Houston Texans,15,2022,,,,,0,1,0,0,0,0,39.6,0
+263,Jamie Gillan,New York Giants,17,2022,-,-,-,-,0,0,0,0,0,0,0,1
+264,Christian Kirk,Jacksonville Jaguars,17,2022,5,11,2.2,0,0,1,0,0,0,0,39.6,0
+265,Cooper Kupp,Los Angeles Rams,9,2022,9,52,5.8,1,0,1,0,0,0,0,39.6,0
+266,CeeDee Lamb,Dallas Cowboys,17,2022,10,47,4.7,0,0,0,0,0,0,0,0,0
+267,James Proche,Baltimore Ravens,15,2022,1,0,0,0,0,1,0,0,0,1,0,0
+268,Tommy Townsend,Kansas City Chiefs,17,2022,1,0,0,0,0,1,0,0,0,0,39.6,0
+269,Garrett Wilson,New York Jets,17,2022,4,4,1,0,0,1,0,0,0,0,39.6,0
+270,Justin Herbert,Los Angeles Chargers,17,2021,63,302,4.8,3,5014,672,7.5,443,38,15,97.7,31
+271,Matthew Stafford,Los Angeles Rams,17,2021,32,43,1.3,0,4886,601,8.1,404,41,17,102.9,30
+272,Patrick Mahomes,Kansas City Chiefs,17,2021,66,381,5.8,2,4839,658,7.4,436,37,13,98.4,28
+273,Derek Carr,Las Vegas Raiders,17,2021,40,108,2.7,0,4804,626,7.7,428,23,14,94,40
+274,Joe Burrow,Cincinnati Bengals,16,2021,40,118,3,2,4611,520,8.9,366,34,14,108.3,51
+275,Dak Prescott,Dallas Cowboys,16,2021,48,146,3,1,4449,596,7.5,410,37,10,104.2,30
+276,Josh Allen,Buffalo Bills,17,2021,122,763,6.2,6,4407,646,6.8,409,36,15,92.2,26
+277,Kirk Cousins,Minnesota Vikings,16,2021,29,115,4,1,4221,561,7.5,372,33,7,103.1,28
+278,Aaron Rodgers,Green Bay Packers,16,2021,33,101,3.1,3,4115,531,7.8,366,37,4,111.9,30
+279,Jimmy Garoppolo,San Francisco 49ers,15,2021,38,51,1.3,3,3810,441,8.6,301,20,12,98.7,29
+280,Mac Jones,New England Patriots,17,2021,44,129,2.9,0,3801,521,7.3,352,22,13,92.5,28
+281,Kyler Murray,Arizona Cardinals,14,2021,88,423,4.8,5,3787,481,7.9,333,24,10,100.6,31
+282,Trevor Lawrence,Jacksonville Jaguars,17,2021,73,334,4.6,2,3641,602,6,359,12,17,71.9,32
+283,Carson Wentz,Indianapolis Colts,17,2021,57,215,3.8,1,3563,516,6.9,322,27,7,94.6,32
+284,Taylor Heinicke,Washington Commanders,16,2021,60,313,5.2,1,3419,494,6.9,321,20,15,85.9,38
+285,Jared Goff,Detroit Lions,14,2021,17,87,5.1,0,3245,494,6.6,332,19,8,91.5,35
+286,Jalen Hurts,Philadelphia Eagles,15,2021,139,784,5.6,10,3144,432,7.3,265,16,9,87.2,26
+287,Russell Wilson,Seattle Seahawks,14,2021,43,183,4.3,2,3113,400,7.8,259,25,6,103,33
+288,Baker Mayfield,Cleveland Browns,14,2021,37,134,3.6,1,3010,418,7.2,253,17,13,83.1,43
+289,Lamar Jackson,Baltimore Ravens,12,2021,133,767,5.8,2,2882,382,7.5,246,16,13,87,38
+290,Davis Mills,Houston Texans,13,2021,18,44,2.4,0,2664,394,6.8,263,16,10,88.8,31
+291,Tua Tagovailoa,Miami Dolphins,13,2021,42,128,3,3,2653,388,6.8,263,16,10,90.1,20
+292,Sam Darnold,Carolina Panthers,12,2021,48,222,4.6,5,2527,406,6.2,243,9,13,71.9,35
+293,Daniel Jones,New York Giants,11,2021,62,298,4.8,2,2428,361,6.7,232,10,7,84.8,22
+294,Zach Wilson,New York Jets,13,2021,29,185,6.4,4,2334,383,6.1,213,9,11,69.7,44
+295,Justin Fields,Chicago Bears,12,2021,72,420,5.8,2,1870,270,6.9,159,7,10,73.2,36
+296,Andy Dalton,Chicago Bears,8,2021,16,76,4.8,0,1515,236,6.4,149,8,9,76.8,18
+297,Jacoby Brissett,Miami Dolphins,11,2021,19,70,3.7,1,1283,225,5.7,141,5,4,78.1,19
+298,Jameis Winston,New Orleans Saints,7,2021,32,166,5.2,1,1170,161,7.3,95,14,3,102.8,11
+299,Trevor Siemian,New Orleans Saints,6,2021,9,20,2.2,1,1154,188,6.1,108,11,3,88.4,9
+300,Tyler Huntley,Baltimore Ravens,7,2021,47,294,6.3,2,1081,188,5.8,122,3,4,76.6,18
+301,Taysom Hill,New Orleans Saints,12,2021,70,374,5.3,5,978,134,7.3,78,4,5,75.4,9
+302,Tyrod Taylor,Houston Texans,6,2021,19,151,8,3,966,150,6.4,91,5,5,76.7,13
+303,Mike White,New York Jets,4,2021,5,-1,-0.2,0,953,132,7.2,88,5,8,75.1,4
+304,Drew Lock,Denver Broncos,6,2021,10,53,5.3,2,787,111,7.1,67,2,2,80.4,9
+305,Geno Smith,Seattle Seahawks,4,2021,9,42,4.7,1,702,95,7.4,65,5,1,103,13
+306,Josh Johnson,Baltimore Ravens,1,2021,5,10,2,0,638,85,7.5,57,5,2,99,3
+307,Trey Lance,San Francisco 49ers,6,2021,38,168,4.4,1,603,71,8.5,41,5,2,97.3,4
+308,Tim Boyle,Detroit Lions,5,2021,2,13,6.5,0,526,94,5.6,61,3,6,63.5,0
+309,Case Keenum,Cleveland Browns,7,2021,12,22,1.8,0,462,72,6.4,47,3,1,91.3,5
+310,Gardner Minshew,Philadelphia Eagles,4,2021,9,21,2.3,0,439,60,7.3,41,4,1,104.8,5
+311,Cooper Rush,Dallas Cowboys,5,2021,9,-8,-0.9,0,422,47,9,30,3,1,105.1,3
+312,Jordan Love,Green Bay Packers,6,2021,12,27,2.2,0,411,62,6.6,36,2,3,68.7,3
+313,Joe Flacco,New York Jets,2,2021,2,3,1.5,0,338,42,8,27,3,0,113,2
+314,Mason Rudolph,Pittsburgh Steelers,2,2021,5,53,10.6,0,277,58,4.8,35,1,1,70.8,0
+315,Jake Fromm,New York Giants,3,2021,8,65,8.1,0,210,60,3.5,27,1,3,38.9,6
+316,Brandon Allen,Cincinnati Bengals,6,2021,7,-1,-0.1,0,149,34,4.4,17,2,0,81.6,4
+317,Nick Mullens,Cleveland Browns,1,2021,,,,,147,30,4.9,20,1,0,89.2,0
+318,Kyle Allen,Washington Commanders,2,2021,2,11,5.5,0,120,19,6.3,12,1,0,98.6,2
+319,Tom Kennedy,Detroit Lions,12,2021,1,1,100,75,75,1,75,1,1,0,158.3,0
+320,Tyler Boyd,Cincinnati Bengals,16,2021,2,22,11,0,46,1,46,1,0,0,118.8,0
+321,Jakobi Meyers,New England Patriots,17,2021,1,9,9,0,45,2,22.5,2,0,0,118.8,0
+322,Mitchell Trubisky,Buffalo Bills,6,2021,13,24,1.8,1,43,8,5.4,6,0,1,47.4,0
+323,Jack Fox,Detroit Lions,17,2021,3,2,66.7,12.7,38,3,12.7,2,0,0,109.7,0
+324,Justin Jefferson,Minnesota Vikings,17,2021,6,14,2.3,0,35,4,8.8,2,0,0,80.2,0
+325,C.J. Beathard,Jacksonville Jaguars,2,2021,1,2,2,0,33,2,16.5,2,0,0,118.8,0
+326,Christian Kirk,Arizona Cardinals,17,2021,1,11,11,0,33,1,33,1,0,0,118.8,0
+327,Kendrick Bourne,New England Patriots,17,2021,12,125,10.4,0,25,1,25,1,1,0,158.3,0
+328,Kadarius Toney,New York Giants,10,2021,3,6,2,0,19,3,6.3,1,0,0,56.2,1
+329,Dante Pettis,New York Giants,3,2021,,,,,16,1,16,1,0,0,118.8,0
+330,Courtland Sutton,Denver Broncos,17,2021,,,,,16,1,16,1,0,0,118.8,0
+331,Tommy Townsend,Kansas City Chiefs,16,2021,1,1,100,16,16,1,16,1,0,0,118.8,0
+332,Derrick Henry,Tennessee Titans,8,2021,18,154,8.6,0,5,1,5,1,1,0,127.1,0
+333,Ezekiel Elliott,Dallas Cowboys,17,2021,47,287,6.1,2,4,1,4,1,0,0,83.3,0
+334,Marcus Mariota,Las Vegas Raiders,10,2021,13,87,6.7,1,4,2,2,1,0,0,56.2,0
+335,Johnny Hekker,Los Angeles Rams,17,2021,-,-,-,-,2,1,2,1,0,0,79.2,0
+336,Keenan Allen,Los Angeles Chargers,16,2021,,,,,0,1,0,0,0,0,39.6,0
+337,Chris Boswell,Pittsburgh Steelers,17,2021,,,,,0,1,0,0,0,0,39.6,0
+338,A.J. Brown,Tennessee Titans,13,2021,2,10,5,0,0,2,0,0,0,0,39.6,0
+339,Jamison Crowder,New York Jets,12,2021,,,,,0,0,0,0,0,0,0,1
+340,Stefon Diggs,Buffalo Bills,17,2021,,,,,0,0,0,0,0,0,0,1
+341,Riley Dixon,New York Giants,17,2021,1,0,0,0,0,1,0,0,0,0,39.6,0
+342,Feleipe Franks,Atlanta Falcons,9,2021,3,6,2,0,0,1,0,0,0,1,0,0
+343,Mike Gesicki,Miami Dolphins,17,2021,1,0,0,0,0,1,0,0,0,0,39.6,0
+344,Blake Gillikin,New Orleans Saints,17,2021,1,0,0,0,0,1,0,0,0,0,39.6,0
+345,Dawson Knox,Buffalo Bills,15,2021,0,4,,0,0,0,0,0,0,0,0,0
+346,Cooper Kupp,Los Angeles Rams,17,2021,4,18,4.5,0,0,1,0,0,0,0,39.6,0
+347,David Montgomery,Chicago Bears,13,2021,42,301,7.2,0,0,1,0,0,0,1,0,0
+348,Cordarrelle Patterson,Atlanta Falcons,16,2021,52,548,10.5,5,0,1,0,0,0,0,39.6,0
+349,Brett Rypien,Denver Broncos,1,2021,,,,,0,2,0,0,0,0,39.6,0
+350,D'Andre Swift,Detroit Lions,13,2021,62,452,7.3,2,0,1,0,0,0,0,39.6,0
+351,Deshaun Watson,Houston Texans,16,2020,90,444,4.9,3,4823,544,8.9,382,33,7,112.4,49
+352,Patrick Mahomes,Kansas City Chiefs,15,2020,62,308,5,2,4740,588,8.1,390,38,6,108.2,22
+353,Josh Allen,Buffalo Bills,16,2020,102,421,4.1,8,4544,572,7.9,396,37,10,107.2,26
+354,Justin Herbert,Los Angeles Chargers,15,2020,55,234,4.2,5,4336,595,7.3,396,31,10,98.3,32
+355,Aaron Rodgers,Green Bay Packers,16,2020,38,149,3.9,3,4299,526,8.2,372,48,5,121.5,20
+356,Kirk Cousins,Minnesota Vikings,16,2020,32,156,4.9,1,4265,516,8.3,349,35,13,105,39
+357,Russell Wilson,Seattle Seahawks,16,2020,83,513,6.2,2,4212,558,7.6,384,40,13,105.1,47
+358,Derek Carr,Las Vegas Raiders,16,2020,39,140,3.6,3,4103,517,7.9,348,27,9,101.4,26
+359,Matthew Stafford,Detroit Lions,16,2020,29,112,3.9,0,4084,528,7.7,339,26,10,96.3,38
+360,Kyler Murray,Arizona Cardinals,16,2020,133,819,6.2,11,3971,558,7.1,375,26,12,94.3,27
+361,Jared Goff,Los Angeles Rams,15,2020,51,99,1.9,4,3952,552,7.2,370,20,13,90,23
+362,Baker Mayfield,Cleveland Browns,16,2020,54,165,3.1,1,3563,486,7.3,305,26,8,95.9,26
+363,Daniel Jones,New York Giants,14,2020,65,423,6.5,1,2943,448,6.6,280,11,10,80.4,45
+364,Drew Lock,Denver Broncos,13,2020,44,160,3.6,3,2933,443,6.6,254,16,15,75.4,19
+365,Lamar Jackson,Baltimore Ravens,15,2020,159,1005,6.3,7,2757,376,7.3,242,26,9,99.4,29
+366,Joe Burrow,Cincinnati Bengals,10,2020,37,142,3.8,3,2688,404,6.6,264,13,5,89.8,32
+367,Carson Wentz,Philadelphia Eagles,12,2020,52,276,5.3,5,2620,437,6,251,16,15,72.8,50
+368,Nick Mullens,San Francisco 49ers,10,2020,9,8,0.9,0,2437,326,7.5,211,12,12,84.1,19
+369,Gardner Minshew,Jacksonville Jaguars,9,2020,29,153,5.3,1,2259,327,6.9,216,16,5,95.8,27
+370,Sam Darnold,New York Jets,12,2020,37,217,5.9,2,2208,364,6.1,217,9,11,72.7,35
+371,Andy Dalton,Dallas Cowboys,11,2020,28,114,4.1,0,2170,333,6.5,216,14,8,87.3,24
+372,Mitchell Trubisky,Chicago Bears,10,2020,33,195,5.9,1,2055,297,6.9,199,16,8,93.5,18
+373,Dak Prescott,Dallas Cowboys,5,2020,18,93,5.2,3,1856,222,8.4,151,9,4,99.6,10
+374,Tua Tagovailoa,Miami Dolphins,10,2020,36,109,3,3,1814,290,6.3,186,11,5,87,20
+375,Jimmy Garoppolo,San Francisco 49ers,6,2020,10,25,2.5,0,1096,140,7.8,94,7,5,92.4,11
+376,Jalen Hurts,Philadelphia Eagles,15,2020,63,354,5.6,3,1061,148,7.2,77,6,4,77.6,13
+377,Taysom Hill,New Orleans Saints,16,2020,87,457,5.2,8,928,121,7.7,88,4,2,98.8,14
+378,Brandon Allen,Cincinnati Bengals,5,2020,13,27,2.1,0,925,142,6.5,90,5,4,82,7
+379,Joe Flacco,New York Jets,5,2020,6,22,3.7,0,864,134,6.4,74,6,3,80.6,7
+380,C.J. Beathard,San Francisco 49ers,6,2020,6,28,4.7,0,787,104,7.6,66,6,0,105.7,9
+381,Kyle Allen,Washington Commanders,4,2020,7,26,3.7,1,610,87,7,60,4,1,99.3,7
+382,Jeff Driskel,Denver Broncos,3,2020,6,28,4.7,0,432,64,6.8,35,3,2,78.4,11
+383,Mason Rudolph,Pittsburgh Steelers,5,2020,7,-6,-0.9,0,324,43,7.5,25,2,1,87.7,1
+384,Brett Rypien,Denver Broncos,3,2020,5,-5,-1,0,295,40,7.4,27,2,4,66.2,1
+385,Jarrett Stidham,New England Patriots,5,2020,7,7,1,0,256,44,5.8,22,2,3,54.7,4
+386,Marcus Mariota,Las Vegas Raiders,1,2020,9,88,9.8,1,226,28,8.1,17,1,1,83.3,0
+387,Tyrod Taylor,Los Angeles Chargers,2,2020,6,7,1.2,0,208,30,6.9,16,0,0,75.4,2
+388,Taylor Heinicke,Washington Commanders,1,2020,3,22,7.3,0,137,19,7.2,12,1,0,102.3,1
+389,Jameis Winston,New Orleans Saints,4,2020,8,-6,-0.8,0,75,11,6.8,7,0,0,83.5,2
+390,Case Keenum,Cleveland Browns,2,2020,,,,,46,10,4.6,5,0,0,62.9,0
+391,Jamison Crowder,New York Jets,12,2020,1,14,14,0,43,1,43,1,1,0,158.3,0
+392,Jakobi Meyers,New England Patriots,14,2020,2,9,4.5,0,43,2,21.5,2,2,0,158.3,0
+393,Geno Smith,Seattle Seahawks,1,2020,2,-2,-1,0,33,5,6.6,4,0,0,94.2,1
+394,Zay Jones,Las Vegas Raiders,16,2020,,,,,29,1,29,1,0,0,118.8,0
+395,Nathan Peterman,Las Vegas Raiders,1,2020,1,9,9,0,25,5,5,3,0,0,72.9,2
+396,Jacoby Brissett,Indianapolis Colts,11,2020,17,19,1.1,3,17,8,2.1,2,0,0,39.6,2
+397,Tyler Boyd,Cincinnati Bengals,15,2020,5,49,9.8,0,16,2,8,1,0,0,77.1,0
+398,Tyler Huntley,Baltimore Ravens,2,2020,10,23,2.3,0,15,5,3,3,0,0,64.6,0
+399,Tommy Townsend,Kansas City Chiefs,16,2020,1,1,100,13,13,1,13,1,0,0,118.8,0
+400,Logan Woodside,Tennessee Titans,6,2020,7,10,1.4,0,7,3,2.3,1,0,0,42.4,0
+401,Travis Kelce,Kansas City Chiefs,15,2020,,,,,4,2,2,1,0,0,56.2,0
+402,Easton Stick,Los Angeles Chargers,1,2020,1,-2,-2,0,4,1,4,1,0,0,83.3,0
+403,Joshua Dobbs,Pittsburgh Steelers,1,2020,2,20,10,0,2,5,0.4,4,0,0,79.2,0
+404,Keenan Allen,Los Angeles Chargers,14,2020,1,-1,-1,0,0,1,0,0,0,0,39.6,0
+405,Tim Boyle,Green Bay Packers,8,2020,13,-9,-0.7,0,0,0,0,0,0,0,0,1
+406,Riley Dixon,New York Giants,16,2020,1,0,0,0,0,1,0,0,0,0,39.6,0
+407,Chris Jones,Kansas City Chiefs,15,2020,,,2,,0,1,0,0,0,0,39.6,0
+408,CeeDee Lamb,Dallas Cowboys,16,2020,10,82,8.2,1,0,0,0,0,0,0,0,1
+409,Zach Pascal,Indianapolis Colts,16,2020,,,,,0,1,0,0,0,0,39.6,0
+410,Mitch Wishnowsky,San Francisco 49ers,16,2020,-,-,-,-,0,0,0,0,0,0,0,0

@@ -302,3 +302,26 @@ def name_trend_stats(df, name = ''):
 
     return([first_year, max_count, year_max])
 
+def plot_features_over_time(df, features):
+    df['Year'] = df['Year'].astype(int)
+
+    df_grouped_med = df.groupby('Year')[features].median()
+    df_grouped_max = df.groupby('Year')[features].max()
+    df_grouped_mean = df.groupby('Year')[features].mean() 
+
+    plt.figure(figsize=(10, 6))
+    
+    plt.plot(df_grouped_med.index, df_grouped_med[features], label=features)
+    plt.plot(df_grouped_mean.index, df_grouped_mean[features], label=features)
+    plt.plot(df_grouped_max.index, df_grouped_max[features], label=features)
+    
+    plt.title("")
+    plt.xlabel("Season")
+    plt.ylabel("Value")
+    plt.legend(['Median','Mean','Max'])
+    plt.grid(True)
+
+    plt.xlim(df_grouped_med.index.min(), df_grouped_med.index.max())
+    plt.xticks(df_grouped_med.index.unique())
+    
+    plt.show()

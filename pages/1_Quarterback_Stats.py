@@ -14,20 +14,46 @@ st.set_page_config(page_title="Quarterback Stats")
 
 @st.cache_data
 def load_qb_data():
-    qb_file = 'https://github.com/chale15/NFL_Data/blob/f8b21ec34657411944467c0f4ddc058518e76d46/qb_data.csv'
-    df = pd.read_csv(qb_file)
-    return df
-
-def get_name():
-    val = get_random_name(data)
+    data = pd.read_csv('qb_data.csv', index_col=0)
+    data = data[data['YDS'] > 10]
+    data = data[data['ATT'] > 3]
+    data['CMPP'] = data['CMP']/data['ATT']
+    data = data.fillna(0)
+    return data
 
 data = load_qb_data()
 
+stats = {'Passing Yards':'YDS', 'Passing Attempts':'ATT', 'Yards per Attempt':'YPA','Completion Percentage':'CMPP', 'Passing Touchdowns':'TDs','Interceptions':'INTs', 'Quarterback Rating':'QBR', 'Sacks':'SCK','Rushing Attempts':'ATT(R)','Rushing Yards':'YDS(R)', 'Yards per Carry':'YPC', 'Rushing Touchdowns':'TDs(R)'}
 
 st.markdown("# Quarterback Stats")
 st.sidebar.header("Quarterback Stats")
 st.markdown('*Explore league trends, stat leaders, and player comparisons for NFL quarterbacks!*')
 st.write('')
+
+tab1, tab2, tab3 = st.tabs(['League Trends', 'Stat Leaders', 'Player Comparisons'])
+with tab1:
+    stat = st.selectbox('Choose a stat', 
+                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
+    with st.sidebar:
+        st.write('Showing {stat} trends over time')
+
+    chart_placeholder = st.empty()
+
+    stat2 = stats[stat]
+
+    fig = plot_features_over_time(data, [stat2])
+
+    with chart_placeholder.container():
+        st.markdown('*{stat} Over Time (Quarterback)*')
+        st.plotly_chart(fig)
+
+
+#with tab2:
+    
+
+
+#with tab3:
+    
 
 #if 'input_name' not in st.session_state:
     #st.session_state.input_name = ""
