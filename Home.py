@@ -12,33 +12,6 @@ import streamlit as st
 
 st.set_page_config(page_title="Home")
 
-@st.cache_data
-def load_name_data():
-    names_file = 'https://www.ssa.gov/oact/babynames/names.zip'
-    response = requests.get(names_file)
-    with zipfile.ZipFile(BytesIO(response.content)) as z:
-        dfs = []
-        files = [file for file in z.namelist() if file.endswith('.txt')]
-        for file in files:
-            with z.open(file) as f:
-                df = pd.read_csv(f, header=None)
-                df.columns = ['name','sex','count']
-                df['year'] = int(file[3:7])
-                dfs.append(df)
-        data = pd.concat(dfs, ignore_index=True)
-    data['pct'] = data['count'] / data.groupby(['year', 'sex'])['count'].transform('sum')
-    return data
-
-@st.cache_data
-def ohw(df):
-    nunique_year = df.groupby(['name', 'sex'])['year'].nunique()
-    one_hit_wonders = nunique_year[nunique_year == 1].index
-    one_hit_wonder_data = df.set_index(['name', 'sex']).loc[one_hit_wonders].reset_index()
-    return one_hit_wonder_data
-
-data = load_name_data()
-ohw_data = ohw(data)
-
 
 st.title('NFL Player Statistics App')
 
@@ -58,7 +31,7 @@ with tab1:
         #st.write('Hovering over the plot will display more detailed information, and stats such as the name\'s first usage, peak popularity, and highest rank are displayed below the plot')
     with col12:
         st.text('')
-        st.image('img/names_over_time.png')
+        #st.image('img/names_over_time.png')
 
 with tab2:
     col21, col22 = st.columns([1,1])
@@ -68,7 +41,7 @@ with tab2:
         #st.write('Hovering over the plot will display more detailed information, and the number of unique names given that year for males and females are displayed below the plot')
     with col22:
         st.text('')
-        st.image('img/top_by_year.png')
+        #st.image('img/top_by_year.png')
 
 
 with tab3:
@@ -79,7 +52,7 @@ with tab3:
         #st.write('Hovering over the plot will display more detailed information, such as the name, year, and number of babies born with that name.')
     with col32:
         st.text('')
-        st.image('img/name_comp.png')
+        #st.image('img/name_comp.png')
 
 
 
