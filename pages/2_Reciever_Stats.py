@@ -68,7 +68,7 @@ with tab2:
         if year:
             fig2 = plot_wr_leaders(data, stat3, year, n_names)
             with chart_placeholder2.container():
-                st.plotly_chart(fig2)
+                st.plotly_chart(fig2, use_container_width = True)
 
     
 
