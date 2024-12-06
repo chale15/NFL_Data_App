@@ -36,7 +36,7 @@ with tab1:
                         ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
     with st.sidebar:
         if stat:
-            st.write(f'Showing {stat} trends over time')
+            st.write(f'Showing {stat} trends')
 
     chart_placeholder = st.empty()
 
@@ -46,7 +46,7 @@ with tab1:
 
     with chart_placeholder.container():
         if stat:
-            st.markdown(f'*{stat} Over Time (Quarterback)*')
+            st.markdown(f'## {stat} Over Time (Quarterback)')
             st.pyplot(fig)
 
 
