@@ -46,7 +46,7 @@ with tab1:
 
     with chart_placeholder.container():
         if stat:
-            st.markdown(f"<h1 style='text-align: center; color: blue;'>{stat} over Time</h1>", unsafe_allow_html=True)
+            st.markdown(f"<h1 style='text-align: center;'>{stat} over Time</h1>", unsafe_allow_html=True)
             st.pyplot(fig)
 
 
