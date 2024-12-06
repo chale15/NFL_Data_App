@@ -55,7 +55,7 @@ with tab2:
         stat3 = st.selectbox('Choose a stat:', 
                             ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
     
-        year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
+        year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi', value = '2024')
 
         n_names = st.number_input('Number of Players to Display', value = 10)
 
@@ -65,8 +65,7 @@ with tab2:
     fig2 = plot_qb_leaders(data, stat4, year, n_names)
 
     with chart_placeholder2.container():
-        if year:
-            st.plotly_chart(fig2)
+        st.plotly_chart(fig2)
     
 
 
