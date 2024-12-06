@@ -48,6 +48,8 @@ with tab1:
         if fig:
             st.markdown(f"<h1 style='text-align: center;'>{stat} over Time</h1>", unsafe_allow_html=True)
             st.pyplot(fig)
+        else: 
+            st.write('')
 
 
 with tab2:
@@ -71,6 +73,8 @@ with tab2:
     with chart_placeholder2.container():
         if fig2:
             st.plotly_chart(fig2)
+        else: 
+            st.write('')
     
 
 
