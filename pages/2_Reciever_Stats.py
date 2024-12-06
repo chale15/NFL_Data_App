@@ -60,6 +60,8 @@ with tab2:
                             index= None, placeholder = 'Choose an Option', key = 'sdafjkk')
     
         year10 = st.pills('Select Season(s):',['2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
+        for i in range(len(year10)):
+            year10[i] = int(year10[i])
 
         n_names10 = st.number_input('Number of Players to Display', value = 10, key = 'lsdkfjslkdjf')
 

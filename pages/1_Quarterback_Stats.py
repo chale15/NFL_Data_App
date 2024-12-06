@@ -60,6 +60,8 @@ with tab2:
                             placeholder = 'Choose an Option', index=None)
     
         year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi', key = 'slkdfj')
+        for i in range(len(year)):
+            year[i] = int(year[i])
 
         n_names = st.number_input('Number of Players to Display', value = 10)
 
@@ -88,6 +90,8 @@ with tab3:
                             placeholder = 'Choose an Option', index=None)
     
         year2 = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
+        for i in range(len(year2)):
+            year2[i] = int(year2[i])
 
     chart_placeholder3 = st.empty()
 
