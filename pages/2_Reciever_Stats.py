@@ -99,7 +99,7 @@ with tab3:
                 if player4:
                     fig3 = plot_wr_comp(data, stat5,year2, [player3,player4])
                     with chart_placeholder6.container():
-                        st.plotly_chart(fig3)
+                        st.plotly_chart(plot_wr_comp(data, stat5,year2, [player3,player4]))
 
 
 
