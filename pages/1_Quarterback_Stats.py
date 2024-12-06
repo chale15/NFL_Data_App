@@ -37,7 +37,8 @@ with tab1:
     with st.sidebar:
         st.subheader('League Trends', divider = 'blue')
         stat = st.selectbox('Choose a stat', 
-                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
+                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'),
+                        placeholder = 'Choose an Option')
 
     stat2 = stats[stat]   
 
@@ -53,7 +54,8 @@ with tab2:
     with st.sidebar:
         st.subheader('Stat Leaders', divider = 'blue')
         stat3 = st.selectbox('Choose a stat:', 
-                            ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
+                            ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'),
+                            placeholder = 'Choose an Option')
     
         year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
 
@@ -70,7 +72,20 @@ with tab2:
     
 
 
-#with tab3:
+with tab3:
+    with st.sidebar:
+        st.subheader('Player Comparisons', divider = 'blue')
+
+        player_names = data['QB'].unique()
+        
+        player1 = st.selectbox('First Player to Compare:', player_names, placeholder = 'Choose a Player')
+        player2 = st.selectbox('Second Player to Compare:', player_names, placeholder = 'Choose a Player')
+
+        stat3 = st.selectbox('Stat to Compare:', 
+                            ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'),
+                            placeholder = 'Choose an Option')
+    
+        year = st.pills('Select Season(s):',['2020','2021','2022','2023','2024'], selection_mode='multi')
     
 
 #if 'input_name' not in st.session_state:
