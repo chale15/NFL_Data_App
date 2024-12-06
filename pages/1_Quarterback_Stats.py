@@ -26,18 +26,20 @@ data = load_qb_data()
 stats = {'Passing Yards':'YDS', 'Passing Attempts':'ATT', 'Yards per Attempt':'YPA','Completion Percentage':'CMPP', 'Passing Touchdowns':'TDs','Interceptions':'INTs', 'Quarterback Rating':'QBR', 'Sacks':'SCK','Rushing Attempts':'ATT(R)','Rushing Yards':'YDS(R)', 'Yards per Carry':'YPC', 'Rushing Touchdowns':'TDs(R)'}
 
 st.markdown("# Quarterback Stats")
-st.sidebar.header("Quarterback Stats")
 st.markdown('*Explore league trends, stat leaders, and player comparisons for NFL quarterbacks!*')
 st.write('')
 
 tab1, tab2, tab3 = st.tabs(['League Trends', 'Stat Leaders', 'Player Comparisons'])
 with tab1:
-    stat = st.selectbox('Choose a stat', 
-                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
-
     chart_placeholder = st.empty()
 
-    stat2 = stats[stat]
+    
+    with st.sidebar:
+        st.subheader('League Trends', divider = 'blue')
+        stat = st.selectbox('Choose a stat', 
+                        ('Passing Yards', 'Passing Attempts', 'Yards per Attempt','Completion Percentage', 'Passing Touchdowns','Interceptions', 'Quarterback Rating', 'Sacks','Rushing Attempts','Rushing Yards', 'Yards per Carry', 'Rushing Touchdowns'))
+
+    stat2 = stats[stat]   
 
     fig = plot_features_over_time(data, [stat2])
 
@@ -61,8 +63,7 @@ with tab2:
     fig2 = plot_qb_leaders(data, stat4, year, n_names)
 
     with chart_placeholder2.container():
-        if stat3:
-            st.markdown(f"<h1 style='text-align: center;'>{stat4} Leaders</h1>", unsafe_allow_html=True)
+        if year:
             st.plotly_chart(fig2)
     
 
